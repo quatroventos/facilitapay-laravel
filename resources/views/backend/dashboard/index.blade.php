@@ -1,0 +1,563 @@
+@extends('backend.layouts.app')
+
+@section('content')
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Navbar -->
+    <nav class="navbar navbar-main navbar-expand-lg  px-0 mx-4 shadow-none border-radius-xl z-index-sticky " id="navbarBlur"
+        data-scroll="false">
+        <div class="container-fluid py-1 px-3">
+            @include('backend.layouts.navbars.auth.topnav', ['title' => 'Default'])
+            <div class="sidenav-toggler sidenav-toggler-inner d-xl-block d-none ">
+                <a href="javascript:;" class="nav-link p-0">
+                    <div class="sidenav-toggler-inner">
+
+                    </div>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">
+                <div class="ms-md-auto pe-md-3 d-flex align-items-center">
+{{--                    <div class="input-group">--}}
+{{--                        <span class="input-group-text text-body"><i class="fas fa-search" aria-hidden="true"></i></span>--}}
+{{--                        <input type="text" class="form-control" placeholder="Type here...">--}}
+{{--                    </div>--}}
+                </div>
+                <ul class="navbar-nav  justify-content-end">
+                    <li class="nav-item d-flex align-items-center">
+                        @include('backend.auth.logout')
+                    </li>
+                    <li class="nav-item d-xl-none ps-3 d-flex align-items-center">
+                        <a href="javascript:;" class="nav-link text-white p-0" id="iconNavbarSidenav">
+                            <div class="sidenav-toggler-inner">
+                                <i class="sidenav-toggler-line bg-white"></i>
+                                <i class="sidenav-toggler-line bg-white"></i>
+                                <i class="sidenav-toggler-line bg-white"></i>
+                            </div>
+                        </a>
+                    </li>
+                    <li class="nav-item px-3 d-flex align-items-center">
+                        <a href="javascript:;" class="nav-link text-white p-0">
+                            <i class="fa fa-cog fixed-plugin-button-nav cursor-pointer"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item position-relative pe-2 d-flex align-items-center">
+                        <a href="javascript:;" class="nav-link text-white p-0" id="dropdownMenuButton"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fa fa-bell cursor-pointer"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end px-2 py-3 me-sm-n4" aria-labelledby="dropdownMenuButton">
+                            <li class="mb-2">
+                                <a class="dropdown-item border-radius-md" href="javascript:;">
+                                    <div class="d-flex py-1">
+                                        <div class="my-auto">
+                                            <img src="../../assets/img/team-2.jpg" class="avatar avatar-sm  me-3 "
+                                                alt="user image">
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="text-sm font-weight-normal mb-1">
+                                                <span class="font-weight-bold">New message</span> from Laur
+                                            </h6>
+                                            <p class="text-xs text-secondary mb-0">
+                                                <i class="fa fa-clock me-1"></i>
+                                                13 minutes ago
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="mb-2">
+                                <a class="dropdown-item border-radius-md" href="javascript:;">
+                                    <div class="d-flex py-1">
+                                        <div class="my-auto">
+                                            <img src="../../assets/img/small-logos/logo-spotify.svg"
+                                                class="avatar avatar-sm bg-gradient-dark  me-3 " alt="logo spotify">
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="text-sm font-weight-normal mb-1">
+                                                <span class="font-weight-bold">New album</span> by Travis Scott
+                                            </h6>
+                                            <p class="text-xs text-secondary mb-0">
+                                                <i class="fa fa-clock me-1"></i>
+                                                1 day
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item border-radius-md" href="javascript:;">
+                                    <div class="d-flex py-1">
+                                        <div class="avatar avatar-sm bg-gradient-secondary  me-3  my-auto">
+                                            <svg width="12px" height="12px" viewBox="0 0 43 36" version="1.1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <title>credit-card</title>
+                                                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <g transform="translate(-2169.000000, -745.000000)" fill="#FFFFFF"
+                                                        fill-rule="nonzero">
+                                                        <g transform="translate(1716.000000, 291.000000)">
+                                                            <g transform="translate(453.000000, 454.000000)">
+                                                                <path class="color-background"
+                                                                    d="M43,10.7482083 L43,3.58333333 C43,1.60354167 41.3964583,0 39.4166667,0 L3.58333333,0 C1.60354167,0 0,1.60354167 0,3.58333333 L0,10.7482083 L43,10.7482083 Z"
+                                                                    opacity="0.593633743"></path>
+                                                                <path class="color-background"
+                                                                    d="M0,16.125 L0,32.25 C0,34.2297917 1.60354167,35.8333333 3.58333333,35.8333333 L39.4166667,35.8333333 C41.3964583,35.8333333 43,34.2297917 43,32.25 L43,16.125 L0,16.125 Z M19.7083333,26.875 L7.16666667,26.875 L7.16666667,23.2916667 L19.7083333,23.2916667 L19.7083333,26.875 Z M35.8333333,26.875 L28.6666667,26.875 L28.6666667,23.2916667 L35.8333333,23.2916667 L35.8333333,26.875 Z">
+                                                                </path>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="text-sm font-weight-normal mb-1">
+                                                Payment successfully completed
+                                            </h6>
+                                            <p class="text-xs text-secondary mb-0">
+                                                <i class="fa fa-clock me-1"></i>
+                                                2 days
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End Navbar -->
+    <div class="container-fluid py-4">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="card  mb-4">
+                            <div class="card-body p-3">
+                                <div class="row">
+                                    <div class="col-8">
+                                        <div class="numbers">
+                                            <p class="text-sm mb-0 text-uppercase font-weight-bold">Visitantes únicos</p>
+                                            <h5 class="font-weight-bolder">
+                                                {{$analyticsTotals['ga:users']}}
+                                            </h5>
+                                            <p class="mb-0">
+                                                {!! percentDiff($analyticsTotals['ga:users'],$analyticsLastMonth['ga:users']) !!}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <div
+                                            class="icon icon-shape bg-gradient-primary shadow-primary text-center rounded-circle">
+                                            <i class="ni ni-circle-08 text-lg opacity-10" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="card  mb-4">
+                            <div class="card-body p-3">
+                                <div class="row">
+                                    <div class="col-8">
+                                        <div class="numbers">
+                                                <p class="text-sm mb-0 text-uppercase font-weight-bold">Novos visitantes</p>
+                                            <h5 class="font-weight-bolder">
+                                                {{$analyticsTotals['ga:newUsers']}}
+                                            </h5>
+                                            <p class="mb-0">
+                                                {!! percentDiff($analyticsTotals['ga:newUsers'],$analyticsLastMonth['ga:newUsers']) !!}
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <div
+                                            class="icon icon-shape bg-gradient-danger shadow-danger text-center rounded-circle">
+                                            <i class="ni ni-satisfied text-lg opacity-10" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="card  mb-4">
+                            <div class="card-body p-3">
+                                <div class="row">
+                                    <div class="col-8">
+                                        <div class="numbers">
+                                            <p class="text-sm mb-0 text-uppercase font-weight-bold">Tempo médio no site</p>
+                                            <h5 class="font-weight-bolder">
+                                                {{$avgTime}}
+                                            </h5>
+                                            <p class="mb-0">
+                                                {!! percentDiff($analyticsTotals['ga:avgSessionDuration'], $analyticsLastMonth['ga:avgSessionDuration']) !!}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <div
+                                            class="icon icon-shape bg-gradient-success shadow-success text-center rounded-circle">
+                                            <i class="ni ni-watch-time text-lg opacity-10" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="card  mb-4">
+                            <div class="card-body p-3">
+                                <div class="row">
+                                    <div class="col-8">
+                                        <div class="numbers">
+                                            <p class="text-sm mb-0 text-uppercase font-weight-bold">Taxa de rejeição</p>
+                                            <h5 class="font-weight-bolder">
+                                                {{number_format($analyticsTotals['ga:bounceRate'],2)}} %
+                                            </h5>
+                                            <p class="mb-0">
+                                                {!! bouceDiff($analyticsTotals['ga:bounceRate'],$analyticsLastMonth['ga:bounceRate']) !!}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <div
+                                            class="icon icon-shape bg-gradient-warning shadow-warning text-center rounded-circle">
+                                            <i class="ni ni-user-run text-lg opacity-10" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mb-4 mb-lg-0">
+                <div class="card z-index-2 h-100">
+                    <div class="card-header pb-0 pt-3 bg-transparent">
+                        <h6 class="text-capitalize">Visitantes únicos</h6>
+                    </div>
+                    <div class="card-body p-3">
+                        <div class="chart">
+                            <canvas id="chart-line" class="chart-canvas" height="300"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card  mb-4">
+                    <div class="card-body p-3">
+                        <div class="row">
+                            <div class="col-8">
+                                <div class="numbers">
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Tempo de carregamento médio</p>
+                                    <h3 class="font-weight-bolder">
+                                        {{number_format($analyticsTotals['ga:avgDomContentLoadedTime'],2)}} s
+                                    </h3>
+                                    <p class="mb-0">
+                                        {!! bouceDiff($analyticsTotals['ga:avgDomContentLoadedTime'],$analyticsLastMonth['ga:avgDomContentLoadedTime']) !!}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-4 text-end">
+                                <div
+                                    class="icon icon-shape bg-gradient-secondary shadow-secondary text-center rounded-circle">
+                                    <i class="fa-solid fa-gauge text-lg opacity-10" aria-hidden="true"></i>
+{{--                                    <i class="ni ni-satisfied text-lg opacity-10" aria-hidden="true"></i>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card  mb-4">
+                    <div class="card-body p-3">
+                        <div class="row">
+                            <div class="col-8">
+                                <div class="numbers">
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Tempo de conexão ao servidor</p>
+                                    <h3 class="font-weight-bolder">
+                                        {{number_format($analyticsTotals['ga:avgServerConnectionTime'], 4)}} s
+                                    </h3>
+                                    <p class="mb-0">
+                                        {!! bouceDiff($analyticsTotals['ga:avgServerConnectionTime'],$analyticsLastMonth['ga:avgServerConnectionTime']) !!}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-4 text-end">
+                                <div
+                                    class="icon icon-shape bg-gradient-info shadow-info text-center rounded-circle">
+                                    <i class="ni ni-cloud-upload-96 text-lg opacity-10"></i>
+                                    {{--                                    <i class="ni ni-satisfied text-lg opacity-10" aria-hidden="true"></i>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card  ">
+                    <div class="card-body p-3">
+                        <div class="row">
+                            <div class="col-8">
+                                <div class="numbers">
+                                    <p class="text-sm mb-0 text-uppercase font-weight-bold">Tempo de resposta do servidor</p>
+                                    <h3 class="font-weight-bolder">
+                                        {{number_format($analyticsTotals['ga:avgServerResponseTime'],4)}} s
+                                    </h3>
+                                    <p class="mb-0">
+                                        {!! bouceDiff($analyticsTotals['ga:avgServerResponseTime'],$analyticsLastMonth['ga:avgServerResponseTime']) !!}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-4 text-end">
+                                <div
+                                    class="icon icon-shape bg-gradient-success shadow-success text-center rounded-circle">
+                                    <i class="ni ni-cloud-download-95 text-lg opacity-10" aria-hidden="true"></i>
+                                    {{--                                    <i class="ni ni-satisfied text-lg opacity-10" aria-hidden="true"></i>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="card h-100 ">
+                    <div class="card-header">
+                        <h5 class="mb-0 text-capitalize">Top 5 Páginas mais acessadas</h5>
+                    </div>
+                    <div class="card-body pt-0">
+                        <ul class="list-group list-group-flush">
+                            @foreach($mostVisitedPages as $page)
+                            <li class="list-group-item px-0">
+                                <div class="row align-items-center">
+                                    <div class="col-md-9">
+                                        <small class="mb-0">
+                                            <a target="_blank" href="{{$page['url']}}">{{$page['pageTitle']}}</a>
+                                        </small>
+                                    </div>
+                                    <div class="col">
+                                        <h3 class="mb-0">
+                                            {{$page['pageViews']}}
+                                        </h3>
+                                    </div>
+                                </div>
+                            </li>
+                            @endforeach
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="card h-100 ">
+                    <div class="card z-index-2 h-100">
+                        <div class="card-header pb-0 pt-3 bg-transparent">
+                            <h5 class="mb-0 text-capitalize">Top 5 canais</h5>
+                        </div>
+                        <div class="card-body p-3">
+                            <div class="chart">
+                                <canvas id="doughnut-chart" class="chart-canvas" height="300"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card h-100 ">
+                    <div class="card-header">
+                        <h5 class="mb-0 text-capitalize">Aquisição</h5>
+                    </div>
+                    <div class="card-body pt-0">
+                        <ul class="list-group list-group-flush list">
+                            @foreach($refsCombined as $ref=>$users)
+                                <li class="list-group-item px-0">
+                                    <div class="row align-items-center">
+                                        <div class="col-auto">
+                                            <a href="javascript:;" class="avatar rounded-circle">
+                                                <img alt="{{$ref}}" src="https://api.faviconkit.com/{{(str_ends_with($ref, '.com') ? $ref : $ref.'.com')}}/144">
+                                            </a>
+                                        </div>
+                                        <div class="col">
+                                            <h6>{{$ref}} ({{$users}})</h6>
+                                            <div class="progress progress-xs mb-0">
+                                                <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="{{$users}}"
+                                                     aria-valuemin="0" aria-valuemax="100" style="width: {{$users*4}}%;"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                            @endforeach
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @include('backend.layouts.footers.auth.footer')
+    </div>
+@endsection
+
+@push('js')
+    <script src="../../assets/js/plugins/chartjs.min.js"></script>
+    <script>
+        var ctx1 = document.getElementById("chart-line").getContext("2d");
+
+        var gradientStroke1 = ctx1.createLinearGradient(0, 230, 0, 50);
+
+        gradientStroke1.addColorStop(1, 'rgba(251, 99, 64, 0.2)');
+        gradientStroke1.addColorStop(0.2, 'rgba(251, 99, 64, 0.0)');
+        gradientStroke1.addColorStop(0, 'rgba(251, 99, 64, 0)');
+        new Chart(ctx1, {
+            type: "line",
+            data: {
+                labels: [{!! $dates !!}],
+                datasets: [{
+                    label: "Visitantes",
+                    tension: 0.2,
+                    borderWidth: 1,
+                    pointRadius: 1,
+                    borderColor: "#C20220",
+                    backgroundColor: gradientStroke1,
+                    borderWidth: 1,
+                    fill: true,
+                    data: [{{$visitors}}],
+                    maxBarThickness: 6
+
+                }, {
+                    label: "Período Anterior",
+                    tension: 0.2,
+                    borderWidth: 1,
+                    pointRadius: 1,
+                    borderColor: "rgba(32,136,180,0.49)",
+                    backgroundColor: gradientStroke1,
+                    borderWidth: 1,
+                    borderDash: [5, 5],
+                    fill: false,
+                    data: [{{$visitorsLastMonth}}],
+                    maxBarThickness: 6
+
+                }],
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    }
+                },
+                interaction: {
+                    intersect: false,
+                    mode: 'index',
+                },
+                scales: {
+                    y: {
+                        grid: {
+                            drawBorder: false,
+                            display: true,
+                            drawOnChartArea: true,
+                            drawTicks: false,
+                            borderDash: [5, 5]
+                        },
+                        ticks: {
+                            display: true,
+                            padding: 10,
+                            color: '#fbfbfb',
+                            font: {
+                                size: 11,
+                                family: "Open Sans",
+                                style: 'normal',
+                                lineHeight: 2
+                            },
+                        }
+                    },
+                    x: {
+                        grid: {
+                            drawBorder: false,
+                            display: false,
+                            drawOnChartArea: false,
+                            drawTicks: false,
+                            borderDash: [5, 5]
+                        },
+                        ticks: {
+                            display: true,
+                            color: '#ccc',
+                            padding: 20,
+                            font: {
+                                size: 11,
+                                family: "Open Sans",
+                                style: 'normal',
+                                lineHeight: 2
+                            },
+                        }
+                    },
+                },
+            },
+        });
+
+        // Doughnut chart
+        var ctx3 = document.getElementById("doughnut-chart").getContext("2d");
+
+        new Chart(ctx3, {
+            type: "doughnut",
+            data: {
+                labels: [{!! $sources !!}],
+                datasets: [{
+                    label: "Projects",
+                    weight: 9,
+                    cutout: 60,
+                    tension: 0.9,
+                    pointRadius: 2,
+                    borderWidth: 2,
+                    backgroundColor: [ '#11cdef', '#2dce89', '#f5365c', '#C20220'],
+                    data: [{!! $sourcesUsers !!}],
+                    fill: false
+                }],
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false,
+                    }
+                },
+                interaction: {
+                    intersect: false,
+                    mode: 'index',
+                },
+                scales: {
+                    y: {
+                        grid: {
+                            drawBorder: false,
+                            display: false,
+                            drawOnChartArea: false,
+                            drawTicks: false,
+                        },
+                        ticks: {
+                            display: false
+                        }
+                    },
+                    x: {
+                        grid: {
+                            drawBorder: false,
+                            display: false,
+                            drawOnChartArea: false,
+                            drawTicks: false,
+                        },
+                        ticks: {
+                            display: false,
+                        }
+                    },
+                },
+            },
+        });
+    </script>
+@endpush
