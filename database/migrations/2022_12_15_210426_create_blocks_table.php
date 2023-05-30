@@ -21,7 +21,7 @@ return new class extends Migration
             $table->text('media')->nullable();
             $table->text('activate')->nullable();
             $table->text('type')->nullable();
-            $table->longText('content');
+            $table->binary('content');
 
             $table->timestamps();
         });

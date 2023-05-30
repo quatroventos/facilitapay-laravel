@@ -14,7 +14,7 @@
             </div>
             <div class="row justify-content-center">
               <div class="col-6 col-lg-3">
-                <img src="img/colaborator.png" class="img-fluid">
+                <img src="/static/img/colaborator.png" class="img-fluid">
               </div>
               <div class="col-6 col-lg-5 d-flex flex-column justify-content-center">
                 <div class="d-flex flex-column gap-1">
@@ -75,7 +75,7 @@
             <div class="row justify-content-center">
               <div class="col-12 col-lg-8 flex-column align-items-center d-flex gap-2">
                 <a href="submit-cv.php" class="btn"><strong>Submit your CV</strong></a>
-<!--                <a href="#!" class="d-flex txt-blue"><img src="img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>-->
+<!--                <a href="#!" class="d-flex txt-blue"><img src="/static/img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>-->
               </div>
             </div>
           </div>

@@ -97,7 +97,7 @@
     <div class="container-fluid pb-1 pt-1">
         <div class="row align-items-center justify-content-between">
             <div class="col-5 col-lg-2 d-flex flex-column align-items-start">
-                <a href="index.php"><img src="{{asset('static/img/logo-facilitapay.svg')}}" class="h-4 img-fluid ignoreanimation"></a>
+                <a href="/"><img src="{{asset('static/img/logo-facilitapay.svg')}}" class="h-4 img-fluid ignoreanimation"></a>
             </div>
             <div class="col-7 align-items-center justify-content-center">
                 <div class="menu open-1 responsive d-flex flex-column align-items-center">
@@ -105,61 +105,61 @@
                     <ul class="align-center d-flex flex-row gap-2">
                         <a href="#!" class="toggle toggle-1 d-flex d-lg-none"><span>Toggle menu</span></a>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item">Solutions</a>
+                            <a href="#!" class="drop-item">{{trans('navigation.solutions')}}</a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="payins">Payins</a>
+                                        <a href="payins">{{trans('navigation.payins')}}</a>
                                     </li>
                                     <li>
-                                        <a href="payouts">Payouts</a>
+                                        <a href="payouts">{{trans('navigation.payouts')}}</a>
                                     </li>
                                     <li>
-                                        <a href="pix-global">PIX Global</a>
+                                        <a href="pix-global">{{trans('navigation.pix_global')}}</a>
                                     </li>
                                     <li>
-                                        <a href="payment-methods">Payment Methods</a>
+                                        <a href="payment-methods">{{trans('navigation.payment_methods')}}</a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item">Markets</a>
+                            <a href="#!" class="drop-item">{{trans('navigation.markets')}}</a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="industries" class="justify-center d-inline-flex gap-1"><img src="img/ico-industries.svg" class="h-1"> <span class="d-inline-flex align-items-center">Industries</span></a>
+                                        <a href="industries" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-industries.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">{{trans('navigation.industries')}}</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-brazil" class="justify-center d-inline-flex gap-1"><img src="img/ico-brazil.svg" class="h-1"> <span class="d-inline-flex align-items-center">Brazil</span></a>
+                                        <a href="markets-brazil" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-brazil.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">{{trans('navigation.brazil')}}</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-colombia" class="justify-center d-inline-flex gap-1"><img src="img/ico-colombia.svg" class="h-1"> <span class="d-inline-flex align-items-center">Colombia</span></a>
+                                        <a href="markets-colombia" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-colombia.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">Colombia</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-mexico" class="justify-center d-inline-flex gap-1"><img src="img/ico-mexico.svg" class="h-1"> <span class="d-inline-flex align-items-center">Mexico</span></a>
+                                        <a href="markets-mexico" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-mexico.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">Mexico</span></a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li class="new">
-                            <a href="blockchain">Blockchain</a>
+                            <a href="blockchain">{{trans('navigation.blockchain')}}</a>
                         </li>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item">Company</a>
+                            <a href="#!" class="drop-item">{{trans('navigation.company')}}</a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="about-us">About us</a>
+                                        <a href="about-us">{{trans('navigation.about_us')}}</a>
                                     </li>
                                     <li>
-                                        <a href="contact">Contact us</a>
+                                        <a href="contact">{{trans('navigation.contact_us')}}</a>
                                     </li>
                                     <!--                                    <li>-->
                                     <!--                                        <a href="blog.php">Blog</a>-->
                                     <!--                                    </li>-->
                                     <li>
-                                        <a href="careers">Careers</a>
+                                        <a href="careers">{{trans('navigation.careers')}}</a>
                                     </li>
                                 </ul>
                             </div>
@@ -173,7 +173,7 @@
                         <a href="optin" target="_blank" class="btn d-inline-flex"><strong>Get in touch</strong></a>
                     </li>
                     <li>
-                        <a href="https://portal.facilitapay.com/" target="_blank" class="btn btn-7 d-inline-flex login"><strong class="d-none d-sm-flex">Login</strong><img src="img/ico-user.svg" class="h-1 d-flex d-sm-none"></a>
+                        <a href="https://portal.facilitapay.com/" target="_blank" class="btn btn-7 d-inline-flex login"><strong class="d-none d-sm-flex">Login</strong><img src="{{asset('static/img/ico-user.svg')}}" class="h-1 d-flex d-sm-none"></a>
                     </li>
                 </ul>
             </div>
@@ -190,7 +190,7 @@
         <div class="row align-items-center">
             <div class="col-7 col-lg-2">
                 <a href="index">
-                    <img src="img/logo-facilitapay-negative.svg" class="h-4 img-fluid">
+                    <img src="{{asset('static/img/logo-facilitapay-negative.svg')}}" class="h-4 img-fluid">
                 </a>
             </div>
             <div class="col-5 col-lg-10 d-flex align-items-center">
@@ -199,74 +199,74 @@
                     <ul class="align-center justify-content-end d-flex flex-row column-gap-1 sub">
                         <a href="#!" class="toggle toggle-2 d-flex d-lg-none"><span>Toggle menu</span></a>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item"><strong>Solutions</strong></a>
+                            <a href="#!" class="drop-item"><strong>{{ trans('navigation.solutions') }}</strong></a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="payins"><strong>Payins</strong></a>
+                                        <a href="payins"><strong>{{trans('navigation.payins')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="payouts"><strong>Payouts</strong></a>
+                                        <a href="payouts"><strong>{{trans('navigation.payouts')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="pix-global"><strong>PIX Global</strong></a>
+                                        <a href="pix-global"><strong>{{trans('navigation.pix_global')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="payment-methods"><strong>Payment Methods </strong></a>
+                                        <a href="payment-methods"><strong>{{trans('navigation.payment_methods')}}</strong></a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item"><strong>Markets</strong></a>
+                            <a href="#!" class="drop-item"><strong>{{trans('navigation.markets')}}</strong></a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="industries" class="justify-center d-inline-flex gap-1"><img src="img/ico-industries.svg" class="h-1"> <span class="d-inline-flex align-items-center">Industries</span></a>
+                                        <a href="industries" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-industries.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">{{trans('navigation.industries')}}</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-brazil" class="justify-center d-inline-flex gap-1"><img src="img/ico-brazil.svg" class="h-1"> <span class="d-inline-flex align-items-center">Brazil</span></a>
+                                        <a href="markets-brazil" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-brazil.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">{{trans('navigation.brazil')}}</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-colombia" class="justify-center d-inline-flex gap-1"><img src="img/ico-colombia.svg" class="h-1"> <span class="d-inline-flex align-items-center">Colombia</span></a>
+                                        <a href="markets-colombia" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-colombia.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">Colombia</span></a>
                                     </li>
                                     <li>
-                                        <a href="markets-mexico" class="justify-center d-inline-flex gap-1"><img src="img/ico-mexico.svg" class="h-1"> <span class="d-inline-flex align-items-center">Mexico</span></a>
+                                        <a href="markets-mexico" class="justify-center d-inline-flex gap-1"><img src="{{asset('static/img/ico-mexico.svg')}}" class="h-1"> <span class="d-inline-flex align-items-center">Mexico</span></a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li class="new">
-                            <a href="blockchain"><strong>Blockchain</strong></a>
+                            <a href="blockchain"><strong>{{trans('navigation.blockchain')}}</strong></a>
                         </li>
                         <li class="dropdown">
-                            <a href="#!" class="drop-item"><strong>Company</strong></a>
+                            <a href="#!" class="drop-item"><strong>{{trans('navigation.company')}}</strong></a>
                             <div class="submenu">
                                 <ul>
                                     <li>
-                                        <a href="about-us"><strong>About us</strong></a>
+                                        <a href="about-us"><strong>{{trans('navigation.about_us')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="contact"><strong>Contact us</strong></a>
+                                        <a href="contact"><strong>{{trans('navigation.contact_us')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="blog"><strong>Blog</strong></a>
+                                        <a href="blog"><strong>{{trans('navigation.blog')}}</strong></a>
                                     </li>
                                     <li>
-                                        <a href="careers"><strong>Careers</strong></a>
+                                        <a href="careers"><strong>{{trans('navigation.careers')}}</strong></a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li class="divider"></li>
                         <li>
-                            <a href="compliance"><strong>Compliance</strong></a>
+                            <a href="compliance"><strong>{{trans('navigation.compliance')}}</strong></a>
                         </li>
                         <li>
-                            <a href="https://forms.gle/ruvJ65yKNyVAgWUbA" target="_blank"><strong>Reporting Channel</strong></a>
+                            <a href="https://forms.gle/ruvJ65yKNyVAgWUbA" target="_blank"><strong>{{trans('navigation.reporting_chanel')}}</strong></a>
                         </li>
                         <li>
-                            <a href="https://sandbox-portal.facilitapay.com/#/docs" target="_blank"><strong>API Docs</strong></a>
+                            <a href="https://sandbox-portal.facilitapay.com/#/docs" target="_blank"><strong>{{trans('navigation.api_docs')}}</strong></a>
                         </li>
                     </ul>
                 </div>
@@ -274,28 +274,28 @@
         </div>
         <div class="row d-flex row-gap-2">
             <div class="col-12 col-md-6 col-lg-3">
-                <img src="img/ico-usa.svg" class="h-2">
+                <img src="{{asset('static/img/ico-usa.svg')}}" class="h-2">
                 <div class="d-flex flex-column gap-1">
                     <h6><strong>FACILITAPAY US LLC</strong></h6>
                     <p class="sub">201 S. Biscayne Blvd, Suite 1200, Miami, FL 33131, United States.</p>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
-                <img src="img/ico-brazil.svg" class="h-2">
+                <img src="{{asset('static/img/ico-brazil.svg')}}" class="h-2">
                 <div class="d-flex flex-column gap-1">
                     <h6 style="text-transform: uppercase;"><strong>Facilita Instituição de Pagamento S/A</strong></h6>
                     <p class="sub">Rua Senador Milton Campos, n. 35 - Vila da Serra CEP 34006-050 - Nova Lima, MG, Brazil.</p>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
-                <img src="img/ico-mexico.svg" class="h-2">
+                <img src="{{asset('static/img/ico-mexico.svg')}}" class="h-2">
                 <div class="d-flex flex-column gap-1">
                     <h6><strong>FPAY INTERNACIONAL, SA</strong></h6>
                     <p class="sub">Boulevard Manuel Ávila Camacho 118, 16 floor Ciudad de México, 11000, México.</p>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-3">
-                <img src="img/ico-colombia.svg" class="h-2">
+                <img src="{{asset('static/img/ico-colombia.svg')}}" class="h-2">
                 <div class="d-flex flex-column gap-1">
                     <h6 style="text-transform: uppercase;"><strong>FPay Colombia S.A.S.</strong></h6>
                     <p class="sub"> Cl. 93a #13 - 24, Piso 5, código postal 110911. Bogotá, D.C., Colombia.</p>
@@ -304,31 +304,44 @@
         </div>
         <div class="row d-flex row-gap-3">
             <div class="col d-flex gap-2 align-items-center">
-                <img src="img/logo-scaleup.png" class="h-3 ignoreanimation">
-                <img src="img/logo-endeavor.png" class="h-3 ignoreanimation">
+                <img src="/static/img/logo-scaleup.png" class="h-3 ignoreanimation">
+                <img src="/static/img/logo-endeavor.png" class="h-3 ignoreanimation">
             </div>
             <div class="col d-flex justify-content-end">
                 <div class="menu">
                     <ul class="align-center d-flex flex-row gap-1">
-                        <!--                        <li class="dropdown language">-->
-                        <!--                            <a href="#!" class="btn"><img src="img/ico-en.svg"></a>-->
-                        <!--                            <ul>-->
-                        <!--                                <li>-->
-                        <!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>EN</strong></a>-->
-                        <!--                                </li>-->
-                        <!--                                <li>-->
-                        <!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>PT</strong></a>-->
-                        <!--                                </li>-->
-                        <!--                                <li>-->
-                        <!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>ES</strong></a>-->
-                        <!--                                </li>-->
-                        <!--                            </ul>-->
-                        <!--                        </li>-->
-                        <li>
-                            <a href="http://instagram.com/facilitapay" target="_blank" class="btn"><img src="img/ico-instagram.svg"></a>
+                        <li class="dropdown language">
+                            @if(LaravelLocalization::getCurrentLocale() == 'pt')
+                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-brazil.svg')}}"></a>
+                            @elseif(LaravelLocalization::getCurrentLocale() == 'es')
+                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-mexico.svg')}}"></a>
+                            @else
+                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-en.svg')}}"></a>
+                            @endif
+
+                            <ul class="submenu">
+                                @if(LaravelLocalization::getCurrentLocale() != 'en')
+                                    <li>
+                                        <a href="{!! LaravelLocalization::getLocalizedURL('en') !!}"><img src="{{asset('static/img/ico-en.svg')}}" class="h-2"> <strong>EN</strong></a>
+                                    </li>
+                                @endif
+                                @if(LaravelLocalization::getCurrentLocale() != 'pt')
+                                <li>
+                                    <a href="{!! LaravelLocalization::getLocalizedURL('pt') !!}"><img src="{{asset('static/img/ico-brazil.svg')}}" class="h-2"> <strong>PT</strong></a>
+                                </li>
+                                @endif
+                                @if(LaravelLocalization::getCurrentLocale() != 'es')
+                                <li>
+                                    <a href="{!! LaravelLocalization::getLocalizedURL('es') !!}"><img src="{{asset('static/img/ico-mexico.svg')}}" class="h-2"> <strong>ES</strong></a>
+                                </li>
+                                @endif
+                            </ul>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com/company/facilitapay/?originalSubdomain=br" target="_blank" class="btn"><img src="img/ico-linkedin.svg"></a>
+                            <a href="http://instagram.com/facilitapay" target="_blank" class="btn"><img src="{{asset('static/img/ico-instagram.svg')}}"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/facilitapay/?originalSubdomain=br" target="_blank" class="btn"><img src="/static/img/ico-linkedin.svg"></a>
                         </li>
                     </ul>
                 </div>

@@ -14,6 +14,9 @@ use App\Http\Controllers\PagesController;
 use App\Http\Controllers\BlocksController;
 use App\Http\Controllers\NewsletterController;
 use App\Http\Controllers\PartnersController;
+use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -25,6 +28,8 @@ use App\Http\Controllers\PartnersController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+
 
 Route::get('/admin', function () {
 	return redirect('/default');
@@ -78,14 +83,14 @@ Route::group(['middleware' => 'auth'], function () {
         Route::post('/partner-delete/{id}', 'destroy')->name('partner-destroy');
     });
 
-
     Route::controller(PagesController::class)->group(function() {
         Route::get('/page-management', 'index')->name('page-management');
         Route::get('/page-management/new', 'create')->name('page-new');
         Route::post('/page-management/new', 'store')->name('page-new.store');
-        Route::get('/page-management/edit/{id}', 'edit')->name('page-edit');
+        Route::get('/page-management/edit/{locale}/{id}', 'edit')->name('page-edit');
         Route::post('/page-management/edit/{id}', 'update')->name('page-edit.update');
         Route::post('/page-delete/{id}', 'destroy')->name('page-destroy');
+        Route::post('/page-translate/{id}', 'storetranslation')->name('page-translate.store');
     });
 
     Route::controller(BlocksController::class)->group(function() {
@@ -164,7 +169,15 @@ Route::group(['middleware' => 'auth'], function () {
 
 }); //auth
 
+
 //home
-Route::get('/', [PagesController::class, 'frontend'])->name('page');
+//Route::get('/', [PagesController::class, 'frontend'])->name('page');
 //páginas
-Route::get('/{slug}', [PagesController::class, 'frontend'])->name('page');
+
+Route::group(['prefix' => LaravelLocalization::setLocale()], function () {
+    Route::get('/', [PagesController::class, 'frontend'])->name('page');
+    Route::get('{slug}', [PagesController::class, 'frontend'])->name('page');
+});
+
+
+

@@ -82,7 +82,7 @@
     <nav class="navbar navbar-main navbar-expand-lg  px-0 mx-4 shadow-none border-radius-xl z-index-sticky " id="navbarBlur"
          data-scroll="false">
         <div class="container-fluid py-1 px-3">
-            @include('backend.layouts.navbars.auth.topnav', ['title' => 'Criar Página'])
+            @include('backend.layouts.navbars.auth.topnav', ['title' => 'Editar Página'])
 
             <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">
                 <div class="ms-md-auto pe-md-3 d-flex align-items-center">
@@ -123,18 +123,33 @@
                 <div class="card card-body mt-4">
                     <h6 class="mb-0">Criar página</h6>
                     <hr class="horizontal dark my-3">
-                    <form method="POST" action="{{ route('page-new.store') }}" enctype="multipart/form-data"
+
+                    <form method="POST" action="{{ route('page-translate.store', $page->id) }}" enctype="multipart/form-data"
                           class="course-form">
                         @csrf
 
-
-                            <label for="name" class="form-label">Título</label>
-                            <div>
-                                <input type="text" class="form-control" id="title" name="title" value="{{ old('title') }}">
-                                @error('title')
+                        <div class="row mt-4">
+                            <div class="col-md-10">
+                                <label for="name" class="form-label">Título</label>
+                                <div>
+                                    <input type="text" class="form-control" id="title" name="title" value="{{ old('title', $page->title) }}">
+                                    @error('title')
+                                    <p class='text-danger text-xs pt-1'> {{ $message }} </p>
+                                    @enderror
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <label for="locale" class="form-label">Idioma</label>
+                                <select class="form-control" name="locale" id="locale">
+                                    <option value="pt" {{ old('locale') == "pt" ? 'selected' : '' }}>Português</option>
+                                    <option value="es" {{ old('locale') == "es" ? 'selected' : '' }}>Espanhol</option>
+{{--                                    <option value="en" {{ old('locale') == "en" ? 'selected' : '' }}>Inglês</option>--}}
+                                </select>
+                                @error('locale')
                                 <p class='text-danger text-xs pt-1'> {{ $message }} </p>
                                 @enderror
                             </div>
+                        </div>
 
 
 
@@ -143,15 +158,15 @@
 
                         <label for="name" class="form-label mt-4">Conteúdo</label>
                         {{--        Page editor--}}
-                            <div class="card" style="overflow: 10px; background: #444444; padding:10px;">
-                                <div class="panel__top">
-                                    <div class="panel__basic-actions"></div>
-                                </div>
-
-                                <div id="gjs"></div>
-
-                                <div id="blocks"></div>
+                        <div class="card" style="overflow: 10px; background: #444444; padding:10px;">
+                            <div class="panel__top">
+                                <div class="panel__basic-actions"></div>
                             </div>
+
+                            <div id="gjs"></div>
+
+                            <div id="blocks"></div>
+                        </div>
 
                         {{--        Page editor--}}
 
@@ -164,14 +179,14 @@
 
                                 <div class="input-group">
                                     <span class="input-group-text" style="padding-right: 0;">{{ env('APP_URL') }}/</span>
-                                    <input type="text" id="meta-url" name="slug" class="form-control" aria-label="" value="{{ old('slug') }}">
+                                    <input type="text" id="meta-url" name="slug" class="form-control" aria-label="" value="{{ old('slug', $page->slug) }}">
                                 </div>
 
                                 <label class="mt-4 form-label" for="installments">Título</label>
-                                <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle') }}"/>
+                                <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle', $page->metatitle) }}"/>
 
                                 <label class="mt-4 form-label" for="metadescription">Descrição</label>
-                                <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription') }}</textarea>
+                                <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription', $page->metadescription) }}</textarea>
                             </div>
                             <div class="col-md-5">
                                 <div class="card card-frame" style="margin-bottom: 10px; background: url('{{asset('/assets/img/seo-preview.webp')}}') no-repeat center center; background-size:cover; height: 300px; padding:70px 10px; margin-top:50px; border:1px solid #CCCCCC; ">
@@ -233,16 +248,16 @@
                 blocks: [
 
                         @foreach($blocks as $block)
-                        {
-                            {{--id: '{{$block->title}}',--}}
-                            label: '{{$block->title}}',
-                            category: '{{$block->category}}',
-                            media: '<img src="{{$block->pictureUrl()}}" style="max-width:100%">',
-                            activate: {{$block->activate}},
-                            content: {
-                                type: '{{$block->type}}',
-                                content: '{!! $block->content !!}',
-                                //style: { padding: '10px' },
+                    {
+                        {{--id: '{{$block->title}}',--}}
+                        label: '{{$block->title}}',
+                        category: '{{$block->category}}',
+                        media: '<img src="{{$block->pictureUrl()}}" style="max-width:100%">',
+                        activate: {{$block->activate}},
+                        content: {
+                            type: '{{$block->type}}',
+                            content: '{!! $block->content !!}',
+                            //style: { padding: '10px' },
                         }
                     },
                     @endforeach
@@ -261,6 +276,14 @@
         editor.on('all', function(e) {
             saveContent(); //your method where you store html content of document in DB using ajax
         })
+
+        //carrega conteudo no editor
+        var cssContent = {!! json_encode($page->css) !!}; // Carrega o conteúdo CSS
+        var htmlContent = {!! json_encode($page->html) !!}; // Carrega o conteúdo HTML
+
+        editor.setComponents(cssContent);
+        editor.setComponents(htmlContent);
+
 
         function saveContent()
         {

@@ -135,18 +135,15 @@
                             <thead class="thead-light">
                                 <tr>
                                     <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                        ID
-                                    </th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
                                         Título
                                     </th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7" width="100">
                                         Data de criação
                                     </th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7" width="100">
                                         Atualizada em
                                     </th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7" width="100">
                                         Ações
                                     </th>
                                 </tr>
@@ -154,21 +151,28 @@
                             <tbody>
                                 @foreach ($pages as $page)
                                     <tr>
-                                        <td class="text-sm font-weight-normal">{{ $page->id }}</td>
                                         <td class="text-sm font-weight-normal">{{ $page->title }}</td>
                                         <td class="text-sm font-weight-normal">{{ $page->createdAt() }}</td>
                                         <td class="text-sm font-weight-normal">{{ $page->modifiedAt() }}</td>
                                         <td class="text-sm">
                                             <span class="d-flex">
                                                 @can('manage-items', auth()->user())
-                                                    <a href="{{ route('page-edit', $page->id) }}" class="me-3" data-bs-toggle="tooltip"
-                                                        data-bs-original-title="Editar página">
-                                                        <i class="fas fa-pen-to-square text-secondary"></i></i>
+                                                    <a href="{{ route('page-edit', ['en', $page->id]) }}" class="me-3" data-bs-toggle="tooltip"
+                                                       data-bs-original-title="Editar página em Inglês">
+                                                        <img width="20" src="{{asset('/static/img/ico-usa.svg')}}">
+                                                    </a>
+                                                    <a href="{{ route('page-edit', ['pt',$page->id]) }}" class="me-3" data-bs-toggle="tooltip"
+                                                       data-bs-original-title="Editar página em Português">
+                                                        <img width="20" src="{{asset('/static/img/ico-brazil.svg')}}">
+                                                    </a>
+                                                    <a href="{{ route('page-edit', ['es',$page->id]) }}" class="me-3" data-bs-toggle="tooltip"
+                                                       data-bs-original-title="Editar página em Espanhol">
+                                                        <img width="20" src="{{asset('/static/img/ico-mexico.svg')}}">
                                                     </a>
                                                     <form action="{{ route('page-destroy', $page->id) }}" method="post">
                                                         @csrf
                                                         <button onclick="confirm('Tem certeza que deseja apagar esta página?') || event.stopImmediatePropagation()"
-                                                            data-bs-toggle="tooltip" data-bs-original-title="Apagar curso"
+                                                            data-bs-toggle="tooltip" data-bs-original-title="Apagar página"
                                                             class="border-0 bg-white">
                                                             <i class="fas fa-trash text-secondary"></i>
                                                         </button>

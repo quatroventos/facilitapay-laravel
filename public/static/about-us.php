@@ -23,7 +23,7 @@
             <div class="row justify-content-center row-gap-3">
               <div class="col-6 col-lg-3 d-flex gap-1">
                 <div class="ico d-flex align-items-center justify-content-center h-5 w-5">
-                  <img src="img/icos/ico-7.svg" class="h-2">
+                  <img src="/static/img/icos/ico-7.svg" class="h-2">
                 </div>
                 <div class="d-flex flex-column justify-content-center">
                   <h5 class="txt-light-green">Over +1000</h5>
@@ -32,7 +32,7 @@
               </div>
               <div class="col-6 col-lg-3 d-flex gap-1">
                 <div class="ico d-flex align-items-center justify-content-center h-5 w-5">
-                  <img src="img/icos/ico-8.svg" class="h-2">
+                  <img src="/static/img/icos/ico-8.svg" class="h-2">
                 </div>
                 <div class="d-flex flex-column justify-content-center">
                   <h5 class="txt-light-green">290+ Companies</h5>
@@ -41,7 +41,7 @@
               </div>
               <div class="col-6 col-lg-3 d-flex gap-1">
                 <div class="ico d-flex align-items-center justify-content-center h-5 w-5">
-                  <img src="img/icos/ico-9.svg" class="h-2">
+                  <img src="/static/img/icos/ico-9.svg" class="h-2">
                 </div>
                 <div class="d-flex flex-column justify-content-center">
                   <h5 class="txt-light-green">TPV</h5>
@@ -50,7 +50,7 @@
               </div>
               <div class="col-6 col-lg-3 d-flex gap-1">
                 <div class="ico d-flex align-items-center justify-content-center h-5 w-5">
-                  <img src="img/icos/ico-10.svg" class="h-2">
+                  <img src="/static/img/icos/ico-10.svg" class="h-2">
                 </div>
                 <div class="d-flex flex-column justify-content-center">
                   <h5 class="txt-light-green">4 Countries</h5>
@@ -73,10 +73,10 @@
                   <p>While FacilitaPay was born in Brazil, we knew that local payment challenges extended well beyond the neighboring countries. Today. our payment coverage includes high-growth, emerging economies in LATAM helping companies based in North America, LatAm, Europe, Africa, and Asia. Our multicultural team is spread between offices in United States, Brazil, Mexico, Colombia and Chile, and we have boots on the ground in every country where we process payments. We are growing rapidly and excited about the future ahead.</p>
                 </div>
               </div>
-              <div class="col-12 col-md-5 col-lg-4" style="background-image: url('img/business-glass-building.jpg');">
+              <div class="col-12 col-md-5 col-lg-4" style="background-image: url('/static/img/business-glass-building.jpg');">
               </div>
               <div class="col-12 col-lg-1 d-flex align-items-end justify-content-end">
-                <img src="img/squares-2.svg">
+                <img src="/static/img/squares-2.svg">
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@
 
         <section class="slider-3 bg-blue">
           <video autoplay muted loop poster="mg/metro.jpg">
-            <source src="img/metro.mp4" type="video/mp4">
+            <source src="/static/img/metro.mp4" type="video/mp4">
           </video>
           <div class="container d-flex flex-column gap-3 pb-4 pt-4">
             <div class="row justify-content-center">
@@ -105,7 +105,7 @@
                     <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
                       <h4 class="txt-flag border-radius-100 me-auto"><strong>2017</strong></h4>
                       <div class="d-flex align-items-center gap-1">
-                        <img src="img/ico-en.svg" class="w-1">
+                        <img src="/static/img/ico-en.svg" class="w-1">
                         <h4><strong>Starting the business</strong></h4>
                       </div>
                       <p>3 partners decided to build a company to disrupt the payment industry in Brazil. Using a small office and with only four colleagues in the team, FacilitaPay goes live.</p>
@@ -143,7 +143,7 @@
                         <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
                             <h4 class="txt-flag border-radius-100 me-auto"><strong>2021</strong></h4>
                             <div class="d-flex align-items-center gap-1">
-                                <img src="img/ico-mexico.svg" class="w-1">
+                                <img src="/static/img/ico-mexico.svg" class="w-1">
                                 <h4><strong>Mexican Operation</strong></h4>
                             </div>
                             <p>After 8 months developing our expansion model and our Mexican operation, we wen't live locally with 10 enterprise clients, using the same APIs to expand to another country. This is just the beginning of our expansion plan.</p>
@@ -190,8 +190,8 @@
             <div class="col-12">
                 <div class="map-container">
 
-                    <img src="img/map-home.jpg" usemap="#map" class="img-fluid d-none d-sm-flex">
-                    <img src="img/map-home-mobile.jpg" class="img-fluid d-flex d-sm-none">
+                    <img src="/static/img/map-home.jpg" usemap="#map" class="img-fluid d-none d-sm-flex">
+                    <img src="/static/img/map-home-mobile.jpg" class="img-fluid d-flex d-sm-none">
 
                     <map name="map" id="tooltipcanvas">
                         <area href="markets-brazil.php" class="ttiptrigger" data-name="brasil" shape="poly" coords="370,431,381,426,385,437,398,437,418,429,434,450,467,462,494,479,471,523,540,527,541,542,470,543,446,568,436,578,441,589,431,608,419,606,409,599,420,577,411,564,396,552,396,535,383,523,377,514,363,505,357,494,341,499,327,493,325,476,340,470,341,443" >
@@ -209,31 +209,31 @@
 
 <div class="ttipcontainer">
     <div class="ttip ignoreanimation" id="brasil">
-        <img width="20" src="img/finance/SVG/ico-pix-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-card-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-boleto-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-ted-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-international-wires-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-crypto-currencies-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-pix-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-card-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-boleto-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg">
         <small>Click to discover all payment methods</small>
     </div>
 
     <div class="ttip ignoreanimation" id="mexico">
-        <img width="20" src="img/finance/SVG/ico-spei-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-card-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-oxxo-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-international-wires-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-crypto-currencies-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-codi-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-spei-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-card-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-oxxo-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-codi-blue.svg">
         <small>Click to discover all payment methods</small>
     </div>
 
     <div class="ttip ignoreanimation" id="colombia">
-        <img width="20" src="img/finance/SVG/ico-pse-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-card-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-money-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-ted-blue.svg">
-        <img width="20" src="img/finance/SVG/ico-crypto-currencies-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-pse-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-card-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-money-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg">
+        <img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg">
         <small>Click to discover all payment methods</small>
     </div>
 

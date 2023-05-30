@@ -58,7 +58,7 @@ include('inc/header.php');
 
                           <!--default html file upload button-->
                              <input type="file" name="resume" id="resume" style="display: none;"/>
-                            <label for="resume" href="#!" class="btn btn-5"><img src="img/ico-clip.png">&nbsp;<strong>Upload your resume</strong></label>
+                            <label for="resume" href="#!" class="btn btn-5"><img src="/static/img/ico-clip.png">&nbsp;<strong>Upload your resume</strong></label>
 
                       </div>
                       <div class="form-group d-flex flex-column w-100">
@@ -66,11 +66,11 @@ include('inc/header.php');
                       </div>
                     <?php if (!$adapters) : ?>
                       <div class="form-group align-items-center d-flex flex-column w-100">
-                          <a href="<?php print $hybridauthConfig['callback'];?>" class="d-flex txt-blue"><img src="img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>
+                          <a href="<?php print $hybridauthConfig['callback'];?>" class="d-flex txt-blue"><img src="/static/img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>
                       </div>
                     <?php else: ?>
                         <div class="form-group align-items-center d-flex flex-column w-100">
-                            <a href="<?php print $hybridauthConfig['callback'] . "?logout=true"; ?>" class="d-flex txt-blue"><img src="img/ico-linkedin-2.svg" class="h-1"> <strong>Logout from Linkedin</strong></a>
+                            <a href="<?php print $hybridauthConfig['callback'] . "?logout=true"; ?>" class="d-flex txt-blue"><img src="/static/img/ico-linkedin-2.svg" class="h-1"> <strong>Logout from Linkedin</strong></a>
                         </div>
                     <?php endif; ?>
                     </fieldset>

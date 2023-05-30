@@ -1,13 +1,13 @@
 <?php include('inc/header.php'); ?>
 
 
-        <section class="hero-2 bg-blue text-white" style="background-image: url('img/bg-market-mx.png')">
+        <section class="hero-2 bg-blue text-white" style="background-image: url('/static/img/bg-market-mx.png')">
           <div class="container d-flex flex-column gap-5 pb-4 pt-4">
             <div class="row justify-content-center">
               <div class="col-12 col-lg-6">
                 <div class="d-flex flex-column flex-lg-row gap-4">
                   <div class="flag">
-                    <img src="img/ico-mexico.svg" class="w-4">
+                    <img src="/static/img/ico-mexico.svg" class="w-4">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <div class="d-flex flex-column gap-1">
@@ -33,11 +33,11 @@
                   <div class="row text-center slider">
                     <div class="col-12">
                       <ul class="d-flex justify-content-center flex-wrap row-gap-3 column-gap-5">
-                        <li><img src="img/logos/sproutfi-white.png" class="h-2"></li>
-                        <li><img src="img/logos/bitso.png" class="h-2"></li>
-                        <li><img src="img/logos/okx.png" class="h-2"></li>
-                        <li><img src="img/logos/angloamerican-white.png" class="h-2"></li>
-                        <li><img src="img/logos/global66-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/sproutfi-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/bitso.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/okx.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/angloamerican-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/global66-white.png" class="h-2"></li>
                       </ul>
                     </div>
                   </div>
@@ -60,7 +60,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-1.svg" class="w-2">
+                    <img src="/static/img/icos/ico-1.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>Population - 130M</strong></h4>
@@ -71,7 +71,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-2.svg" class="w-2">
+                    <img src="/static/img/icos/ico-2.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>Market size</strong></h4>
@@ -82,7 +82,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-3.svg" class="w-2">
+                    <img src="/static/img/icos/ico-3.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>Mobile Commerce</strong></h4>
@@ -109,7 +109,7 @@
                   <h3><strong>Easily enter the second largest economy in LatAm.</strong></h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" style="background-image: url('img/bg-cta.jpg');">
+              <div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" style="background-image: url('/static/img/bg-cta.jpg');">
                 <div class="d-flex flex-column gap-1 p-2">
                   <h4 class="txt-white">Offer OXXO and many other payment methods.</h4>
                   <a href="optin.php" class="btn d-flex"><strong>Start now</strong></a>
@@ -138,11 +138,11 @@
                 <div class="d-flex h-100 justify-content-center text-start flex-column pe-3 gap-2">
                     <div class="badge align-items-center justify-content-center d-flex flex-column">
                         <span>98% OF <br>MARKET SHARE COVERED BY</span>
-                        <img src="img/logo-facilitapay-white.svg">
+                        <img src="/static/img/logo-facilitapay-white.svg">
                     </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-card.svg">
+                      <img src="/static/img/finance/SVG/ico-card.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">CREDIT CARD - 35%</p>
@@ -153,7 +153,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-card.svg">
+                      <img src="/static/img/finance/SVG/ico-card.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">DEBIT CARD - 19%</p>
@@ -164,7 +164,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-money.svg">
+                      <img src="/static/img/finance/SVG/ico-money.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">DIGITAL WALLETS - 27%</p>
@@ -175,7 +175,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-oxxo.svg">
+                      <img src="/static/img/finance/SVG/ico-oxxo.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">OXXO - 20%</p>
@@ -186,7 +186,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-ted.svg">
+                      <img src="/static/img/finance/SVG/ico-ted.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">BANK TRANSFERS - 8%</p>
@@ -198,7 +198,7 @@
 
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-money.svg">
+                      <img src="/static/img/finance/SVG/ico-money.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">CASH - 8%</p>
@@ -211,7 +211,7 @@
               </div>
               <div class="col-12 col-md-7 col-lg-5">
                 <div>
-                  <img src="img/maps/map-mexico.svg" class="img-fluid">
+                  <img src="/static/img/maps/map-mexico.svg" class="img-fluid">
                 </div>
               </div>
                 <div class="col-12 col-md-3">
@@ -262,7 +262,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Large and growing population</strong></h4>
@@ -273,7 +273,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Increasing internet penetration</strong></h4>
@@ -284,7 +284,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Favorable demographic trends</strong></h4>
@@ -296,7 +296,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Government support</strong></h4>
@@ -307,7 +307,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Payment methods</strong></h4>
@@ -318,7 +318,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Popular products</strong></h4>
@@ -357,7 +357,7 @@
                       <h4><strong>OXXO</strong></h4>
                       <p class="txt-gray">OXXO is one of the most famous voucher payments in Mexico. People are used to going to convenience stores to pay bills, and also their vouchers for e-commerce purchases. Start to accept OXXO as a payment method and reach more consumers.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/oxxo-pay.svg" class="h-2">
+                          <img src="/static/img/finance/oxxo-pay.svg" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -368,7 +368,7 @@
                       <h4><strong>OXXO Pay</strong></h4>
                       <p class="txt-gray">The most known payment method in Mexico now with real-time confirmation.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/oxxo-pay.svg" class="h-2">
+                          <img src="/static/img/finance/oxxo-pay.svg" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -379,9 +379,9 @@
                       <h4><strong>Local Credit and Debit Cards</strong></h4>
                       <p class="txt-gray">Access to financial services is still growing, and credit card penetration is on the rise in Mexico. Local acquiring can offer better approval rates in Mexico, and you can accept local debit cards.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/master.svg">
-                          <img src="img/finance/visa.svg">
-                          <img src="img/finance/amex.svg">
+                          <img src="/static/img/finance/master.svg">
+                          <img src="/static/img/finance/visa.svg">
+                          <img src="/static/img/finance/amex.svg">
                       </div>
                     </div>
                   </div>
@@ -392,7 +392,7 @@
                       <h4><strong>Credit Card Installments</strong></h4>
                       <p class="txt-gray">With installments, consumers can split up purchases in 3, 6, 9, and 12 monthly payments depending on the price of the purchase. Offer installments to your Mexican customers and increase average ticket sizes.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/installments.svg">
+                          <img src="/static/img/finance/installments.svg">
                       </div>
                     </div>
                   </div>
@@ -403,7 +403,7 @@
                       <h4><strong>SPEI</strong></h4>
                       <p class="txt-gray">Whenever a Mexican wants to make an interbank transfer, they need to use SPEI. The Mexican system for online banking transactions. Allow your customers to pay for their purchases with online bank transfers through SPEI.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/spei.svg">
+                          <img src="/static/img/finance/spei.svg">
                       </div>
                     </div>
                   </div>
@@ -414,10 +414,10 @@
                       <h4><strong>Crypto</strong></h4>
                       <p class="txt-gray">The crypto market is becoming increasingly important in Mexico due to the country's large population of unbanked individuals, high levels of remittance inflows, and growing interest in digital assets as a hedge against inflation and economic instability. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/ethereum.png" class="h-1">
-                          <img src="img/finance/crypto-2.png" class="h-1">
-                          <img src="img/finance/bitcoin.png" class="h-1">
-                          <img src="img/finance/crypto-3.png" class="h-1">
+                          <img src="/static/img/finance/ethereum.png" class="h-1">
+                          <img src="/static/img/finance/crypto-2.png" class="h-1">
+                          <img src="/static/img/finance/bitcoin.png" class="h-1">
+                          <img src="/static/img/finance/crypto-3.png" class="h-1">
                       </div>
                     </div>
                   </div>
@@ -428,7 +428,7 @@
                       <h4><strong>Digital Wallets</strong></h4>
                       <p class="txt-gray">The popularity of digital wallets is increasing in México, mostly due to the benefits offered by them, such as convenience, security, and simplicity to pay. Be ahead of the market and start to offer digital wallets on your e-commerce store.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/logo-mercadopago.svg" >
+                          <img src="/static/img/finance/logo-mercadopago.svg" >
                       </div>
                     </div>
                   </div>
@@ -439,8 +439,8 @@
                       <h4><strong>Other Alternative Payments</strong></h4>
                       <p class="txt-gray">Mexico has several payment methods besides credit cards. Voucher payments, Oxxo and digital wallets are very common methods used by online consumers.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/bank-transfer-cropped--en.svg" >
-                          <img src="img/finance/online-debit--en.svg" class="h-1">
+                          <img src="/static/img/finance/bank-transfer-cropped--en.svg" >
+                          <img src="/static/img/finance/online-debit--en.svg" class="h-1">
                       </div>
                     </div>
                   </div>
@@ -469,7 +469,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-3 bg-light-green">
                 <div>
-                  <img src="img/brochure-mx.png">
+                  <img src="/static/img/brochure-mx.png">
                 </div>
               </div>
             </div>
@@ -486,10 +486,10 @@
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-4">
-                <a href="markets-colombia.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="img/ico-colombia.svg" class="h-2"> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Colombia</strong> country page</span></a>
+                <a href="markets-colombia.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="/static/img/ico-colombia.svg" class="h-2"> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Colombia</strong> country page</span></a>
               </div>
               <div class="col-4">
-                <a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Brazil</strong> country page</span> <span class="arrow right"></span> <img src="img/ico-brazil.svg" class="h-2"></a>
+                <a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Brazil</strong> country page</span> <span class="arrow right"></span> <img src="/static/img/ico-brazil.svg" class="h-2"></a>
               </div>
             </div>
           </div>

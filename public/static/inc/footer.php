@@ -123,20 +123,20 @@
             <div class="col d-flex justify-content-end">
                 <div class="menu">
                     <ul class="align-center d-flex flex-row gap-1">
-<!--                        <li class="dropdown language">-->
-<!--                            <a href="#!" class="btn"><img src="img/ico-en.svg"></a>-->
-<!--                            <ul>-->
-<!--                                <li>-->
-<!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>EN</strong></a>-->
-<!--                                </li>-->
-<!--                                <li>-->
-<!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>PT</strong></a>-->
-<!--                                </li>-->
-<!--                                <li>-->
-<!--                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>ES</strong></a>-->
-<!--                                </li>-->
-<!--                            </ul>-->
-<!--                        </li>-->
+                        <li class="dropdown language">
+                            <a href="#!" class="btn "><img src="img/ico-en.svg"></a>
+                            <ul class="submenu">
+                                <li>
+                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>EN</strong></a>
+                                </li>
+                                <li>
+                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>PT</strong></a>
+                                </li>
+                                <li>
+                                    <a href="#!"><img src="img/ico-en.svg" class="h-2"> <strong>ES</strong></a>
+                                </li>
+                            </ul>
+                        </li>
                         <li>
                             <a href="http://instagram.com/facilitapay" target="_blank" class="btn"><img src="img/ico-instagram.svg"></a>
                         </li>

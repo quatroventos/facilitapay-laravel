@@ -121,38 +121,23 @@
         <div class="row">
             <div class="col-lg-12 col-12 mx-auto">
                 <div class="card card-body mt-4">
-                    <h6 class="mb-0">Criar página</h6>
+                    <h6 class="mb-0">Editar página [{{$translation->locale}}]</h6>
                     <hr class="horizontal dark my-3">
 
                     <form method="POST" action="{{ route('page-edit.update', $page->id) }}" enctype="multipart/form-data"
                           class="course-form">
                         @csrf
 
-                        <div class="row mt-4">
-                            <div class="col-md-10">
-                                <label for="name" class="form-label">Título</label>
-                                <div>
-                                    <input type="text" class="form-control" id="title" name="title" value="{{ old('title', $page->title) }}">
-                                    @error('title')
-                                    <p class='text-danger text-xs pt-1'> {{ $message }} </p>
-                                    @enderror
-                                </div>
-                            </div>
-                            <div class="col-md-2">
-                                <label for="language" class="form-label">Idioma</label>
-                                <select class="form-control" name="language" id="language">
-                                    <option value="pt-BR" {{ old('language', $page->language ) == "pt-BR" ? 'selected' : '' }}>Português</option>
-                                    <option value="es-ES" {{ old('language', $page->language) == "es-ES" ? 'selected' : '' }}>Espanhol</option>
-                                    <option value="en-US" {{ old('language', $page->language) == "en-US" ? 'selected' : '' }}>Inglês</option>
-                                </select>
-                                @error('language')
-                                <p class='text-danger text-xs pt-1'> {{ $message }} </p>
-                                @enderror
-                            </div>
+
+                        <label for="name" class="form-label">Título</label>
+                        <div>
+                            <input type="text" class="form-control" id="title" name="title" value="{{ old('title', $translation->title) }}">
+                            @error('title')
+                            <p class='text-danger text-xs pt-1'> {{ $message }} </p>
+                            @enderror
                         </div>
 
-
-
+                        <input type="hidden" name="locale" value="{{$translation->locale}}">
                         <input type="hidden" name="html" id="html">
                         <input type="hidden" name="css" id="css">
 
@@ -183,10 +168,10 @@
                                 </div>
 
                                 <label class="mt-4 form-label" for="installments">Título</label>
-                                <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle', $page->metatitle) }}"/>
+                                <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle', $translation->metatitle) }}"/>
 
                                 <label class="mt-4 form-label" for="metadescription">Descrição</label>
-                                <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription', $page->metadescription) }}</textarea>
+                                <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription', $translation->metadescription) }}</textarea>
                             </div>
                             <div class="col-md-5">
                                 <div class="card card-frame" style="margin-bottom: 10px; background: url('{{asset('/assets/img/seo-preview.webp')}}') no-repeat center center; background-size:cover; height: 300px; padding:70px 10px; margin-top:50px; border:1px solid #CCCCCC; ">
@@ -278,8 +263,9 @@
         })
 
         //carrega conteudo no editor
-        var cssContent = {!! json_encode($page->css) !!}; // Carrega o conteúdo CSS
-        var htmlContent = {!! json_encode($page->html) !!}; // Carrega o conteúdo HTML
+
+        var cssContent = {!! json_encode($translation->css)!!}; // Carrega o conteúdo CSS
+        var htmlContent = {!! json_encode($translation->html) ?? '' !!}; // Carrega o conteúdo HTML
 
         editor.setComponents(cssContent);
         editor.setComponents(htmlContent);

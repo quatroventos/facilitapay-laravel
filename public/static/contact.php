@@ -4,7 +4,7 @@
           <div class="container pt-4">
             <div class="row d-flex row-gap-4 justify-content-between">
               <div class="col-1 d-none d-lg-flex align-items-end justify-content-end">
-                <img src="img/squares-2.svg">
+                <img src="/static/img/squares-2.svg">
               </div>
               <div class="col-12 col-lg-5 d-flex flex-column gap-3">
                 <div class="d-flex flex-column gap-1">
@@ -37,7 +37,7 @@
                   <div class="d-flex flex-column row-gap-3 gap-2">
                     <div class="d-flex flex-column flex-lg-row align-items-center gap-2">
                       <div class="d-flex justify-content-center w-5">
-                        <img src="img/ico-mail.svg">
+                        <img src="/static/img/ico-mail.svg">
                       </div>
                       <div class="d-flex txt-blue justify-content-center flex-column">
                         <p>hello@facilitapay.com</p>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="d-flex flex-column flex-lg-row align-items-center gap-2">
                       <div class="d-flex justify-content-center w-5">
-                        <img src="img/ico-phone.svg">
+                        <img src="/static/img/ico-phone.svg">
                       </div>
                       <div class="d-flex txt-blue justify-content-center flex-column">
                         <p>+1 855 343 5227</p>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="d-flex flex-column flex-lg-row align-items-center gap-2">
                       <div class="d-flex justify-content-center w-5">
-                        <img src="img/ico-pin-2.svg">
+                        <img src="/static/img/ico-pin-2.svg">
                       </div>
                       <div class="d-flex txt-blue justify-content-center flex-column">
                         <p>201 S Biscayne Blvd, 12th Floor <br>Miami, Fl 33131</p>
@@ -83,17 +83,17 @@
         <div class="row">
             <div class="col-12">
                 <div class="owl-carousel owl-partners owl-theme">
-                    <div class="item"><img src="img/logos/kraken.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/stake.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/bybit-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/sproutfi.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/bitso-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/tickmill.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/okx-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/wyre.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/okcoin.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/angloamerican.png"  style="fill: blue; height: 35px; width: auto;"></div>
-                    <div class="item"><img src="img/logos/bit2me.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/kraken.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/stake.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/bybit-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/sproutfi.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/bitso-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/tickmill.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/okx-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/wyre.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/okcoin.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/angloamerican.png"  style="fill: blue; height: 35px; width: auto;"></div>
+                    <div class="item"><img src="/static/img/logos/bit2me.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
                 </div>
             </div>
         </div>

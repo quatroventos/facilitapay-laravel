@@ -7,7 +7,7 @@
 
     <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
-    <title>Aliança Francesa Admin - v1.0</title>
+    <title>Facilita Pay Admin - v1.0</title>
 
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />

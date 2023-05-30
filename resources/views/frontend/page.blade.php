@@ -3,7 +3,7 @@
     'title' => $page->metatitle.' - Facilita Pay',
     'description' => $page->metadescription,
     'canonical' => route('page', $page->slug),
-    'locale' => 'pt_BR',
+    'locale' => $translation->locale,
     'content' => 'website',
     'url' => route('page', $page->slug),
     'websitename' => 'Facilita Pay',
@@ -13,11 +13,12 @@
 ])
 
 @section('content')
+
 <style type="text/css">
-    {!! $page->css !!}
+    {!! $translation->css ?? ''!!}
 </style>
 
-{!! $page->html !!}
+{!! $translation->html ?? ''!!}
 @endsection
 
 

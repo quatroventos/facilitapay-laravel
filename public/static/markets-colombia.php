@@ -1,13 +1,13 @@
 <?php include('inc/header.php'); ?>
 
 
-        <section class="hero-2 bg-blue text-white" style="background-image: url('img/bg-market-cl.png')">
+        <section class="hero-2 bg-blue text-white" style="background-image: url('/static/img/bg-market-cl.png')">
           <div class="container d-flex flex-column gap-5 pb-4 pt-4">
             <div class="row justify-content-center">
               <div class="col-12 col-lg-6">
                 <div class="d-flex flex-column flex-lg-row gap-4">
                   <div class="flag">
-                    <img src="img/ico-colombia.svg" class="w-4">
+                    <img src="/static/img/ico-colombia.svg" class="w-4">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <div class="d-flex flex-column gap-1">
@@ -33,11 +33,11 @@
                   <div class="row text-center slider">
                     <div class="col-12">
                       <ul class="d-flex justify-content-center flex-wrap row-gap-3 column-gap-5">
-                        <li><img src="img/logos/sproutfi-white.png" class="h-2"></li>
-                        <li><img src="img/logos/bitso.png" class="h-2"></li>
-                        <li><img src="img/logos/okx.png" class="h-2"></li>
-                        <li><img src="img/logos/angloamerican-white.png" class="h-2"></li>
-                        <li><img src="img/logos/global66-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/sproutfi-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/bitso.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/okx.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/angloamerican-white.png" class="h-2"></li>
+                        <li><img src="/static/img/logos/global66-white.png" class="h-2"></li>
                       </ul>
                     </div>
                   </div>
@@ -60,7 +60,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-1.svg" class="w-2">
+                    <img src="/static/img/icos/ico-1.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>Population - 51.8M</strong></h4>
@@ -71,7 +71,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-2.svg" class="w-2">
+                    <img src="/static/img/icos/ico-2.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>eCommerce - $3.8B</strong></h4>
@@ -82,7 +82,7 @@
               <div class="col-12 col-md-4">
                 <div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
                   <div class="ico">
-                    <img src="img/icos/ico-3.svg" class="w-2">
+                    <img src="/static/img/icos/ico-3.svg" class="w-2">
                   </div>
                   <div class="d-flex flex-column gap-2">
                     <h4><strong>eShoppers - 11.6M</strong></h4>
@@ -109,7 +109,7 @@
                   <h3><strong>Easily enter the fastest growing online market in Latin America.</strong></h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" style="background-image: url('img/bg-cta.jpg');">
+              <div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" style="background-image: url('/static/img/bg-cta.jpg');">
                 <div class="d-flex flex-column gap-1 p-2">
                   <h4 class="txt-white">Offer PSE and many other payment methods.</h4>
                   <a href="optin.php" class="btn d-flex"><strong>Start now</strong></a>
@@ -138,11 +138,11 @@
                 <div class="d-flex h-100 justify-content-center text-start flex-column pe-3 gap-2">
                     <div class="badge align-items-center justify-content-center d-flex flex-column">
                         <span>98% OF <br>MARKET SHARE COVERED BY</span>
-                        <img src="img/logo-facilitapay-white.svg">
+                        <img src="/static/img/logo-facilitapay-white.svg">
                     </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-pse.svg">
+                      <img src="/static/img/finance/SVG/ico-pse.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">PSE - 16%</p>
@@ -153,7 +153,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-card.svg">
+                      <img src="/static/img/finance/SVG/ico-card.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">CREDIT CARD - 52%</p>
@@ -164,7 +164,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-money.svg">
+                      <img src="/static/img/finance/SVG/ico-money.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">Cash Payments (EfectY, Baloto, SuRed) - 13%</p>
@@ -175,7 +175,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-international-wires.svg">
+                      <img src="/static/img/finance/SVG/ico-international-wires.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">International Wires - 2%</p>
@@ -186,7 +186,7 @@
                   </div>
                   <div class="item d-flex align-items-center gap-1">
                     <div>
-                      <img src="img/finance/SVG/ico-crypto-currencies.svg">
+                      <img src="/static/img/finance/SVG/ico-crypto-currencies.svg">
                     </div>
                     <div class="d-flex flex-column flex-grow-1">
                       <p class="sub">Crypto Currencies (Stablecoins) - 3%</p>
@@ -199,7 +199,7 @@
               </div>
               <div class="col-12 col-md-7 col-lg-5">
                 <div>
-                  <img src="img/maps/map-colombia.svg" class="img-fluid">
+                  <img src="/static/img/maps/map-colombia.svg" class="img-fluid">
                 </div>
               </div>
 
@@ -252,7 +252,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Large market</strong></h4>
@@ -263,7 +263,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Increasing internet usage</strong></h4>
@@ -274,7 +274,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Growing middle class</strong></h4>
@@ -285,7 +285,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Mobile-first market</strong></h4>
@@ -296,7 +296,7 @@
               <div class="col-12 col-lg-4">
                 <div class="item bg-white border-radius d-flex gap-1 p-2">
                   <div class="ico">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="/static/img/ico-check.svg" class="w-1">
                   </div>
                   <div class="d-flex flex-column flex-grow-1 gap-1">
                     <h4><strong>Government support</strong></h4>
@@ -335,10 +335,10 @@
                       <h4><strong>Local Credit Cards</strong></h4>
                       <p class="txt-gray">This payment method is one of the primary options of Colombians when shopping online. All Colombian cards are enabled to make international purchases, yet, local banks and issuers impose some obstacles to international shopping. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/master.svg">
-                          <img src="img/finance/visa.svg">
-                          <img src="img/finance/amex.svg">
-                          <img src="img/finance/diners.svg">
+                          <img src="/static/img/finance/master.svg">
+                          <img src="/static/img/finance/visa.svg">
+                          <img src="/static/img/finance/amex.svg">
+                          <img src="/static/img/finance/diners.svg">
                       </div>
                     </div>
                   </div>
@@ -349,8 +349,8 @@
                       <h4><strong>Local Debit Cards</strong></h4>
                       <p class="txt-gray">Debit card usage in Colombia has been growing rapidly in recent years, with over 20 million cardholders in the country as of 2021. The number of POS terminals in Colombia has been increasing, with over 200,000 in use as of 2021. This has helped to boost debit card usage, as consumers can now make card payments at a growing number of merchants. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/master.svg">
-                          <img src="img/finance/visa.svg">
+                          <img src="/static/img/finance/master.svg">
+                          <img src="/static/img/finance/visa.svg">
                       </div>
                     </div>
                   </div>
@@ -361,7 +361,7 @@
                       <h4><strong>PSE (Pagos Seguros en Línea)</strong></h4>
                       <p class="txt-gray">The preferred alternative payment solution in Colombia. Pagos Seguros en Línea allows your customers to make bank transfers directly from their bank accounts, without needing a credit card.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/pse-logo.png" class="h-2">
+                          <img src="/static/img/finance/pse-logo.png" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -372,7 +372,7 @@
                       <h4><strong>Baloto</strong></h4>
                       <p class="txt-gray">Baloto is Colombia’s main lottery operator in the country and also has a payment network, with more than 13.500 payment stations, it’s able to reach 96% of the cities. Clients can pay purchases offline or online. When choosing the offline option, they receive a payment voucher with a barcode and a serial number, which can be paid at one of the payment stations.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/baloto.png" class="h-2">
+                          <img src="/static/img/finance/baloto.png" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -383,7 +383,7 @@
                       <h4><strong>SuRed</strong></h4>
                       <p class="txt-gray">Being one of the largest payments networks in Colombia, SuRed is partnered with more than 27.000 convenience stores from different brands and across 32 departments. Clients who choose this payment method receive a voucher that can be paid in cash at any of their points.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/sured.png" class="h-1">
+                          <img src="/static/img/finance/sured.png" class="h-1">
                       </div>
                     </div>
                   </div>
@@ -395,10 +395,10 @@
 <!--                      <h4><strong>Crypto</strong></h4>-->
 <!--                      <p class="txt-gray">Colombia has one of the highest rates of cryptocurrency adoption in Latin America, with around 5 million people estimated to own some form of digital currency. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>-->
 <!--                      <div class="d-flex gap-1">-->
-<!--                          <img src="img/finance/ethereum.png" class="h-1">-->
-<!--                          <img src="img/finance/crypto-2.png" class="h-1">-->
-<!--                          <img src="img/finance/bitcoin.png" class="h-1">-->
-<!--                          <img src="img/finance/crypto-3.png" class="h-1">-->
+<!--                          <img src="/static/img/finance/ethereum.png" class="h-1">-->
+<!--                          <img src="/static/img/finance/crypto-2.png" class="h-1">-->
+<!--                          <img src="/static/img/finance/bitcoin.png" class="h-1">-->
+<!--                          <img src="/static/img/finance/crypto-3.png" class="h-1">-->
 <!--                      </div>-->
 <!--                    </div>-->
 <!--                  </div>-->
@@ -410,7 +410,7 @@
                       <h4><strong>Efecty</strong></h4>
                       <p class="txt-gray">With real-time confirmation and easy user experience, Efecty is one of the most popular cash payment vouchers in Colombia, payable in over 10,000 locations throughout the country. Increases your sales by reaching a vast part of Colombian customers that prefer to pay offline, with cash and allows you to reach the unbanked population.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/efecty.svg" class="h-2">
+                          <img src="/static/img/finance/efecty.svg" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -422,7 +422,7 @@
                       <h4><strong>Installments</strong></h4>
                       <p class="txt-gray">Installment purchases are very popular in Colombia, over 70% of online credit card transactions are installment-based. The clients are allowed to pay their purchase in up to 36 months. The banks, who finance the operation charge interest rates, which are charged directly to the client depending on the agreement he has with his bank.</p>
                       <div class="d-flex gap-1">
-                          <img src="img/finance/installments-36x.svg" class="h-2">
+                          <img src="/static/img/finance/installments-36x.svg" class="h-2">
                       </div>
                     </div>
                   </div>
@@ -451,7 +451,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-3 bg-light-green">
                 <div>
-                  <img src="img/brochure-cl.png">
+                  <img src="/static/img/brochure-cl.png">
                 </div>
               </div>
             </div>
@@ -464,10 +464,10 @@
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-4">
-                <a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="img/ico-brazil.svg" class="h-2"> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Brazil</strong> country page</span></a>
+                <a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="/static/img/ico-brazil.svg" class="h-2"> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Brazil</strong> country page</span></a>
               </div>
               <div class="col-4">
-                <a href="markets-mexico.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Mexico</strong> country page</span> <span class="arrow right"></span> <img src="img/ico-mexico.svg" class="h-2"></a>
+                <a href="markets-mexico.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Mexico</strong> country page</span> <span class="arrow right"></span> <img src="/static/img/ico-mexico.svg" class="h-2"></a>
               </div>
             </div>
           </div>

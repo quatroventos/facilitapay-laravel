@@ -1,7 +1,7 @@
 <?php include('inc/header.php'); ?>
 
 
-        <div class="blockchain" style="background-image: url('img/bg-crypto.jpg');">
+        <div class="blockchain" style="background-image: url('/static/img/bg-crypto.jpg');">
 
 
 
@@ -35,22 +35,22 @@
                   <div class="row d-flex row-gap-3">
                     <div class="col-12 col-lg-4">
                       <div class="d-flex align-items-start border-radius box-opacity text-start gap-2 p-2">
-                        <img src="img/ico-check.svg" class="w-1">
+                        <img src="/static/img/ico-check.svg" class="w-1">
                         <div class="d-flex flex-column gap-1">
                           <h4 class="txt-white"><strong>Settlement in crypto</strong></h4>
                           <p class="txt-white">Collect your payments in local currency and receive them in USDC, USDT, BTC or ETH.</p>
                           <div class="d-flex gap-1">
-                              <img src="img/finance/ethereum.png" class="h-1">
-                              <img src="img/finance/crypto-2.png" class="h-1">
-                              <img src="img/finance/bitcoin.png" class="h-1">
-                              <img src="img/finance/crypto-3.png" class="h-1">
+                              <img src="/static/img/finance/ethereum.png" class="h-1">
+                              <img src="/static/img/finance/crypto-2.png" class="h-1">
+                              <img src="/static/img/finance/bitcoin.png" class="h-1">
+                              <img src="/static/img/finance/crypto-3.png" class="h-1">
                           </div>
                         </div>
                       </div>
                     </div>
                     <div class="col-12 col-lg-4">
                       <div class="d-flex align-items-start border-radius box-opacity text-start gap-2 p-2">
-                        <img src="img/ico-check.svg" class="w-1">
+                        <img src="/static/img/ico-check.svg" class="w-1">
                         <div class="d-flex flex-column gap-1">
                           <h4 class="txt-white"><strong>On / Off Ramps</strong></h4>
                           <p class="txt-white">FacilitaPay's treasury assists you with the exchange fiat-to-crypto or crypto-to-fiat. As simple as this.</p>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-12 col-lg-4">
                       <div class="d-flex align-items-start border-radius box-opacity text-start gap-2 p-2">
-                        <img src="img/ico-check.svg" class="w-1">
+                        <img src="/static/img/ico-check.svg" class="w-1">
                         <div class="d-flex flex-column gap-1">
                           <h4 class="txt-white"><strong>Receive your local payments in crypto</strong></h4>
                           <p class="txt-white">We set to you those payments in fiat currencies.</p>
@@ -82,7 +82,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-7.svg" class="w-2">
+                        <img src="/static/img/icos/ico-7.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Store</strong></h4>
@@ -92,7 +92,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-8.svg" class="w-2">
+                        <img src="/static/img/icos/ico-8.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Fraud prevention</strong></h4>
@@ -102,7 +102,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-9.svg" class="w-2">
+                        <img src="/static/img/icos/ico-9.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Highly Configurable</strong></h4>
@@ -112,7 +112,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-10.svg" class="w-2">
+                        <img src="/static/img/icos/ico-10.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Audit transactions</strong></h4>
@@ -122,7 +122,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-11.svg" class="w-2">
+                        <img src="/static/img/icos/ico-11.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Developer Friendly</strong></h4>
@@ -132,7 +132,7 @@
 
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-items-start gap-1">
                       <div class="d-flex border-radius box-opacity me-auto p-1">
-                        <img src="img/icos/ico-12.svg" class="w-2">
+                        <img src="/static/img/icos/ico-12.svg" class="w-2">
                       </div>
                       <div class="d-flex flex-column flex-grow-1 gap-1">
                         <h4 class="txt-white"><strong>Local KYC Features</strong></h4>
@@ -175,13 +175,13 @@
               <div class="row text-center slider">
                 <div class="col-12">
                   <ul class="d-flex justify-content-center flex-wrap row-gap-3 column-gap-5">
-                    <li><img src="img/logos/bitso.png" class="h-2"></li>
-                    <li><img src="img/logos/bybit.png" class="h-2"></li>
-                    <li><img src="img/logos/kraken-white.png" class="h-2"></li>
-                    <li><img src="img/logos/okx.png" class="h-2"></li>
-                    <li><img src="img/logos/okcoin-white.png" class="h-2"></li>
-                    <li><img src="img/logos/bit2me-white.png" class="h-2"></li>
-                    <li><img src="img/logos/coincasso-white.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/bitso.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/bybit.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/kraken-white.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/okx.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/okcoin-white.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/bit2me-white.png" class="h-2"></li>
+                    <li><img src="/static/img/logos/coincasso-white.png" class="h-2"></li>
                   </ul>
                 </div>
               </div>

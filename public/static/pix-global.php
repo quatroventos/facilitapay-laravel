@@ -9,7 +9,7 @@
               <div class="col-12 col-lg-5 d-flex flex-column gap-2">
                 <div class="d-flex flex-column gap-2">
                   <div class="pe-6">
-                    <img src="img/logo-pix-global.svg" class="img-fluid">
+                    <img src="static/img/logo-pix-global.svg" class="img-fluid">
                   </div>
                   <h3 class="txt-white"><strong>The revolutionary instant payment method for global companies. The Brazilian payment method accepted worldwide.</strong></h3>
                 </div>
@@ -17,7 +17,7 @@
                 <a href="optin.php" class="btn me-auto"><strong>Get in touch</strong></a>
               </div>
               <div class="col-12 col-lg-5">
-                <img src="img/pix-global-connect.svg" class="img-fluid">
+                <img src="static/img/pix-global-connect.svg" class="img-fluid">
               </div>
             </div>
           </div>
@@ -30,9 +30,9 @@
             <div class="row row-gap-3 align-items-center justify-content-center">
               <div class="col-12 col-lg-4 d-flex flex-column gap-4">
                 <div class="d-flex justify-content-center justify-lg-content-start align-items-center gap-2">
-                  <img src="img/logo-pix.svg" class="h-3">
+                  <img src="static/img/logo-pix.svg" class="h-3">
                   <h3><strong class="txt-light-green">+</strong></h3>
-                  <img src="img/logo-facilitapay.svg" class="h-3">
+                  <img src="static/img/logo-facilitapay.svg" class="h-3">
                 </div>
                 <div class="d-flex flex-column gap-1">
                   <h3><strong>Same PIX, now everywhere.</strong></h3>
@@ -40,7 +40,7 @@
                   <p class="sub">*Compared with credit/debit cards and other alternative payment methods.</p>
                 </div>
                 <div class="d-none d-lg-flex">
-                  <img src="img/squares-4.svg">
+                  <img src="static/img/squares-4.svg">
                 </div>
               </div>
               <div class="col-12 col-lg-6">
@@ -93,31 +93,31 @@
                 <div class="row d-flex row-gap-2">
                   <div class="col-12 col-md-6 d-flex flex-column gap-1">
                     <div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-                      <img src="img/icos/ico-1.svg" class="w-2">
+                      <img src="static/img/icos/ico-1.svg" class="w-2">
                       <p class="txt-blue text-start"><strong>Travelers will have less costs paying through PIX</strong></p>
                     </div>
                   </div>
                   <div class="col-12 col-md-6 d-flex flex-column gap-1">
                     <div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-                      <img src="img/icos/ico-2.svg" class="w-2">
+                      <img src="static/img/icos/ico-2.svg" class="w-2">
                       <p class="txt-blue text-start"><strong>Less transactional costs for sellers</strong></p>
                     </div>
                   </div>
                   <div class="col-12 col-md-6 d-flex flex-column gap-1">
                     <div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-                      <img src="img/icos/ico-3.svg" class="w-2">
+                      <img src="static/img/icos/ico-3.svg" class="w-2">
                       <p class="txt-blue text-start"><strong>No monthly fees to setup an account</strong></p>
                     </div>
                   </div>
                   <div class="col-12 col-md-6 d-flex flex-column gap-1">
                     <div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-                      <img src="img/icos/ico-4.svg" class="w-2">
+                      <img src="static/img/icos/ico-4.svg" class="w-2">
                       <p class="txt-blue text-start"><strong>No FX risks for sellers and buyers</strong></p>
                     </div>
                   </div>
                   <div class="col-12 d-flex flex-column gap-1">
                     <div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-                      <img src="img/icos/ico-5.svg" class="w-2">
+                      <img src="static/img/icos/ico-5.svg" class="w-2">
                       <p class="txt-blue text-start"><strong>You can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.</strong></p>
                     </div>
                   </div>
@@ -139,7 +139,7 @@
             <div class="row d-flex row-gap-3 align-items-center justify-content-center">
               <div class="col-12 col-md-4">
                 <div class="pe-0 pe-lg-4">
-                  <img src="img/pixglobal-phone.png" class="img-fluid">
+                  <img src="static/img/pixglobal-phone.png" class="img-fluid">
                 </div>
               </div>
               <div class="col-12 col-md-8 col-lg-5 d-flex flex-column gap-2">
@@ -148,23 +148,23 @@
                 <p>PIX is an innovative payment solution specifically designed for the Brazilian market. The instant payment system created by the Central Bank of Brazil (BCB), is changing the market by performing transfers and payments, in a few seconds, at any time of the day - including weekends and holidays - in a safe and practical way.</p>
                 <ul class="d-flex flex-column text-start gap-1">
                   <li class="d-flex align-items-start gap-1">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="static/img/ico-check.svg" class="w-1">
                     <p class="txt-blue">Payment confirmation and value compensation in <strong>real-time.</strong></p>
                   </li>
                   <li class="d-flex align-items-start gap-1">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="static/img/ico-check.svg" class="w-1">
                     <p class="txt-blue">Transactions 24/7 - including on the <strong>weekends and holidays.</strong></p>
                   </li>
                   <li class="d-flex align-items-start gap-1">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="static/img/ico-check.svg" class="w-1">
                     <p class="txt-blue"><strong>In a safe way</strong> - Transactions carried out directly by the Central Bank of Brazil.</p>
                   </li>
                   <li class="d-flex align-items-start gap-1">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="static/img/ico-check.svg" class="w-1">
                     <p class="txt-blue">Attract more brazilians - Many paople travel with exact money and need to send international remittances to perform the BRL/USD conversion, which can take some time. <br><br>With PIX, you can get paid instantly.</p>
                   </li>
                   <li class="d-flex align-items-start gap-1">
-                    <img src="img/ico-check.svg" class="w-1">
+                    <img src="static/img/ico-check.svg" class="w-1">
                     <p class="txt-blue">Cost reduction up to 80% cheaper fees compared using conventional credit cards.</p>
                   </li>
                 </ul>
@@ -188,7 +188,7 @@
               </div>
               <div class="col-12 col-md-4 text-start">
                 <div class="d-flex align-items-start gap-2 ps-2 pe-2">
-                  <img src="img/icos/ico-7.svg" class="w-4">
+                  <img src="static/img/icos/ico-7.svg" class="w-4">
                   <div class="d-flex flex-column gap-1">
                     <p class="txt-white"><strong>Your customers enjoy more</strong></p>
                     <p class="sub txt-white">Speed up the time it takes to sell to your customers and avoid unnecessary fees.</p>
@@ -197,7 +197,7 @@
               </div>
               <div class="col-12 col-md-4 text-start">
                 <div class="d-flex align-items-start gap-2 ps-2 pe-2">
-                  <img src="img/icos/ico-8.svg" class="w-4">
+                  <img src="static/img/icos/ico-8.svg" class="w-4">
                   <div class="d-flex flex-column gap-1">
                     <p class="txt-white"><strong>Availability</strong></p>
                     <p class="sub txt-white">Operations can be carried out 24 hours a day, including on weekends and holidays.</p>
@@ -206,7 +206,7 @@
               </div>
               <div class="col-12 col-md-4 text-start">
                 <div class="d-flex align-items-start gap-2 ps-2 pe-2">
-                  <img src="img/icos/ico-9.svg" class="w-4">
+                  <img src="static/img/icos/ico-9.svg" class="w-4">
                   <div class="d-flex flex-column gap-1">
                     <p class="txt-white"><strong>Withdrawal</strong></p>
                     <p class="sub txt-white">You can withdraw payments receveid within 01 business day and from the amount of USD 100* per withdrawal.</p>
@@ -215,7 +215,7 @@
               </div>
               <div class="col-12 col-md-4 text-start">
                 <div class="d-flex align-items-start gap-2 ps-2 pe-2">
-                  <img src="img/icos/ico-10.svg" class="w-4">
+                  <img src="static/img/icos/ico-10.svg" class="w-4">
                   <div class="d-flex flex-column gap-1">
                     <p class="txt-white"><strong>Convenience</strong></p>
                     <p class="sub txt-white">The user experience is intuitive for the end-user since it is connected to the financial app that the user is already<br> used to.</p>
@@ -224,7 +224,7 @@
               </div>
               <div class="col-12 col-md-4 text-start">
                 <div class="d-flex align-items-start gap-2 ps-2 pe-2">
-                  <img src="img/icos/ico-11.svg" class="w-4">
+                  <img src="static/img/icos/ico-11.svg" class="w-4">
                   <div class="d-flex flex-column gap-1">
                     <p class="txt-white"><strong>Real-time KPI's</strong></p>
                     <p class="sub txt-white">Control all transactions performed within our proprietary platform, view statements, see sales evolution by payment method, and make settlements whenever you want.</p>
@@ -238,7 +238,7 @@
 
 
         <section class="content-10 bg-white">
-          <div class="img" style="background-image: url('img/qrcode-scan.jpg');"></div>
+          <div class="img" style="background-image: url('static/img/qrcode-scan.jpg');"></div>
           <div class="container d-flex flex-column gap-3 pb-4 pt-4">
             <div class="row d-flex align-items-center justify-content-center">
               <div class="col-12 col-lg-6 d-flex flex-column gap-2">
