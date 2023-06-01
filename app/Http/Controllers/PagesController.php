@@ -38,11 +38,13 @@ class PagesController extends Controller
             'slug' => $request->get('slug')
         ]);
 
+        $html =  str_replace(['<body class="">', '</body>'], '', $request->get('html'),);
+
         $pageTranslation = new Page_translation();
         $pageTranslation->pages_id = $page->id;
         $pageTranslation->locale = 'en';
         $pageTranslation->title = $request->get('title');
-        $pageTranslation->html = $request->get('html');
+        $pageTranslation->html = $html;
         $pageTranslation->css = $request->get('css');
         $pageTranslation->metatitle = $request->get('metatitle');
         $pageTranslation->metadescription = $request->get('metadescription');
@@ -52,7 +54,7 @@ class PagesController extends Controller
         $pageTranslation->pages_id = $page->id;
         $pageTranslation->locale = 'pt';
         $pageTranslation->title = $request->get('title');
-        $pageTranslation->html = $request->get('html');
+        $pageTranslation->html = $html;
         $pageTranslation->css = $request->get('css');
         $pageTranslation->metatitle = $request->get('metatitle');
         $pageTranslation->metadescription = $request->get('metadescription');
@@ -61,7 +63,7 @@ class PagesController extends Controller
         $pageTranslation = new Page_translation();
         $pageTranslation->pages_id = $page->id;
         $pageTranslation->locale = 'es';
-        $pageTranslation->title = $request->get('title');
+        $pageTranslation->title = $html;
         $pageTranslation->html = $request->get('html');
         $pageTranslation->css = $request->get('css');
         $pageTranslation->metatitle = $request->get('metatitle');
@@ -80,9 +82,20 @@ class PagesController extends Controller
         return view('backend.pages.edit', compact('page', 'translation', 'blocks'));
     }
 
+    public function editHTML($locale, $id)
+    {
+        $page = Pages::find($id);
+        $translation = $page->translations()->where('locale', $locale)->first();
+
+        $blocks = Blocks::all();
+        return view('backend.pages.edit-html', compact('page', 'translation', 'blocks'));
+    }
+
     public function update(Request $request, $id)
     {
         $page = Pages::find($id);
+
+        $html =  str_replace(['<body class="">', '</body>'], '', $request->get('html'),);
 
         $page->update([
             'metatitle' => $request->get('metatitle'),
@@ -94,7 +107,7 @@ class PagesController extends Controller
 
         $pageTranslation->update([
             'title' => $request->get('title'),
-            'html' => $request->get('html'),
+            'html' => $html,
             'css' => $request->get('css'),
             'metatitle' => $request->get('metatitle'),
             'metadescription' => $request->get('metadescription'),

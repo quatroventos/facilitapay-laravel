@@ -73,6 +73,11 @@
         .ignoreanimation{
             opacity: 1;
         }
+
+         .tab-content{
+             display: none;
+         }
+
     </style>
 
     <!-- Google Tag Manager -->
@@ -97,7 +102,7 @@
     <div class="container-fluid pb-1 pt-1">
         <div class="row align-items-center justify-content-between">
             <div class="col-5 col-lg-2 d-flex flex-column align-items-start">
-                <a href="/"><img src="{{asset('static/img/logo-facilitapay.svg')}}" class="h-4 img-fluid ignoreanimation"></a>
+                <a href="{{route('home')}}"><img src="{{asset('static/img/logo-facilitapay.svg')}}" class="h-4 img-fluid ignoreanimation"></a>
             </div>
             <div class="col-7 align-items-center justify-content-center">
                 <div class="menu open-1 responsive d-flex flex-column align-items-center">
@@ -170,7 +175,7 @@
             <div class="col-12 col-lg-3">
                 <ul class="align-center d-flex flex-row gap-1">
                     <li>
-                        <a href="optin" target="_blank" class="btn d-inline-flex"><strong>Get in touch</strong></a>
+                        <a href="optin" target="_blank" class="btn d-inline-flex"><strong>{{trans('navigation.get_in_touch')}}</strong></a>
                     </li>
                     <li>
                         <a href="https://portal.facilitapay.com/" target="_blank" class="btn btn-7 d-inline-flex login"><strong class="d-none d-sm-flex">Login</strong><img src="{{asset('static/img/ico-user.svg')}}" class="h-1 d-flex d-sm-none"></a>
@@ -312,14 +317,15 @@
                     <ul class="align-center d-flex flex-row gap-1">
                         <li class="dropdown language">
                             @if(LaravelLocalization::getCurrentLocale() == 'pt')
-                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-brazil.svg')}}"></a>
+                                <a class="btn drop-item""><img src="{{asset('static/img/ico-brazil.svg')}}"></a>
                             @elseif(LaravelLocalization::getCurrentLocale() == 'es')
-                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-mexico.svg')}}"></a>
+                                <a class="btn drop-item""><img src="{{asset('static/img/ico-mexico.svg')}}"></a>
                             @else
-                                <a href="#!" class="btn"><img src="{{asset('static/img/ico-en.svg')}}"></a>
+                                <a class="btn drop-item""><img src="{{asset('static/img/ico-en.svg')}}"></a>
                             @endif
 
-                            <ul class="submenu">
+                            <div class="submenu lang-menu">
+                            <ul>
                                 @if(LaravelLocalization::getCurrentLocale() != 'en')
                                     <li>
                                         <a href="{!! LaravelLocalization::getLocalizedURL('en') !!}"><img src="{{asset('static/img/ico-en.svg')}}" class="h-2"> <strong>EN</strong></a>
@@ -336,6 +342,7 @@
                                 </li>
                                 @endif
                             </ul>
+                            </div>
                         </li>
                         <li>
                             <a href="http://instagram.com/facilitapay" target="_blank" class="btn"><img src="{{asset('static/img/ico-instagram.svg')}}"></a>

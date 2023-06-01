@@ -121,7 +121,13 @@
         <div class="row">
             <div class="col-lg-12 col-12 mx-auto">
                 <div class="card card-body mt-4">
-                    <h6 class="mb-0">Editar página [{{$translation->locale}}]</h6>
+
+                    <div class="card-header d-flex justify-content-between">
+                        <h5 class="mb-0">Editar página [{{$translation->locale}}]</h5>
+                        <a href="{{ route('page-edit-html', [$translation->locale,$page->id]) }}" class="btn bg-gradient-dark btn-sm float-end mb-0">HTML</a>
+                    </div>
+
+
                     <hr class="horizontal dark my-3">
 
                     <form method="POST" action="{{ route('page-edit.update', $page->id) }}" enctype="multipart/form-data"
@@ -221,12 +227,15 @@
                     'https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;800&family=Source+Code+Pro:wght@800&display=swap',
                     'https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr',
                     'https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css',
-                    'http://facilitapay.loc/static/css/responsive.css',
-                    'http://facilitapay.loc/static/css/theme.css'
+                    '{{asset("/static/css/responsive.css")}}',
+                    '{{asset("/static/css/theme.css")}}'
                 ],
                 scripts: [
-                    'http://aflaravel.loc/frontend/assets/js/framework.js',
-                    'http://aflaravel.loc/frontend/assets/js/home.js',
+                     'https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous">',
+                     'https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous">',
+                     'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer">',
+                     '{{asset("/static/js/imageMapResizer.min.js")}}">',
+                     '{{asset("/static/js/app.js")}}',
                 ]
             },
             blockManager: {
@@ -250,7 +259,7 @@
             },
         });
 
-        editor.getWrapper().addClass('home')
+        editor.getWrapper().addClass('')
 
         // Open the default Block Manager container
         const { Panels } = editor;
@@ -267,7 +276,7 @@
         var cssContent = {!! json_encode($translation->css)!!}; // Carrega o conteúdo CSS
         var htmlContent = {!! json_encode($translation->html) ?? '' !!}; // Carrega o conteúdo HTML
 
-        editor.setComponents(cssContent);
+        editor.setStyle(cssContent);
         editor.setComponents(htmlContent);
 
 
@@ -282,6 +291,71 @@
             $('#meta-desc').val(cleanHTML);
         }
 
+
+        var pfx = editor.getConfig().stylePrefix;
+        var modal = editor.Modal;
+        var cmdm = editor.Commands;
+        var codeViewer = editor.CodeManager.getViewer('CodeMirror').clone();
+        var pnm = editor.Panels;
+        var container = document.createElement('div');
+        var btnEdit = document.createElement('button');
+
+        codeViewer.set({
+            codeName: 'htmlmixed',
+            readOnly: 0,
+            theme: 'hopscotch',
+            autoBeautify: true,
+            autoCloseTags: true,
+            autoCloseBrackets: true,
+            lineWrapping: true,
+            styleActiveLine: true,
+            smartIndent: true,
+            indentWithTabs: true
+        });
+
+        btnEdit.innerHTML = 'Edit';
+        btnEdit.className = pfx + 'btn-prim ' + pfx + 'btn-import';
+        btnEdit.onclick = function() {
+            var code = codeViewer.editor.getValue();
+            editor.DomComponents.getWrapper().set('content', '');
+            editor.setComponents(code.trim());
+            modal.close();
+        };
+
+        cmdm.add('html-edit', {
+            run: function(editor, sender) {
+                sender && sender.set('active', 0);
+                var viewer = codeViewer.editor;
+                modal.setTitle('Edit code');
+                if (!viewer) {
+                    var txtarea = document.createElement('textarea');
+                    container.appendChild(txtarea);
+                    container.appendChild(btnEdit);
+                    codeViewer.init(txtarea);
+                    viewer = codeViewer.editor;
+                }
+                var InnerHtml = editor.getHtml();
+                var Css = editor.getCss();
+                modal.setContent('');
+                modal.setContent(container);
+                codeViewer.setContent(InnerHtml + "<style>" + Css + '</style>');
+                modal.open();
+                viewer.refresh();
+            }
+        });
+
+        pnm.addButton('options',
+            [
+                {
+                    id: 'edit',
+                    className: 'fa fa-edit',
+                    command: 'html-edit',
+                    attributes: {
+                        title: 'Edit'
+                    }
+                }
+            ]
+        );
     </script>
 
     <script>

@@ -1,7 +1,7 @@
 <?php include('inc/header.php'); ?>
 
 
-        <section class="hero-2" style="background-image: url(\'/static/img/bg-payins.jpg\');">
+        <section class="hero-2" style="background-image: url(/static/img/bg-payins.jpg);">
           <div class="container d-flex flex-column gap-3 pb-5 pt-5">
             <div class="row justify-content-center">
               <div class="col-12 col-lg-5 d-flex flex-column gap-2">

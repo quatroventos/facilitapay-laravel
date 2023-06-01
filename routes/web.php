@@ -32,22 +32,26 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 
 
 Route::get('/admin', function () {
-	return redirect('/default');
+	return redirect('admin/default');
 })->middleware('auth');
 
-Route::get('/login', [LoginController::class, 'show'])->middleware('guest')->name('login');
-Route::post('/login', [LoginController::class, 'login'])->middleware('guest')->name('login.perform');
+Route::group(['prefix' => '/admin'], function () {
 
-Route::get('/register', [RegisterController::class, 'show'])->middleware('guest')->name('register');
-Route::post('/register', [RegisterController::class, 'register'])->middleware('guest')->name('register.perform');
+    Route::get('/login', [LoginController::class, 'show'])->middleware('guest')->name('login');
+    Route::post('/login', [LoginController::class, 'login'])->middleware('guest')->name('login.perform');
 
-Route::get('/reset-password', [ResetPassword::class, 'show'])->middleware('guest')->name('reset-password');
-Route::post('/reset-password', [ResetPassword::class, 'send'])->middleware('guest')->name('reset.perform');
+    Route::get('/register', [RegisterController::class, 'show'])->middleware('guest')->name('register');
+    Route::post('/register', [RegisterController::class, 'register'])->middleware('guest')->name('register.perform');
 
-Route::get('/change-password', [ChangePassword::class, 'show'])->middleware('guest')->name('change-password');
-Route::post('/change-password', [ChangePassword::class, 'update'])->middleware('guest')->name('change.perform');
+    Route::get('/reset-password', [ResetPassword::class, 'show'])->middleware('guest')->name('reset-password');
+    Route::post('/reset-password', [ResetPassword::class, 'send'])->middleware('guest')->name('reset.perform');
 
-Route::group(['middleware' => 'auth'], function () {
+    Route::get('/change-password', [ChangePassword::class, 'show'])->middleware('guest')->name('change-password');
+    Route::post('/change-password', [ChangePassword::class, 'update'])->middleware('guest')->name('change.perform');
+
+});
+
+Route::group(['prefix' => '/admin', 'middleware' => 'auth'], function () {
 
     Route::get('/user-profile', [ProfileController::class, 'show'])->name('user-profile');
     Route::post('/user-profile', [ProfileController::class, 'update'])->name('user-profile.perform');
@@ -81,6 +85,7 @@ Route::group(['middleware' => 'auth'], function () {
         Route::get('/partner-management/edit/{id}', 'edit')->name('partner-edit');
         Route::post('/partner-management/edit/{id}', 'update')->name('partner-edit.update');
         Route::post('/partner-delete/{id}', 'destroy')->name('partner-destroy');
+        Route::get('/partners-block/', 'block')->name('partners-block');
     });
 
     Route::controller(PagesController::class)->group(function() {
@@ -88,6 +93,7 @@ Route::group(['middleware' => 'auth'], function () {
         Route::get('/page-management/new', 'create')->name('page-new');
         Route::post('/page-management/new', 'store')->name('page-new.store');
         Route::get('/page-management/edit/{locale}/{id}', 'edit')->name('page-edit');
+        Route::get('/page-management/edit-html/{locale}/{id}', 'editHTML')->name('page-edit-html');
         Route::post('/page-management/edit/{id}', 'update')->name('page-edit.update');
         Route::post('/page-delete/{id}', 'destroy')->name('page-destroy');
         Route::post('/page-translate/{id}', 'storetranslation')->name('page-translate.store');
@@ -175,7 +181,7 @@ Route::group(['middleware' => 'auth'], function () {
 //páginas
 
 Route::group(['prefix' => LaravelLocalization::setLocale()], function () {
-    Route::get('/', [PagesController::class, 'frontend'])->name('page');
+    Route::get('/', [PagesController::class, 'frontend'])->name('home');
     Route::get('{slug}', [PagesController::class, 'frontend'])->name('page');
 });
 

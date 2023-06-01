@@ -66,4 +66,10 @@ class PartnersController extends Controller
         $item->delete();
         return redirect()->route('partner-management')->with('succes', 'Parceiro apagado!');
     }
+
+    public function block()
+    {
+        $partners = Partners::all();
+        return json_encode($partners);
+    }
 }

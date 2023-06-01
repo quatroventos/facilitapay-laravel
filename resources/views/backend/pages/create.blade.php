@@ -212,6 +212,7 @@
             container: '#gjs',
             fromElement: true,
             storageManager: false,
+            allowScripts: 1,
             autosave: false, // Store data automatically
             autoload: false, // Autoload stored data on init
             // stepsBeforeSave: 1,
@@ -246,6 +247,13 @@
                         }
                     },
                     @endforeach
+                    {
+                        id: 'partners',
+                        label: 'Logos de parceiros',
+                        content: function () {
+                            return getPartnersContent(); // Gere o conteúdo dinamicamente durante a renderização do bloco
+                        }
+                    }
                 ],
             },
         });
@@ -271,6 +279,26 @@
             //update SEO metadesc
             var cleanHTML = editor.getHtml().replace(/<\/?[^>]+(>|$)/g, "")
             $('#meta-desc').val(cleanHTML);
+        }
+
+        //recuperar logos
+
+        function getPartnersContent() {
+            var content = '';
+
+            $.ajax({
+                url: '{{route('partners-block')}}',
+                method: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    console.log(data);
+                    data.forEach(function(post) {
+                        content += post.logo; // Adicione o conteúdo dinâmico ao bloco
+                    });
+                }
+            });
+
+            return content;
         }
 
     </script>

@@ -651,3 +651,14 @@ area{
     padding:10px;
 }
 
+.submenu.lang-menu{
+    background: white;
+    width:auto;
+}
+.lang-menu a{
+    color:black;
+}
+
+.language a{
+    cursor: pointer;
+}
