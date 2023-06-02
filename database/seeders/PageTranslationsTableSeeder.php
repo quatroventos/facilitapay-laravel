@@ -561,13 +561,189 @@ FIND OUT MORE',
                 'pages_id' => 9,
                 'locale' => 'pt',
                 'title' => 'Home',
-                'html' => '<body class="home"><div id="iiel"><section><div class="container d-flex flex-column gap-2 text-center pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-9 d-flex flex-column gap-1"><h6 id="iqfj">Somos a Facilitapay</h6><h2><strong id="iqab">The payment platform designed for the growth and scale of your business. One simple integration, multiple countries.</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-10"><p>Meet FacilitaPay. The future of payment ecosystem. <br/>We developed the best solutions for international companies to access LatAm.</p></div></div><div class="row justify-content-center"><div class="col justify-content-center d-flex"><a href="optin.php" class="btn"><strong>Let’s talk</strong></a><a href="optin.php" class="btn btn-simple"><strong>Learn more</strong></a></div></div></div></section><div class="h-4"></div><section class="dashboard"><div class="container gap-24 text-center"><div class="row justify-content-center"><div class="col-12 col-lg-10 gap-12"><img src="/static/img/dashboard.jpg" id="dash" class="img-fluid ignoreanimation"/></div></div></div></section><section class="slider"><div class="container d-flex flex-column gap-2 pb-4 pt-4"><div class="row"><div class="col-12 d-flex flex-column align-items-center"><h6>Trusted by tech giants:</h6></div></div><div class="row"><div class="col-12"><div class="owl-carousel owl-partners owl-theme"><div class="item"><img src="/static/img/logos/kraken.png" id="ihlkq" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/stake.png" id="iyjxk" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bybit-blue.png" id="iure3" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/sproutfi.png" id="iess4" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bitso-blue.png" id="irxrv" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/tickmill.png" id="ipoax" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okx-blue.png" id="iva8i" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/wyre.png" id="iaz37" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okcoin.png" id="ig96z" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/angloamerican.png" id="ijd4g"/></div><div class="item"><img src="/static/img/logos/bit2me.png" id="izl6q" class="img-fluid"/></div></div></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4 text-center"><div class="row justify-content-center"><div class="col-12 col-lg-10 gap-1"><h6>Why FacilitaPay</h6><h2><strong>Designed to take your business<br/>to the next level.</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-10"><p>Grow exponentually and increase revenue in Latin America through our +100 local payment methods including credit cards and alternative payment methods with high performance in approval and conversion rates, besides a great speed in processing. FacilitaPay platform is designed to provide the full local payment ecosystem with a single integration, enabling companies to expand their market reach fast.</p></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row align-items-center justify-content-center"><div class="col-8 col-sm-6 col-lg-5"><img id="blocks" src="/static/img/blocks.jpg" class="img-fluid"/></div><div class="col-12 col-sm-6 col-lg-5 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6>Effortless</h6><h2><strong>Start now with Plug &amp;<br/> Play integrations.</strong></h2><p>Connect to our proprietary technology, constantly evolving to meet our customers demands, with one single API.</p></div><a href="optin.php" class="btn btn-big me-auto"><strong>Start now</strong></a></div></div></div></section><section class="bullets-1 bg-white animatedcards"><div class="container pt-4"><div class="row row-gap-2"><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-1.svg" class="h-3 me-auto"/><h4><strong>Pay in &amp; Pay outs</strong></h4><p>Local acquiring in LatAm market, and over 190+ connections worldwide. Open banking crypto acceptance over 50+ APMs.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-2.svg" class="h-3 me-auto"/><h4><strong>Performance</strong></h4><p>Built to be scalable and help companies to process a high demand of payments instantly through global connections, consolidating data and payment information to enhancing authorizations.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-3.svg" class="h-3 me-auto"/><h4><strong>Customized for your needs</strong></h4><p>Enabling different businesses models and funds flow to integrate any customer need, adapting the infrastructure to fit different regulations and risk levels.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-4.svg" class="h-3 me-auto"/><h4><strong>Scalable &amp; reliable</strong></h4><p>Technology created to keep performance during high-demand peak events and maintaining the same level of speed. Ensuring 99.999% uptime and 24x7 monitoring.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-5.svg" class="h-3 me-auto"/><h4><strong>Actionable reporting</strong></h4><p>Get data that adds value to your business from any transaction or customer behavior. We have all the information just an endpoint away.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-6.svg" class="h-3 me-auto"/><h4><strong>We got your back, always</strong></h4><p>Our team help clients to operate locally, without the necessity of talking to chatbots or opening tickets. We are here for you.</p></div></div></div></section><div class="h-4 bg-white"></div><section id="map" class="map"><div class="container text-center pt-4"><div class="row justify-content-center"><div id="welcome" class="col-12 d-flex flex-column gap-1"><h6>welcome to latam</h6><h2><strong>Accept all payment methods available in each country</strong></h2></div></div><div class="row"><div class="col-12"><div class="map-container"><img src="/static/img/map-home.jpg" usemap="#map" class="img-fluid d-none d-sm-flex"/><img src="/static/img/map-home-mobile.jpg" class="img-fluid d-flex d-sm-none"/><map name="map" id="tooltipcanvas"><area href="markets-brazil.php" data-name="brasil" shape="poly" coords="370,431,381,426,385,437,398,437,418,429,434,450,467,462,494,479,471,523,540,527,541,542,470,543,446,568,436,578,441,589,431,608,419,606,409,599,420,577,411,564,396,552,396,535,383,523,377,514,363,505,357,494,341,499,327,493,325,476,340,470,341,443" class="ttiptrigger"/><area href="markets-colombia.php" data-name="colombia" shape="poly" coords="323,387,316,393,308,419,216,421,221,435,315,433,324,456,338,456,336,435,347,428,347,413,334,404" class="ttiptrigger"/><area href="markets-mexico.php" data-name="mexico" shape="poly" coords="180,321,109,325,112,338,188,339,218,360,243,360,268,336,229,344,219,306,200,298,186,283,161,281,151,301" class="ttiptrigger"/><area data-name="chile" shape="poly" coords="341,540,341,582,279,587,281,599,337,600,358,695,402,721,375,692,365,652,356,591,357,562" class="ttiptrigger"/></map></div></div></div></div></section><div class="ttipcontainer"><div id="brasil" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-pix-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-boleto-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><small>Click to discover all payment methods</small></div><div id="mexico" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-spei-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-oxxo-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-codi-blue.svg"/><small>Click to discover all payment methods</small></div><div id="colombia" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-pse-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-money-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><small>Click to discover all payment methods</small></div><div id="chile" class="ttip ignoreanimation"><p>Chile, we are coming.</p></div></div><div class="h-4 bg-white"></div><section class="hero-7"><div class="container d-flex flex-column gap-3 pb-5 pt-5"><div class="row d-flex row-gap-3 align-items-center justify-content-center"><div class="col-12 col-sm-6 d-flex flex-column gap-2"><div class="d-flex flex-column gap-2"><div class="pe-5"><img src="/static/img/logo-pix-global.svg" class="img-fluid"/></div><h3 class="txt-white"><strong>The revolutionary instant payment method for global companies. The Brazilian payment method accepted worldwide.</strong></h3></div><p class="txt-white">With PIX Global, you receive transactions immediately in your account, avoiding abusive fees and improving your customer experience.</p></div><div class="col-12 col-sm-5"><img id="pix" src="/static/img/pix-global-connect.svg" class="img-fluid"/></div></div><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-8"><h2 class="txt-white"><strong>Why you should open an account for receiving PIX transactions:</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-8"><div class="row d-flex row-gap-2"><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-1.svg" class="w-2"/><p class="txt-blue"><strong>Travelers will have less costs paying through PIX</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-2.svg" class="w-2"/><p class="txt-blue"><strong>Less transactional costs for sellers</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-3.svg" class="w-2"/><p class="txt-blue"><strong>No monthly fees to setup an account</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-4.svg" class="w-2"/><p class="txt-blue"><strong>No FX risks for sellers and buyers</strong></p></div></div><div class="col-12 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-5.svg" class="w-2"/><p class="txt-blue"><strong>You can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.</strong></p></div></div></div></div></div><div class="row d-flex justify-content-center text-center"><div class="col-8"><a href="pix-global.php" class="btn btn-6 d-inline-flex"><strong>Learn more</strong></a></div></div></div></section><div class="h-4 bg-white"></div><section class="bg-white"><div class="container"><div class="row"><div class="col-12 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6>ONBOARDING FLOW</h6><h2><strong>Easy to setup and start</strong></h2><p>One simple integration, multiple countries</p></div><a href="https://sandbox-portal.facilitapay.com/" target="_blank" class="btn me-auto"><strong>Sandbox</strong></a></div></div></div></section><div class="h-4 bg-white"></div><section class="steps"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-13.svg" class="stepico"/></div><h6>Step 1</h6><h5>Plataform and APIs Demo.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-14.svg" class="stepico"/></div><h6>Step 2</h6><h5>Definition of payment flow and available currencies.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-15.svg" class="stepico"/></div><h6>Step 3</h6><h5>Negotiating terms and signing a contract.</h5></div></div></div></div></section><section class="steps"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-16.svg" class="stepico"/></div><h6>Step 4</h6><h5>Integration.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-17.svg" class="stepico"/></div><h6>Step 5</h6><h5>Penny tests, final adjustment.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-18.svg" class="stepico"/></div><h6>Step 6</h6><h5>Acess the local payment market with our solution.</h5></div></div></div></div></section><section class="content-8"><div class="container"><div class="row justify-content-center"><div id="location" class="col-11 col-lg-10"><div class="container d-flex flex-column gap-2 p-1 pb-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-sm-8 d-flex flex-column text-center justify-content-center"><div class="d-flex flex-column gap-2 text-center justify-content-center"><div class="d-flex flex-column gap-1"><h6 class="txt-white">Let’s Go</h6><h2 class="txt-white"><strong>Ready to unlock new markets?</strong></h2><p class="txt-white">Understand more about local payment methods available in each country, consumer behavior and local data. You will find everything you need for your expansion.</p></div><a href="optin.php" class="btn m-auto"><strong>FIND OUT MORE</strong></a></div></div></div></div></div></div></div></section><div class="h-4"></div></div></body>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+                'html' => '<section><div class="container d-flex flex-column gap-2 text-center pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-9 d-flex flex-column gap-1"><h6 id="i0gz">NÓS SOMOS A FACILITAPAY<br/></h6><h2><strong id="iziq">A plataforma de pagamento projetada para o crescimento e a escala de seus negócios. Uma integração simples, vários países.</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-10"><p id="ikwmk">Conheça a FacilitaPay. O futuro do ecossistema de pagamentos.<br/>Desenvolvemos as melhores soluções para empresas internacionais acessarem a América Latina.<br/></p></div></div><div class="row justify-content-center"><div class="col justify-content-center d-flex"><a href="optin.php" class="btn"><strong id="is06b">Vamos conversar</strong></a><a href="optin.php" class="btn btn-simple"><strong id="ijz6p">Saiba mais</strong></a></div></div></div></section><div class="h-4"></div><section class="dashboard"><div class="container gap-24 text-center"><div class="row justify-content-center"><div class="col-12 col-lg-10 gap-12"><img src="/static/img/dashboard.jpg" id="dash" class="img-fluid ignoreanimation"/></div></div></div></section><section class="slider"><div class="container d-flex flex-column gap-2 pb-4 pt-4"><div class="row"><div class="col-12 d-flex flex-column align-items-center"><h6 id="ix4j6">CONFIADO POR GIGANTES DA TECNOLOGIA<br/></h6></div></div><div class="row"><div class="col-12"><div class="owl-carousel owl-partners owl-theme"><div class="item"><img src="/static/img/logos/kraken.png" id="idyhb" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/stake.png" id="ipuk5" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bybit-blue.png" id="i336y" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/sproutfi.png" id="ichjl" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bitso-blue.png" id="i889j" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/tickmill.png" id="i4zdh" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okx-blue.png" id="iypdv" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/wyre.png" id="ip0oo" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okcoin.png" id="ik44i" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/angloamerican.png" id="ib3di"/></div><div class="item"><img src="/static/img/logos/bit2me.png" id="ikyzg" class="img-fluid"/></div></div></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4 text-center"><div class="row justify-content-center"><div class="col-12 col-lg-10 gap-1"><h6 id="ift4m">PORQUÊ A FACILITAPAY?</h6><h2><strong id="iy8ml">Nossa plataforma é projetada para levar seu negócio para o próximo nível.</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-10"><p id="ijz4j">Cresça exponencialmente e aumente a receita na América Latina por meio de nossos mais de 100 métodos de pagamento locais, incluindo cartões de crédito e métodos de pagamento alternativos com alto desempenho em taxas de aprovação e conversão, além de uma grande velocidade de processamento. <br/><br/>A plataforma FacilitaPay foi projetada para fornecer todo o ecossistema de pagamento local com uma única integração, permitindo que as empresas expandam rapidamente seu alcance de mercado.<br/></p></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row align-items-center justify-content-center"><div class="col-8 col-sm-6 col-lg-5"><img id="blocks" src="/static/img/blocks.jpg" class="img-fluid"/></div><div class="col-12 col-sm-6 col-lg-5 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6 id="i2a5k">SIMPLES E FÁCIL.</h6><h2><strong id="i7jsm">Comece agora com as integrações Plug &amp; Play.</strong></h2><p id="iyzpk">Conecte-se à nossa tecnologia proprietária, em constante evolução para atender às demandas de nossos clientes, com uma única API.</p></div><a href="optin.php" class="btn btn-big me-auto"><strong id="isk5g">Comece agora</strong></a></div></div></div></section><section class="bullets-1 bg-white animatedcards"><div class="container pt-4"><div class="row row-gap-2"><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-1.svg" class="h-3 me-auto"/><h4><strong id="ise7dz">Pay in &amp; Pay outs</strong></h4><p id="iscubj">Aquisição local no mercado latino-americano e mais de 190 conexões em todo o mundo. Aceitação de criptografia de banco aberto em mais de 50 APMs.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-2.svg" class="h-3 me-auto"/><h4><strong id="i6dxez">Desempenho</strong></h4><p id="ian2he">Criado para ser escalável e ajudar as empresas a processar uma alta demanda de pagamentos instantaneamente por meio de conexões globais, consolidando dados e informações de pagamento para aprimorar as autorizações.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-3.svg" class="h-3 me-auto"/><h4><strong id="iqkffm">Adaptado para suas necessidades</strong></h4><p id="ifc3h3">Permite diferentes modelos de negócios e fluxo de fundos para integrar qualquer necessidade do cliente, adaptando a infraestrutura para atender a diferentes regulamentações e níveis de risco.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-4.svg" class="h-3 me-auto"/><h4><strong id="ik1z3k">Escalável e confiável</strong></h4><p id="icslqi">Tecnologia criada para manter o desempenho durante eventos de pico de alta demanda e manter o nível de velocidade. Garantindo 99,999% de tempo de atividade e monitoramento 24 horas por dia, 7 dias por semana.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-5.svg" class="h-3 me-auto"/><h4><strong id="ic2k3h">Relatórios acionáveis</strong></h4><p id="i3tym7">Obtenha dados que agregam valor ao seu negócio a partir de qualquer transação ou comportamento do cliente. Temos todas as informações a apenas um endpoint de distância.</p></div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-1 animatedcard"><img src="/static/img/icos/ico-6.svg" class="h-3 me-auto"/><h4><strong id="i9au01">Estaremos com você, sempre</strong></h4><p id="iqp70m">Nossa equipe ajuda os clientes a operar localmente, sem a necessidade de falar com chatbots ou abrir tickets. Estamos aqui para você.</p></div></div></div></section><div class="h-4 bg-white"></div><section id="map" class="map"><div class="container text-center pt-4"><div class="row justify-content-center"><div id="welcome" class="col-12 d-flex flex-column gap-1"><h6 id="imbdcu">BEM VINDO A AMÉRICA LATINA</h6><h2><strong id="iu0ias">Aceitar todos os métodos de pagamento disponíveis em cada país.</strong></h2></div></div><div class="row"><div class="col-12"><div class="map-container"><img src="/static/img/map-home.jpg" usemap="#map" class="img-fluid d-none d-sm-flex"/><img src="/static/img/map-home-mobile.jpg" class="img-fluid d-flex d-sm-none"/><map name="map" id="tooltipcanvas"><area href="markets-brazil.php" data-name="brasil" shape="poly" coords="370,431,381,426,385,437,398,437,418,429,434,450,467,462,494,479,471,523,540,527,541,542,470,543,446,568,436,578,441,589,431,608,419,606,409,599,420,577,411,564,396,552,396,535,383,523,377,514,363,505,357,494,341,499,327,493,325,476,340,470,341,443" class="ttiptrigger"/><area href="markets-colombia.php" data-name="colombia" shape="poly" coords="323,387,316,393,308,419,216,421,221,435,315,433,324,456,338,456,336,435,347,428,347,413,334,404" class="ttiptrigger"/><area href="markets-mexico.php" data-name="mexico" shape="poly" coords="180,321,109,325,112,338,188,339,218,360,243,360,268,336,229,344,219,306,200,298,186,283,161,281,151,301" class="ttiptrigger"/><area data-name="chile" shape="poly" coords="341,540,341,582,279,587,281,599,337,600,358,695,402,721,375,692,365,652,356,591,357,562" class="ttiptrigger"/></map></div></div></div></div></section><div class="ttipcontainer"><div id="brasil" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-pix-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-boleto-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><small>Click to discover all payment methods</small></div><div id="mexico" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-spei-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-oxxo-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-international-wires-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-codi-blue.svg"/><small>Click to discover all payment methods</small></div><div id="colombia" class="ttip ignoreanimation"><img width="20" src="/static/img/finance/SVG/ico-pse-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-card-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-money-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-ted-blue.svg"/><img width="20" src="/static/img/finance/SVG/ico-crypto-currencies-blue.svg"/><small>Click to discover all payment methods</small></div><div id="chile" class="ttip ignoreanimation"><p>Chile, we are coming.</p></div></div><div class="h-4 bg-white"></div><section class="hero-7"><div class="container d-flex flex-column gap-3 pb-5 pt-5"><div class="row d-flex row-gap-3 align-items-center justify-content-center"><div class="col-12 col-sm-6 d-flex flex-column gap-2"><div class="d-flex flex-column gap-2"><div class="pe-5"><img src="/static/img/logo-pix-global.svg" class="img-fluid"/></div><h3 class="txt-white"><strong id="iemiyf">O revolucionário método de pagamento instantâneo para empresas globais. O método de pagamento brasileiro aceito em todo o mundo.</strong></h3></div><p class="txt-white">Com o PIX Global, você recebe as transações imediatamente em sua conta, evitando taxas abusivas e melhorando a experiência de seus clientes.</p></div><div class="col-12 col-sm-5"><img id="pix" src="/static/img/pix-global-connect.svg" class="img-fluid"/></div></div><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-8"><h2 class="txt-white"><strong>Why you should open an account for receiving PIX transactions:</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-8"><div class="row d-flex row-gap-2"><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-1.svg" class="w-2"/><p class="txt-blue"><strong>Travelers will have less costs paying through PIX</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-2.svg" class="w-2"/><p class="txt-blue"><strong>Less transactional costs for sellers</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-3.svg" class="w-2"/><p class="txt-blue"><strong>No monthly fees to setup an account</strong></p></div></div><div class="col-12 col-sm-6 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-4.svg" class="w-2"/><p class="txt-blue"><strong>No FX risks for sellers and buyers</strong></p></div></div><div class="col-12 d-flex flex-column gap-1"><div class="d-flex bg-white border-radius gap-2 align-items-startpa p-2 pixanimatedcard"><img src="/static/img/icos/ico-5.svg" class="w-2"/><p class="txt-blue"><strong>You can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.</strong></p></div></div></div></div></div><div class="row d-flex justify-content-center text-center"><div class="col-8"><a href="pix-global.php" class="btn btn-6 d-inline-flex"><strong>Learn more</strong></a></div></div></div></section><!-- <section class="crypto">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-3 col-lg-2">
+<h6>CRYPTO</h6>
+</div>
+<div class="col-12 col-sm-9 col-lg-7 gap-32">
+<h1>We were born into crypto.</h1>
+<p>Since 2017 we realized that blockchain would revolutionize the world of finance. Our ideal at FacilitaPay is to act as a tool that will collaborate with the growth of Web 3 infrastructure. <br><br><strong>Are you in the Crypto world looking to increase your customer base in LatAm?</strong></p>
+<a href="optin.php" class="btn me-auto">Start now</a>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-sm-3 col-lg-2 d-none d-sm-flex">
+<div class="controls">
+<ul>
+<li>01</li>
+<li></li>
+<li>06</li>
+</ul>
+<ul>
+<li><a href="">Prev</a></li>
+<li><a href="">Next</a></li>
+</ul>
+</div>
+</div>
+<div class="col-12 col-sm-9 col-lg-10">
+<ul class="items">
+<li>
+<div><img src="/static/img/icos/ico-7.svg"></div>
+<div>
+<h4>Store</h4>
+<p>Control your funds through our multicurrency solution, managing all the custody in our dashboard.</p>
+</div>
+</li>
+<li>
+<div><img src="/static/img/icos/ico-8.svg"></div>
+<div>
+<h4>Fraud prevention</h4>
+<p>Proprietary technology helping to prevent fraud locally in LatAm.</p>
+</div>
+</li>
+<li>
+<div><img src="/static/img/icos/ico-9.svg"></div>
+<div>
+<h4>Highly Configurable</h4>
+<p>Adaptable to any business model, our clients can build their business on top of our technology.</p>
+</div>
+</li>
+<li>
+<div><img src="/static/img/icos/ico-10.svg"></div>
+<div>
+<h4>Audit transactions</h4>
+<p>Compliant with global auditors and regulators, customers can access data worldwide.</p>
+</div>
+</li>
+<li>
+<div><img src="/static/img/icos/ico-11.svg"></div>
+<div>
+<h4>Developer Friendly</h4>
+<p>Built to be part of our client\'s technology, we have all the features to be embedded in other platforms.</p>
+</div>
+</li>
+<li>
+<div><img src="/static/img/icos/ico-12.svg"></div>
+<div>
+<h4>Local KYC Features</h4>
+<p>Helping our clients to onboard their local users through our own platform and integrated in the customer experience.</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="row text-center slider">
+<div class="col-12 gap-24">
+<h6>Trusted by crypto giants:</h6>
+<ul class="" style=" display: flex; justify-content: center;">
+<li><img src="/static/img/logos/logo2-negative.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/bybit.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/bitso.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/okx.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/logo3-negative.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/logo8-negative.png" class="img-fluid" ></li>
+<li><img src="/static/img/logos/logo1-negative.png" class="img-fluid" ></li>
+</ul>
+</div>
+</div>
+</div>
+</section> --><div class="h-4 bg-white"></div><section class="bg-white"><div class="container"><div class="row"><div class="col-12 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6 id="ikvz9n">FLUXO DE ONBOARDING:</h6><h2><strong id="ippvgk">Fácil de configurar e iniciar.</strong></h2><p id="ijmap1">Uma única integração, vários países</p></div><a href="https://sandbox-portal.facilitapay.com/" target="_blank" class="btn me-auto"><strong>Sandbox</strong></a></div></div></div></section><div class="h-4 bg-white"></div><section class="steps"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-13.svg" class="stepico"/></div><h6>Step 1</h6><h5 id="igdhoh">Plataforma e demonstrações de API.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-14.svg" class="stepico"/></div><h6>Step 2</h6><h5 id="iojn6m">Definição dos fluxos de pagamento e moedas fiduciárias disponíveis.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-15.svg" class="stepico"/></div><h6>Step 3</h6><h5 id="ij8zbz">Negociação dos termos e assinatura de contrato.</h5></div></div></div></div></section><section class="steps"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-16.svg" class="stepico"/></div><h6>Step 4</h6><h5 id="i2tg4w">Integração.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-17.svg" class="stepico"/></div><h6>Step 5</h6><h5 id="iq3cmi">Primeiros testes e ajustes finais de integração.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-18.svg" class="stepico"/></div><h6>Step 6</h6><h5 id="iblx6i">Acesse o mercado local de pagamentos com a nossa solução.</h5></div></div></div></div></section><section class="content-8"><div class="container"><div class="row justify-content-center"><div id="location" class="col-11 col-lg-10"><div class="container d-flex flex-column gap-2 p-1 pb-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-sm-8 d-flex flex-column text-center justify-content-center"><div class="d-flex flex-column gap-2 text-center justify-content-center"><div class="d-flex flex-column gap-1"><h6 class="txt-white">VAMOS LÁ</h6><h2 class="txt-white"><strong id="ifb3or">Pronto para desbloquear novos mercados?</strong></h2><p class="txt-white">Entenda mais sobre os métodos de pagamento locais disponíveis em cada país, o comportamento do consumidor e os dados locais. Você encontrará tudo o que precisa para sua expansão.</p></div><a href="optin.php" class="btn m-auto"><strong id="i8626g">DESCUBRA MAIS</strong></a></div></div></div></div></div></div></div></section><div class="h-4"></div>',
+            'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#idyhb{fill:blue;height:35px;width:auto;}#ipuk5{fill:blue;height:35px;width:auto;}#i336y{fill:blue;height:35px;width:auto;}#ichjl{fill:blue;height:35px;width:auto;}#i889j{fill:blue;height:35px;width:auto;}#i4zdh{fill:blue;height:35px;width:auto;}#iypdv{fill:blue;height:35px;width:auto;}#ip0oo{fill:blue;height:35px;width:auto;}#ik44i{fill:blue;height:35px;width:auto;}#ib3di{fill:blue;height:35px;width:auto;}#ikyzg{fill:blue;height:35px;width:auto;}#map{position:relative;}#location{background-image:url("/static/img/locations.jpg");}',
                 'metatitle' => 'Home',
                 'slug' => NULL,
-                'metadescription' => 'Somos a FacilitapayThe payment platform designed for the growth and scale of your business. One simple integration, multiple countries.Meet FacilitaPay. The future of payment ecosystem. We developed the best solutions for international companies to access LatAm.Let’s talkLearn moreTrusted by tech giants:Why FacilitaPayDesigned to take your businessto the next level.Grow exponentually and increase revenue in Latin America through our +100 local payment methods including credit cards and alternative payment methods with high performance in approval and conversion rates, besides a great speed in processing. FacilitaPay platform is designed to provide the full local payment ecosystem with a single integration, enabling companies to expand their market reach fast.EffortlessStart now with Plug &amp; Play integrations.Connect to our proprietary technology, constantly evolving to meet our customers demands, with one single API.Start nowPay in &amp; Pay outsLocal acquiring in LatAm market, and over 190+ connections worldwide. Open banking crypto acceptance over 50+ APMs.PerformanceBuilt to be scalable and help companies to process a high demand of payments instantly through global connections, consolidating data and payment information to enhancing authorizations.Customized for your needsEnabling different businesses models and funds flow to integrate any customer need, adapting the infrastructure to fit different regulations and risk levels.Scalable &amp; reliableTechnology created to keep performance during high-demand peak events and maintaining the same level of speed. Ensuring 99.999% uptime and 24x7 monitoring.Actionable reportingGet data that adds value to your business from any transaction or customer behavior. We have all the information just an endpoint away.We got your back, alwaysOur team help clients to operate locally, without the necessity of talking to chatbots or opening tickets. We are here for you.welcome to latamAccept all payment methods available in each countryClick to discover all payment methodsClick to discover all payment methodsClick to discover all payment methodsChile, we are coming.The revolutionary instant payment method for global companies. The Brazilian payment method accepted worldwide.With PIX Global, you receive transactions immediately in your account, avoiding abusive fees and improving your customer experience.Why you should open an account for receiving PIX transactions:Travelers will have less costs paying through PIXLess transactional costs for sellersNo monthly fees to setup an accountNo FX risks for sellers and buyersYou can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.Learn moreONBOARDING FLOWEasy to setup and startOne simple integration, multiple countriesSandboxStep 1Plataform and APIs Demo.Step 2Definition of payment flow and available currencies.Step 3Negotiating terms and signing a contract.Step 4Integration.Step 5Penny tests, final adjustment.Step 6Acess the local payment market with our solution.Let’s GoReady to unlock new markets?Understand more about local payment methods available in each country, consumer behavior and local data. You will find everything you need for your expansion.FIND OUT MORE',
+                'metadescription' => 'NÓS SOMOS A FACILITAPAYA plataforma de pagamento projetada para o crescimento e a escala de seus negócios. Uma integração simples, vários países.Conheça a FacilitaPay. O futuro do ecossistema de pagamentos.Desenvolvemos as melhores soluções para empresas internacionais acessarem a América Latina.Vamos conversarSaiba maisCONFIADO POR GIGANTES DA TECNOLOGIAPORQUÊ A FACILITAPAY?Nossa plataforma é projetada para levar seu negócio para o próximo nível.Cresça exponencialmente e aumente a receita na América Latina por meio de nossos mais de 100 métodos de pagamento locais, incluindo cartões de crédito e métodos de pagamento alternativos com alto desempenho em taxas de aprovação e conversão, além de uma grande velocidade de processamento. A plataforma FacilitaPay foi projetada para fornecer todo o ecossistema de pagamento local com uma única integração, permitindo que as empresas expandam rapidamente seu alcance de mercado.SIMPLES E FÁCIL.Comece agora com as integrações Plug &amp; Play.Conecte-se à nossa tecnologia proprietária, em constante evolução para atender às demandas de nossos clientes, com uma única API.Comece agoraPay in &amp; Pay outsAquisição local no mercado latino-americano e mais de 190 conexões em todo o mundo. Aceitação de criptografia de banco aberto em mais de 50 APMs.DesempenhoCriado para ser escalável e ajudar as empresas a processar uma alta demanda de pagamentos instantaneamente por meio de conexões globais, consolidando dados e informações de pagamento para aprimorar as autorizações.Adaptado para suas necessidadesPermite diferentes modelos de negócios e fluxo de fundos para integrar qualquer necessidade do cliente, adaptando a infraestrutura para atender a diferentes regulamentações e níveis de risco.Escalável e confiávelTecnologia criada para manter o desempenho durante eventos de pico de alta demanda e manter o nível de velocidade. Garantindo 99,999% de tempo de atividade e monitoramento 24 horas por dia, 7 dias por semana.Relatórios acionáveisObtenha dados que agregam valor ao seu negócio a partir de qualquer transação ou comportamento do cliente. Temos todas as informações a apenas um endpoint de distância.Estaremos com você, sempreNossa equipe ajuda os clientes a operar localmente, sem a necessidade de falar com chatbots ou abrir tickets. Estamos aqui para você.BEM VINDO A AMÉRICA LATINAAceitar todos os métodos de pagamento disponíveis em cada país.Click to discover all payment methodsClick to discover all payment methodsClick to discover all payment methodsChile, we are coming.O revolucionário método de pagamento instantâneo para empresas globais. O método de pagamento brasileiro aceito em todo o mundo.Com o PIX Global, você recebe as transações imediatamente em sua conta, evitando taxas abusivas e melhorando a experiência de seus clientes.Why you should open an account for receiving PIX transactions:Travelers will have less costs paying through PIXLess transactional costs for sellersNo monthly fees to setup an accountNo FX risks for sellers and buyersYou can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.Learn more
+
+
+
+CRYPTO
+
+
+We were born into crypto.
+Since 2017 we realized that blockchain would revolutionize the world of finance. Our ideal at FacilitaPay is to act as a tool that will collaborate with the growth of Web 3 infrastructure. Are you in the Crypto world looking to increase your customer base in LatAm?
+Start now
+
+
+
+
+
+
+01
+
+06
+
+
+Prev
+Next
+
+
+
+
+
+
+
+
+Store
+Control your funds through our multicurrency solution, managing all the custody in our dashboard.
+
+
+
+
+
+Fraud prevention
+Proprietary technology helping to prevent fraud locally in LatAm.
+
+
+
+
+
+Highly Configurable
+Adaptable to any business model, our clients can build their business on top of our technology.
+
+
+
+
+
+Audit transactions
+Compliant with global auditors and regulators, customers can access data worldwide.
+
+
+
+
+
+Developer Friendly
+Built to be part of our client\'s technology, we have all the features to be embedded in other platforms.
+
+
+
+
+
+Local KYC Features
+Helping our clients to onboard their local users through our own platform and integrated in the customer experience.
+
+
+
+
+
+
+
+Trusted by crypto giants:
+
+
+
+
+
+
+
+
+
+
+
+
+-->FLUXO DE ONBOARDING:Fácil de configurar e iniciar.Uma única integração, vários paísesSandboxStep 1Plataforma e demonstrações de API.Step 2Definição dos fluxos de pagamento e moedas fiduciárias disponíveis.Step 3Negociação dos termos e assinatura de contrato.Step 4Integração.Step 5Primeiros testes e ajustes finais de integração.Step 6Acesse o mercado local de pagamentos com a nossa solução.VAMOS LÁPronto para desbloquear novos mercados?Entenda mais sobre os métodos de pagamento locais disponíveis em cada país, o comportamento do consumidor e os dados locais. Você encontrará tudo o que precisa para sua expansão.DESCUBRA MAIS',
                 'created_at' => '2023-05-26 19:56:28',
-                'updated_at' => '2023-05-30 18:09:22',
+                'updated_at' => '2023-06-01 19:03:41',
             ),
             2 => 
             array (
@@ -575,9 +751,7 @@ FIND OUT MORE',
                 'pages_id' => 9,
                 'locale' => 'es',
                 'title' => 'Home',
-                'html' => '<body class="home">
-<div id="iiel">
-<section>
+                'html' => '<section>
 <div class="container d-flex flex-column gap-2 text-center pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-9 d-flex flex-column gap-1"><h6 id="ih8j">SOMOS FACILITAPAY</h6>
@@ -904,8 +1078,7 @@ todo lo que necesitas para tu expansión.</p></div>
 </div>
 </section>
 <div class="h-4"></div>
-</div>
-</body>',
+',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'Home',
                 'slug' => NULL,
@@ -936,10 +1109,250 @@ todo lo que necesitas para tu expansión.</p></div>
                 'pages_id' => 11,
                 'locale' => 'pt',
                 'title' => 'Payins',
-                'html' => '<body class="home"><section class="hero-2" id="i4t7"><div class="container d-flex flex-column gap-3 pb-5 pt-5"><div class="row justify-content-center"><div class="col-12 col-lg-5 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6 class="txt-light-green">PAYINS</h6><h3 class="txt-white"><strong id="ij1u">PT Master <strong class="txt-light-green">local payment collection</strong> in emerging markets</strong></h3></div><p class="txt-white">Boost payment conversion rate and reach by offering your users a payment experience they choose daily.</p><a href="optin.php" class="btn me-auto"><strong>Start now</strong></a></div><div class="col-12 col-lg-5">
-</div></div></div></section><section class="content-1 bg-white"><div class="container text-start pb-4 pt-4"><div class="row row-gap-2 flex-column-reverse flex-md-row align-items-center justify-content-center"><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-2"><h4><strong>Deliver a <strong class="txt-light-green">local payment experience</strong> and leverage the best features to boots conversion rates</strong></h4><ul class="d-flex flex-column gap-1"><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Local Credit/Debit cards</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Local transfers</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Local alternative payment methods</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Digital Wallets</span></li></ul></div><div class="col-12 col-md-1">
-</div><div class="col-7 col-md-5 col-lg-4"><img src="/static/img/payins-1.png" class="img-fluid"/></div></div></div></section><section class="content-1 bg-white"><div class="container text-start pb-4"><div class="row row-gap-2 align-items-center justify-content-center"><div class="col-7 col-md-5 col-lg-4"><img src="/static/img/payins-2.png" class="img-fluid"/></div><div class="col-12 col-md-1">
-</div><div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-2"><h4><strong>Reach more than <strong class="txt-light-green">95% consumers in emerging markets</strong>, by accepting the payment methods in which they rely on every day</strong></h4><ul class="d-flex flex-column gap-1"><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Increase approval rates</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Prevent chargebacks</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Connect directly to local payment rails</span></li><li class="d-flex align-items-center gap-1"><img src="/static/img/ico-check-2.svg" class="h-1"/><span>Deliver a faster and low cost experience to your end users</span></li></ul></div></div></div><div class="container text-start pb-4"><div class="row justify-content-center"><div class="col justify-content-center d-flex"><a href="optin.php" class="btn"><strong>Let’s talk</strong></a></div></div></div></section><section class="content-1 bg-white"><div class="container pb-4 pt-4"><div class="row text-center"><div class="col-12"><h2><strong>How it works</strong></h2></div></div></div></section><div class="h-2 bg-white"></div><section class="steps bg-white"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-13.svg"/></div><h6>Step 1</h6><h5>A multi-currency account within FacilitaPay is created for the merchant</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-14.svg"/></div><h6>Step 2</h6><h5>End user instructs a payout directly on merchant&#039;s page/app</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-15.svg"/></div><h6>Step 3</h6><h5>FacilitaPay API acts in the back-end of the merchant&#039;s banking system</h5></div></div></div></div></section><section class="steps bg-white"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-16.svg"/></div><h6>Step 4</h6><h5>FacilitaPay receives the payout instruction</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-17.svg"/></div><h6>Step 5</h6><h5>FacilitaPay convert the funds between internal accounts</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><img src="/static/img/icos/ico-18.svg"/></div><h6>Step 6</h6><h5>They payout is processed by FacilitaPay payment network</h5></div></div></div></div></section><section class="content-1 bg-light-gray"><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-8"><h2><strong>See how FacilitaPay <strong class="txt-light-green">payment solutions</strong> for emerging markets can help your business</strong></h2></div></div><div class="row row-gap-4 text-start align-items-center"><div class="col-12 col-lg-4 d-flex flex-column gap-1"><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-1.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>SaaS</strong></p><p>Improve the payments section of your user’s journey and make recurring and subscription billing more efficient</p></div></div><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-2.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>Shared economy &amp; marketplaces</strong></p><p>Experience frictionless low cost and high value volume payments and mass payouts to run a smooth operation in emerging markets</p></div></div><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-3.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>Online retail</strong></p><p>Sell in the way your customers want to buy with all your payment methods and currencies in one platform</p></div></div></div><div class="col-12 col-lg-4 d-flex flex-column align-items-center"><img src="/static/img/computador.png" class="img-fluid w-50"/></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-4.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>Digital dashboards</strong></p><p>Control all your online transactions in real time.</p></div></div><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-5.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>High cyber security level</strong></p><p>Utilizes high-end transaction monitoring software integrated to our API, upholding financial operation security at all times.</p></div></div><div class="align-items-start d-flex bg-white border-radius gap-2 p-2"><img src="/static/img/icos/ico-6.svg" class="w-2"/><div class="d-flex flex-column gap-1"><p class="txt-blue"><strong>Strong compliance</strong></p><p>Monthly installments, embedded payment optimization and advanced KYC and AML processes, including real-time validation.</p></div></div></div></div></div><div class="container text-start pb-4"><div class="row justify-content-center"><div class="col justify-content-center d-flex"><a href="optin.php" class="btn"><strong>Let’s talk</strong></a></div></div></div></section></body>',
+            'html' => '<section class="hero-2" style="background-image: url(/static/img/bg-payins.jpg);">
+<div class="container d-flex flex-column gap-3 pb-5 pt-5">
+<div class="row justify-content-center">
+<div class="col-12 col-lg-5 d-flex flex-column gap-2">
+<div class="d-flex flex-column gap-1">
+<h6 class="txt-light-green">PAYINS</h6>
+<h3 class="txt-white"><strong>Domine <strong class="txt-light-green">a cobrança de pagamentos locais</strong> em mercados emergentes</strong></h3>
+</div>
+<p class="txt-white">Aumente a taxa de conversão e o alcance dos pagamentos oferecendo aos seus usuários uma experiência de pagamento que eles escolhem diariamente.</p>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
+</div>
+<div class="col-12 col-lg-5">
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="content-1 bg-white">
+<div class="container text-start pb-4 pt-4">
+<div class="row row-gap-2 flex-column-reverse flex-md-row align-items-center justify-content-center">
+<div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-2">
+<h4><strong>Ofereça <strong class="txt-light-green">uma experiência de pagamento local </strong> e aproveite os melhores recursos para aumentar as taxas de conversão</strong></h4>
+<ul class="d-flex flex-column gap-1">
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Cartões de crédito/débito locais</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Transferências locais</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Métodos de pagamento alternativos locais</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Carteiras digitais</span>
+</li>
+</ul>
+</div>
+<div class="col-12 col-md-1">
+</div>
+<div class="col-7 col-md-5 col-lg-4">
+<img src="/static/img/payins-1.png" class="img-fluid">
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="content-1 bg-white">
+<div class="container text-start pb-4">
+<div class="row row-gap-2 align-items-center justify-content-center">
+<div class="col-7 col-md-5 col-lg-4">
+<img src="/static/img/payins-2.png" class="img-fluid">
+</div>
+<div class="col-12 col-md-1">
+</div>
+<div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-2">
+<h4><strong>Atinja mais de <strong class="txt-light-green">95% dos consumidores em mercados emergentes</strong>, aceitando os métodos de pagamento com os quais eles contam todos os dias</strong></h4>
+<ul class="d-flex flex-column gap-1">
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Aumente as taxas de aprovação</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Evite estornos</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Conecte-se diretamente aos trilhos de pagamento locais</span>
+</li>
+<li class="d-flex align-items-center gap-1">
+<img src="/static/img/ico-check-2.svg" class="h-1">
+<span>Ofereça uma experiência mais rápida e de baixo custo aos seus usuários finais</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container text-start pb-4">
+<div class="row justify-content-center">
+<div class="col justify-content-center d-flex">
+<a href="optin.php" class="btn"><strong>Vamos conversar</strong></a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="content-1 bg-white">
+<div class="container pb-4 pt-4">
+<div class="row text-center">
+<div class="col-12">
+<h2><strong>Como funciona?</strong></h2>
+</div>
+</div>
+</div>
+</section>
+
+
+
+<div class="h-2 bg-white"></div>
+
+
+
+<section class="steps bg-white">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-13.svg"></div>
+<h6>Step 1</h6>
+<h5>Uma conta multi-moedas da FacilitaPay é criada para o merchant</h5>
+</div>
+</div>
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-14.svg"></div>
+<h6>Step 2</h6>
+<h5>O usuário final realiza um pagamento diretamente na página/aplicativo do merchant</h5>
+</div>
+</div>
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-15.svg"></div>
+<h6>Step 3</h6>
+<h5>A API do FacilitaPay atua no back-end do sistema bancário do merchant</h5>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="steps bg-white">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-16.svg"></div>
+<h6>Step 4</h6>
+<h5>O FacilitaPay recebe a instrução de pagamento</h5>
+</div>
+</div>
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-17.svg"></div>
+<h6>Step 5</h6>
+<h5>O FacilitaPay converte os fundos entre contas internas</h5>
+</div>
+</div>
+<div class="col-12 col-md-4">
+<div class="d-flex flex-column gap-1">
+<div><img src="/static/img/icos/ico-18.svg"></div>
+<h6>Step 6</h6>
+<h5>O pagamento é processado pela rede de pagamento do FacilitaPay</h5>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="content-1 bg-light-gray">
+<div class="container d-flex flex-column gap-3 pb-4 pt-4">
+<div class="row d-flex justify-content-center text-center">
+<div class="col-12 col-lg-8">
+<h2><strong>Veja como <strong class="txt-light-green">as soluções de pagamento</strong> FacilitaPay para mercados emergentes podem ajudar sua empresaVeja como as soluções de pagamento FacilitaPay para mercados emergentes podem ajudar sua empresa</strong></h2>
+</div>
+</div>
+<div class="row row-gap-4 text-start align-items-center">
+<div class="col-12 col-lg-4 d-flex flex-column gap-1">
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-1.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>SaaS</strong></p>
+<p>Aprimore a seção de pagamentos da jornada do usuário e torne o faturamento recorrente e por assinatura mais eficiente.</p>
+</div>
+</div>
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-2.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>Economia compartilhada e mercados</strong></p>
+<p>Experimente pagamentos de baixo custo e alto valor em volume e pagamentos em massa sem atrito para executar uma operação tranquila em mercados emergentes.</p>
+</div>
+</div>
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-3.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>Varejo on-line</strong></p>
+<p>Venda da maneira que seus clientes querem comprar com todos os seus métodos de pagamento e moedas em uma única plataforma.</p>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-4 d-flex flex-column align-items-center">
+<img src="/static/img/computador.png" class="img-fluid w-50">
+</div>
+<div class="col-12 col-lg-4 d-flex flex-column gap-1">
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-4.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>Dashboards intuitivos</strong></p>
+<p>Controle todas as suas transações on-line em tempo real.</p>
+</div>
+</div>
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-5.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>Alto nível de segurança cibernética</strong></p>
+<p>Utiliza um software de monitoramento de transações de ponta integrado à nossa API, mantendo a segurança das operações financeiras em todos os momentos.</p>
+</div>
+</div>
+<div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
+<img src="/static/img/icos/ico-6.svg" class="w-2">
+<div class="d-flex flex-column gap-1">
+<p class="txt-blue"><strong>Compliance robusto</strong></p>
+<p>Parcelas mensais, otimização de pagamentos incorporados e processos avançados de KYC e AML, incluindo validação em tempo real.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container text-start pb-4">
+<div class="row justify-content-center">
+<div class="col justify-content-center d-flex">
+<a href="optin.php" class="btn"><strong>Vamos conversar</strong></a>
+</div>
+</div>
+</div>
+
+</section>
+
+',
             'css' => '* { box-sizing: border-box; } body {margin: 0;}#i4t7{background-image:url(\\\'/static/img/bg-payins.jpg\\\');}',
                 'metatitle' => 'Payins',
                 'slug' => NULL,
@@ -1292,16 +1705,16 @@ Hablemos',
                 'pages_id' => 12,
                 'locale' => 'pt',
                 'title' => 'Payouts',
-            'html' => '<section class="hero-2" style="background-image: url(\\\'static/img/bg-payouts.jpg\\\');">
+            'html' => '<section class="hero-2" style="background-image: url(\'/static/img/bg-payouts.jpg\');">
 <div class="container d-flex flex-column gap-3 pb-5 pt-5">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-5 d-flex flex-column gap-2">
 <div class="d-flex flex-column gap-1">
 <h6 class="txt-light-green">PAYOUTS</h6>
-<h3 class="txt-white"><strong>Send <strong class="txt-light-green">mass payouts</strong> easily to LATAM</strong></h3>
+<h3 class="txt-white"><strong>Envie <strong class="txt-light-green">pagamentos em massa</strong> facilmente para LATAM.</strong></h3>
 </div>
-<p class="txt-white">Pay your local sellers and partners depositing local currency directly to their local bank accounts.</p>
-<a href="optin.php" class="btn me-auto"><strong>Start now</strong></a>
+<p class="txt-white">Pague seus vendedores e parceiros locais depositando a moeda local diretamente em suas contas bancárias locais.</p>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
 </div>
 <div class="col-12 col-lg-5">
 </div>
@@ -1315,13 +1728,13 @@ Hablemos',
 <div class="container pb-4 pt-4">
 <div class="row row-gap-2 flex-column-reverse flex-sm-row align-items-center justify-content-center">
 <div class="col-12 col-md-6 d-flex flex-column gap-2">
-<h4><strong>Distinguish your global transactions with a <strong class="txt-light-green">localized payment experience</strong></strong></h4>
-<p>Improve your cross-border recipient experience by getting them paid the way they expect to be paid, and with the fastest time-to-account in emerging markets.</p>
+<h4><strong>Diferencie suas transações globais com <strong class="txt-light-green">uma experiência de pagamento localizada</strong></strong></h4>
+<p>Melhore a experiência de seus destinatários internacionais, fazendo com que eles recebam o pagamento da maneira que esperam receber e com o tempo mais rápido para a prestação de contas nos mercados emergentes.</p>
 </div>
 <div class="col-12 col-md-1">
 </div>
 <div class="col-7 col-md-4 col-lg-4">
-<img src="static/img/payouts-1.png" class="img-fluid">
+<img src="/static/img/payouts-1.png" class="img-fluid">
 </div>
 </div>
 </div>
@@ -1336,51 +1749,51 @@ Hablemos',
 <table cellpadding="0" cellspacing="0" class="w-100">
 <tr>
 <th>Feature</th>
-<th class="text-center">Other Solutions</th>
+<th class="text-center">Outras soluções</th>
 <th class="text-center">FacilitaPay</th>
 </tr>
 <tr>
 <td><strong class="txt-blue">Instant payout notification</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Check Payout  notification</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Quick payout cancellation</strong></td>
 <td class="text-center">manual</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> few hours</strong></td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> poucas horas</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Check currency exchange</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Flexible funding currency</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Granular and visual reporting</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 <tr>
 <td><strong class="txt-blue">Workflows automation</strong></td>
-<td class="text-center">automatic</td>
-<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="static/img/ico-check.svg" class="w-1"> instant</strong></td>
+<td class="text-center">automático</td>
+<td><strong class="d-flex justify-content-center txt-light-green gap-1"><img src="/static/img/ico-check.svg" class="w-1"> instantâneo</strong></td>
 </tr>
 </table>
 </div>
 <div class="col-12 col-md-1">
 </div>
 <div class="col-12 col-md-5 col-lg-4 d-flex flex-column gap-2">
-<h4><strong><strong class="txt-light-green">Scale your Payouts</strong> operations effortlessly</strong></h4>
-<p>Use a single integration to automate hours of manual dedication from your team, while reducing human error risk. Avoid dealing with multiple payout providers.</p>
+<h4><strong><strong class="txt-light-green">Amplie suas operações</strong> de pagamentos tranquilamente</strong></h4>
+<p>Use uma única integração para automatizar horas de dedicação manual de sua equipe e, ao mesmo tempo, reduzir o risco de erro humano. Evite lidar com vários provedores de pagamentos.</p>
 </div>
 </div>
 </div>
@@ -1392,13 +1805,13 @@ Hablemos',
 <div class="container pt-2">
 <div class="row row-gap-2 flex-column-reverse flex-sm-row align-items-center justify-content-center">
 <div class="col-12 col-md-6 col-lg-4 d-flex flex-column gap-2">
-<h4><strong><strong class="txt-light-green">Eliminate risks</strong>  and operational burdens in emerging markets</strong></h4>
-<p>Paying out your partners and sellers worldwide can be arduous due to diverse compliance requirements, unpredictable regulatory changes, and volatile currency fluctuations. FacilitaPay manages all these risks with its team of local experts.</p>
+<h4><strong><strong class="txt-light-green">Elimine os riscos</strong> e os encargos operacionais nos mercados emergentes</strong></h4>
+<p>O pagamento de seus parceiros e vendedores em todo o mundo pode ser árduo devido a diversos requisitos de conformidade, mudanças regulatórias imprevisíveis e flutuações cambiais voláteis. O FacilitaPay gerencia todos esses riscos com sua equipe de especialistas locais.</p>
 </div>
 <div class="col-12 col-md-1">
 </div>
 <div class="col-7 col-md-5 col-lg-4">
-<img src="static/img/payouts-2.png" class="img-fluid">
+<img src="/static/img/payouts-2.png" class="img-fluid">
 </div>
 </div>
 </div>
@@ -1410,7 +1823,7 @@ Hablemos',
 <div class="container pb-4 pt-4">
 <div class="row text-center">
 <div class="col-12">
-<h2><strong>How it works</strong></h2>
+<h2><strong>Como funciona?</strong></h2>
 </div>
 </div>
 </div>
@@ -1427,23 +1840,23 @@ Hablemos',
 <div class="row">
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-13.svg"></div>
+<div><img src="/static/img/icos/ico-13.svg"></div>
 <h6>Step 1</h6>
-<h5>A local bank account within FacilitaPay is created for the merchant</h5>
+<h5>É criada uma conta bancária local no FacilitaPay para o merchant</h5>
 </div>
 </div>
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-14.svg"></div>
+<div><img src="/static/img/icos/ico-14.svg"></div>
 <h6>Step 2</h6>
-<h5>End user accesses merchants checkout page / app</h5>
+<h5>O usuário final acessa a página/aplicativo de checkout do merchant</h5>
 </div>
 </div>
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-15.svg"></div>
+<div><img src="/static/img/icos/ico-15.svg"></div>
 <h6>Step 3</h6>
-<h5>FacilitaPay API acts in the back end of the checkout page</h5>
+<h5>A API do FacilitaPay atua no back-end da página de checkout</h5>
 </div>
 </div>
 </div>
@@ -1458,23 +1871,23 @@ Hablemos',
 <div class="row">
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-16.svg"></div>
+<div><img src="/static/img/icos/ico-16.svg"></div>
 <h6>Step 4</h6>
-<h5>FacilitaPay receives and identifies the deposits made in the local account</h5>
+<h5>O FacilitaPay recebe e identifica os depósitos feitos na conta local</h5>
 </div>
 </div>
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-17.svg"></div>
+<div><img src="/static/img/icos/ico-17.svg"></div>
 <h6>Step 5</h6>
-<h5>FacilitaPay converts the funds to the currency of the merchant choosing</h5>
+<h5>O FacilitaPay converte os fundos para a moeda de escolha do merchant</h5>
 </div>
 </div>
 <div class="col-12 col-md-4">
 <div class="d-flex flex-column gap-1">
-<div><img src="static/img/icos/ico-18.svg"></div>
+<div><img src="/static/img/icos/ico-18.svg"></div>
 <h6>Step 6</h6>
-<h5>The merchant chooses when the money is wired to the their international bank account</h5>
+<h5>O merchant escolhe quando o dinheiro será transferido para sua conta bancária internacional</h5>
 </div>
 </div>
 </div>
@@ -1487,56 +1900,56 @@ Hablemos',
 <div class="container d-flex flex-column gap-3 pb-4 pt-4">
 <div class="row d-flex justify-content-center text-center">
 <div class="col-12 col-lg-8">
-<h2><strong>See how FacilitaPay <strong class="txt-light-green">payment solutions</strong> for emerging markets can help your business</strong></h2>
+<h2><strong>Veja como as <strong class="txt-light-green">soluções de pagamento FacilitaPay</strong> para mercados emergentes podem ajudar sua empresa</strong></h2>
 </div>
 </div>
 <div class="row row-gap-4 text-start align-items-center">
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-1.svg" class="w-2">
+<img src="/static/img/icos/ico-1.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
 <p class="txt-blue"><strong>SaaS</strong></p>
-<p>Improve the payments section of your user’s journey and make recurring and subscription billing more efficient</p>
+<p>Aprimore a seção de pagamentos da jornada do usuário e torne o faturamento recorrente e por assinatura mais eficiente.</p>
 </div>
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-2.svg" class="w-2">
+<img src="/static/img/icos/ico-2.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
-<p class="txt-blue"><strong>Shared economy & marketplaces</strong></p>
-<p>Experience frictionless low cost and high value volume payments and mass payouts to run a smooth operation in emerging markets</p>
+<p class="txt-blue"><strong>Economia compartilhada e mercados</strong></p>
+<p>Experimente pagamentos de baixo custo e alto valor em volume e pagamentos em massa sem atrito para executar uma operação tranquila em mercados emergentes.</p>
 </div>
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-3.svg" class="w-2">
+<img src="/static/img/icos/ico-3.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
-<p class="txt-blue"><strong>Online retail</strong></p>
-<p>Sell in the way your customers want to buy with all your payment methods and currencies in one platform</p>
+<p class="txt-blue"><strong>Varejo on-line</strong></p>
+<p>Venda da maneira que seus clientes querem comprar com todos os seus métodos de pagamento e moedas em uma única plataforma.</p>
 </div>
 </div>
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column align-items-center">
-<img src="static/img/computador.png" class="img-fluid w-50">
+<img src="/static/img/computador.png" class="img-fluid w-50">
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-4.svg" class="w-2">
+<img src="/static/img/icos/ico-4.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
-<p class="txt-blue"><strong>Digital dashboards</strong></p>
-<p>Control all your online transactions in real time.</p>
+<p class="txt-blue"><strong>Dashboards intuitivos</strong></p>
+<p>Controle todas as suas transações on-line em tempo real.</p>
 </div>
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-5.svg" class="w-2">
+<img src="/static/img/icos/ico-5.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
-<p class="txt-blue"><strong>High cyber security level</strong></p>
-<p>Utilizes high-end transaction monitoring software integrated to our API, upholding financial operation security at all times.</p>
+<p class="txt-blue"><strong>Alto nível de segurança cibernética</strong></p>
+<p>Utiliza um software de monitoramento de transações de ponta integrado à nossa API, mantendo a segurança das operações financeiras em todos os momentos.</p>
 </div>
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-2 p-2">
-<img src="static/img/icos/ico-6.svg" class="w-2">
+<img src="/static/img/icos/ico-6.svg" class="w-2">
 <div class="d-flex flex-column gap-1">
-<p class="txt-blue"><strong>Strong compliance</strong></p>
-<p>Monthly installments, embedded payment optimization and advanced KYC and AML processes, including real-time validation.</p>
+<p class="txt-blue"><strong>Compliance robusto</strong></p>
+<p>Parcelas mensais, otimização de pagamentos incorporados e processos avançados de KYC e AML, incluindo validação em tempo real.</p>
 </div>
 </div>
 </div>
@@ -1546,12 +1959,13 @@ Hablemos',
 <div class="container text-start pb-4">
 <div class="row justify-content-center">
 <div class="col justify-content-center d-flex">
-<a href="optin.php" class="btn"><strong>Let’s talk</strong></a>
+<a href="optin.php" class="btn"><strong>Vamos conversar</strong></a>
 </div>
 </div>
 </div>
 
-</section>',
+</section>
+',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'Payouts',
                 'slug' => NULL,
@@ -1565,8 +1979,7 @@ Hablemos',
                 'pages_id' => 12,
                 'locale' => 'es',
                 'title' => 'Payouts',
-                'html' => '<body class="home">
-<section class="hero-2" style="background-image: url(\'/static/img/bg-payouts.jpg\');">
+            'html' => '<section class="hero-2" style="background-image: url(\'/static/img/bg-payouts.jpg\');">
 <div class="container d-flex flex-column gap-3 pb-5 pt-5">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-5 d-flex flex-column gap-2">
@@ -1803,8 +2216,7 @@ en tiempo real de tus usuarios y sus transacciones.</p></div>
 id="i713or">Hablemos</strong></a></div>
 </div>
 </div>
-</section>
-</body>',
+</section>',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}#i1o76c-2{font-weight:bolder;}',
                 'metatitle' => 'Payouts',
                 'slug' => NULL,
@@ -2083,260 +2495,18 @@ Cómo funcionaetapa 1Creamos una cuenta bancaria local en FacilitaPay para tu em
                 'pages_id' => 14,
                 'locale' => 'pt',
                 'title' => 'PIX Global',
-                'html' => '<section class="hero-8">
-<div class="container d-flex flex-column gap-3 pb-5 pt-5">
-<div class="row row-gap-4 align-items-center justify-content-center">
-<div class="col-12 col-lg-5 d-flex flex-column gap-2">
-<div class="d-flex flex-column gap-2">
-<div class="pe-6">
-<img src="/static/img/logo-pix-global.svg" class="img-fluid">
-</div>
-<h3 class="txt-white"><strong>The revolutionary instant payment method for global companies. The Brazilian payment method accepted worldwide.</strong></h3>
-</div>
-<p class="txt-white">With PIX Global, you receive transactions immediately in your account, avoiding abusive fees and improving your customer experience.</p>
-<a href="optin.php" class="btn me-auto"><strong>Get in touch</strong></a>
-</div>
-<div class="col-12 col-lg-5">
-<img src="/static/img/pix-global-connect.svg" class="img-fluid">
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-1 bg-light-gray">
-<div class="container pb-4 pt-4">
-<div class="row row-gap-3 align-items-center justify-content-center">
-<div class="col-12 col-lg-4 d-flex flex-column gap-4">
-<div class="d-flex justify-content-center justify-lg-content-start align-items-center gap-2">
-<img src="/static/img/logo-pix.svg" class="h-3">
-<h3><strong class="txt-light-green">+</strong></h3>
-<img src="/static/img/logo-facilitapay.svg" class="h-3">
-</div>
-<div class="d-flex flex-column gap-1">
-<h3><strong>Same PIX, now everywhere.</strong></h3>
-<p>Now you can count on the traditionally known PIX. Agility, confidence, and the ease of paying and receiving with rates up to 80%* lower. Join FacilitaPay in payments revolution.</p>
-<p class="sub">*Compared with credit/debit cards and other alternative payment methods.</p>
-</div>
-<div class="d-none d-lg-flex">
-<img src="/static/img/squares-4.svg">
-</div>
-</div>
-<div class="col-12 col-lg-6">
-<div class="d-flex flex-column bg-white border-radius p-3">
-<form action="sendmail-pix.php" method="POST" class="d-flex flex-column gap-2">
-<fieldset class="d-flex flex-wrap">
-<div class="form-group d-flex flex-column w-100">
-<h4><strong>Discover more about our PIX Global.</strong></h4>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<input name="firstName" type="text" class="form-control" id="firstName" placeholder=" " required>
-<label for="firstName">Name <span>*</span></label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<input name="email" type="text" class="form-control" id="email" placeholder=" " required>
-<label for="email">Email <span>*</span></label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<input name="companyName" type="text" class="form-control" id="companyName" placeholder=" " required>
-<label for="companyName">Company name <span>*</span></label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<input name="companyWebsite" type="text" class="form-control" id="companyWebsite" placeholder=" " required>
-<label for="companyWebsite">Company website</label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<button type="submit" class="btn"><strong>Start now</strong></button>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<p>FacilitaPay needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, please review our Code of conduct.</p>
-</div>
-</fieldset>
-</form>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-1 bg-blue">
-<div class="container d-flex flex-column gap-3 pb-4 pt-4">
-<div class="row d-flex justify-content-center text-center">
-<div class="col-12 col-lg-8">
-<h2 class="txt-white"><strong>Why you should open an account for receiving PIX transactions:</strong></h2>
-</div>
-</div>
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8">
-<div class="row d-flex row-gap-2">
-<div class="col-12 col-md-6 d-flex flex-column gap-1">
-<div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-<img src="/static/img/icos/ico-1.svg" class="w-2">
-<p class="txt-blue text-start"><strong>Travelers will have less costs paying through PIX</strong></p>
-</div>
-</div>
-<div class="col-12 col-md-6 d-flex flex-column gap-1">
-<div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-<img src="/static/img/icos/ico-2.svg" class="w-2">
-<p class="txt-blue text-start"><strong>Less transactional costs for sellers</strong></p>
-</div>
-</div>
-<div class="col-12 col-md-6 d-flex flex-column gap-1">
-<div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-<img src="/static/img/icos/ico-3.svg" class="w-2">
-<p class="txt-blue text-start"><strong>No monthly fees to setup an account</strong></p>
-</div>
-</div>
-<div class="col-12 col-md-6 d-flex flex-column gap-1">
-<div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-<img src="/static/img/icos/ico-4.svg" class="w-2">
-<p class="txt-blue text-start"><strong>No FX risks for sellers and buyers</strong></p>
-</div>
-</div>
-<div class="col-12 d-flex flex-column gap-1">
-<div class="d-flex bg-white align-items-start border-radius gap-2 p-2">
-<img src="/static/img/icos/ico-5.svg" class="w-2">
-<p class="txt-blue text-start"><strong>You can access more than 60 million users connected to our payment network of local payment methods, alternative payment methods and local credit and debit cards.</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row d-flex justify-content-center text-center">
-<div class="col-12 col-lg-8">
-<a href="optin.php" class="btn d-inline-flex"><strong>Learn more</strong></a>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-1 bg-white">
-<div class="container d-flex flex-column gap-3 pt-4">
-<div class="row d-flex row-gap-3 align-items-center justify-content-center">
-<div class="col-12 col-md-4">
-<div class="pe-0 pe-lg-4">
-<img src="/static/img/pixglobal-phone.png" class="img-fluid">
-</div>
-</div>
-<div class="col-12 col-md-8 col-lg-5 d-flex flex-column gap-2">
-<h5>Introduce the Brazilian payment method PIX in shopping centers, stores, services, where there is a large flow of Brazilians.</h5>
-<h2><strong>What is PIX?</strong></h2>
-<p>PIX is an innovative payment solution specifically designed for the Brazilian market. The instant payment system created by the Central Bank of Brazil (BCB), is changing the market by performing transfers and payments, in a few seconds, at any time of the day - including weekends and holidays - in a safe and practical way.</p>
-<ul class="d-flex flex-column text-start gap-1">
-<li class="d-flex align-items-start gap-1">
-<img src="/static/img/ico-check.svg" class="w-1">
-<p class="txt-blue">Payment confirmation and value compensation in <strong>real-time.</strong></p>
-</li>
-<li class="d-flex align-items-start gap-1">
-<img src="/static/img/ico-check.svg" class="w-1">
-<p class="txt-blue">Transactions 24/7 - including on the <strong>weekends and holidays.</strong></p>
-</li>
-<li class="d-flex align-items-start gap-1">
-<img src="/static/img/ico-check.svg" class="w-1">
-<p class="txt-blue"><strong>In a safe way</strong> - Transactions carried out directly by the Central Bank of Brazil.</p>
-</li>
-<li class="d-flex align-items-start gap-1">
-<img src="/static/img/ico-check.svg" class="w-1">
-<p class="txt-blue">Attract more brazilians - Many paople travel with exact money and need to send international remittances to perform the BRL/USD conversion, which can take some time. <br><br>With PIX, you can get paid instantly.</p>
-</li>
-<li class="d-flex align-items-start gap-1">
-<img src="/static/img/ico-check.svg" class="w-1">
-<p class="txt-blue">Cost reduction up to 80% cheaper fees compared using conventional credit cards.</p>
-</li>
-</ul>
-<a href="optin.php" class="btn d-inline-flex m-auto"><strong>Start Now</strong></a>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-white"></div>
-
-
-
-<section class="content-1 bg-blue">
-<div class="container d-flex flex-column gap-3 pb-4 pt-4">
-<div class="row d-flex row-gap-3 align-items-center justify-content-center">
-<div class="col-12 col-md-4">
-<h4 class="txt-light-green pe-0 pe-lg-5"><strong>Huge opportunity for you.<br>A fast and digital experience for your customers.</strong></h4>
-</div>
-<div class="col-12 col-md-4 text-start">
-<div class="d-flex align-items-start gap-2 ps-2 pe-2">
-<img src="/static/img/icos/ico-7.svg" class="w-4">
-<div class="d-flex flex-column gap-1">
-<p class="txt-white"><strong>Your customers enjoy more</strong></p>
-<p class="sub txt-white">Speed up the time it takes to sell to your customers and avoid unnecessary fees.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4 text-start">
-<div class="d-flex align-items-start gap-2 ps-2 pe-2">
-<img src="/static/img/icos/ico-8.svg" class="w-4">
-<div class="d-flex flex-column gap-1">
-<p class="txt-white"><strong>Availability</strong></p>
-<p class="sub txt-white">Operations can be carried out 24 hours a day, including on weekends and holidays.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4 text-start">
-<div class="d-flex align-items-start gap-2 ps-2 pe-2">
-<img src="/static/img/icos/ico-9.svg" class="w-4">
-<div class="d-flex flex-column gap-1">
-<p class="txt-white"><strong>Withdrawal</strong></p>
-<p class="sub txt-white">You can withdraw payments receveid within 01 business day and from the amount of USD 100* per withdrawal.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4 text-start">
-<div class="d-flex align-items-start gap-2 ps-2 pe-2">
-<img src="/static/img/icos/ico-10.svg" class="w-4">
-<div class="d-flex flex-column gap-1">
-<p class="txt-white"><strong>Convenience</strong></p>
-<p class="sub txt-white">The user experience is intuitive for the end-user since it is connected to the financial app that the user is already<br> used to.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4 text-start">
-<div class="d-flex align-items-start gap-2 ps-2 pe-2">
-<img src="/static/img/icos/ico-11.svg" class="w-4">
-<div class="d-flex flex-column gap-1">
-<p class="txt-white"><strong>Real-time KPI\'s</strong></p>
-<p class="sub txt-white">Control all transactions performed within our proprietary platform, view statements, see sales evolution by payment method, and make settlements whenever you want.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-10 bg-white">
-<div class="img" style="background-image: url(\'/static/img/qrcode-scan.jpg\');"></div>
-<div class="container d-flex flex-column gap-3 pb-4 pt-4">
-<div class="row d-flex align-items-center justify-content-center">
-<div class="col-12 col-lg-6 d-flex flex-column gap-2">
-<h2 class="txt-blue"><strong>An easy, intuitive, fast and already known by Brazilians as the best payment method.</strong></h2>
-<p class="txt-blue">With PIX, Brazilian consumers are able to make transactions on any day of the year, 24 hours a day, via QR Code, and receive instant confirmation once the user completes the payment. Easy like that. <br><br>Payments occur via a dynamic QR Code, and information such as telephone number, email or CPF, can be used as authorization payment keys.</p>
-<a href="optin.php" class="btn d-inline-flex m-auto"><strong>Start Now</strong></a>
-</div>
-<div class="col-12 col-lg-6">
-</div>
-</div>
-</div>
-</section>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+            'html' => '<section class="hero-8"><div class="container d-flex flex-column gap-3 pb-5 pt-5"><div class="row row-gap-4 align-items-center justify-content-center"><div class="col-12 col-lg-5 d-flex flex-column gap-2"><div class="d-flex flex-column gap-2"><div class="pe-6"><img src="/static/img/logo-pix-global.svg" class="img-fluid"/></div><h3 class="txt-white"><strong>O revolucionário método de pagamento instantâneo para empresas globais. O método de pagamento brasileiro aceito em todo o mundo.</strong></h3></div><p class="txt-white">Com o PIX Global, você recebe as transações imediatamente em sua conta, evitando taxas abusivas e melhorando a experiência de seus clientes.</p><a href="optin.php" class="btn me-auto"><strong id="ile34">Entre em contato</strong></a></div><div class="col-12 col-lg-5"><img src="/static/img/pix-global-connect.svg" class="img-fluid"/></div></div></div></section><section class="content-1 bg-light-gray"><div class="container pb-4 pt-4"><div class="row row-gap-3 align-items-center justify-content-center"><div class="col-12 col-lg-4 d-flex flex-column gap-4"><div class="d-flex justify-content-center justify-lg-content-start align-items-center gap-2"><img src="/static/img/logo-pix.svg" class="h-3"/><h3><strong class="txt-light-green">+</strong></h3><img src="/static/img/logo-facilitapay.svg" class="h-3"/></div><div class="d-flex flex-column gap-1"><h3><strong>O tradicional PIX, agora em qualquer lugar.</strong></h3><p>Agora você pode contar com o tradicionalmente conhecido PIX. Agilidade, confiança e a facilidade de pagar e receber com taxas até 80%* menores. Junte-se à FacilitaPay na revolução dos pagamentos.</p><p class="sub">*Em comparação com cartões de crédito/débito e outros métodos de pagamento alternativos.</p></div><div class="d-none d-lg-flex"><img src="/static/img/squares-4.svg"/></div></div><div class="col-12 col-lg-6"><div class="d-flex flex-column bg-white border-radius p-3"><form action="sendmail-pix.php" method="POST" class="d-flex flex-column gap-2"><fieldset class="d-flex flex-wrap"><div class="form-group d-flex flex-column w-100"><h4><strong>Discover more about our PIX Global.</strong></h4></div><div class="form-group d-flex flex-column w-100"><input name="firstName" type="text" id="firstName" placeholder=" " required class="form-control"/><label for="firstName" id="i52yy">Nome <span>*</span></label></div><div class="form-group d-flex flex-column w-100"><input name="email" type="text" id="email" placeholder=" " required class="form-control"/><label for="email" id="il7g8">E-mail <span>*</span></label></div><div class="form-group d-flex flex-column w-100"><input name="companyName" type="text" id="companyName" placeholder=" " required class="form-control"/><label for="companyName" id="igrp3">Empresa <span>*</span></label></div><div class="form-group d-flex flex-column w-100"><input name="companyWebsite" type="text" id="companyWebsite" placeholder=" " required class="form-control"/><label for="companyWebsite" id="iuuhd">Website</label></div><div class="form-group d-flex flex-column w-100"><button type="submit" class="btn"><strong id="ibhpu">Comece agora</strong></button></div><div class="form-group d-flex flex-column w-100"><p id="i0hcm">A FacilitaPay precisa das informações de contato que você nos fornece para entrar em contato com você sobre nossos produtos e serviços. Você pode cancelar a inscrição dessas comunicações a qualquer momento. Para obter informações sobre como cancelar a inscrição, bem como nossas práticas de privacidade e compromisso em proteger sua privacidade, por favor, revise nosso Código de Conduta.</p></div></fieldset></form></div></div></div></div></section><section class="content-1 bg-blue"><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-8"><h2 class="txt-white"><strong>Por que você deve abrir uma conta para receber transações PIX:</strong></h2></div></div><div class="row justify-content-center"><div class="col-12 col-lg-8"><div class="row d-flex row-gap-2"><div class="col-12 col-md-6 d-flex flex-column gap-1"><div class="d-flex bg-white align-items-start border-radius gap-2 p-2"><img src="/static/img/icos/ico-1.svg" class="w-2"/><p class="txt-blue text-start"><strong>Os viajantes terão menos custos pagando por meio do PIX</strong></p></div></div><div class="col-12 col-md-6 d-flex flex-column gap-1"><div class="d-flex bg-white align-items-start border-radius gap-2 p-2"><img src="/static/img/icos/ico-2.svg" class="w-2"/><p class="txt-blue text-start"><strong>Menos custos transacionais para os vendedores</strong></p></div></div><div class="col-12 col-md-6 d-flex flex-column gap-1"><div class="d-flex bg-white align-items-start border-radius gap-2 p-2"><img src="/static/img/icos/ico-3.svg" class="w-2"/><p class="txt-blue text-start"><strong>Sem taxas mensais para abrir uma conta</strong></p></div></div><div class="col-12 col-md-6 d-flex flex-column gap-1"><div class="d-flex bg-white align-items-start border-radius gap-2 p-2"><img src="/static/img/icos/ico-4.svg" class="w-2"/><p class="txt-blue text-start"><strong>Sem riscos cambiais para vendedores e compradores</strong></p></div></div><div class="col-12 d-flex flex-column gap-1"><div class="d-flex bg-white align-items-start border-radius gap-2 p-2"><img src="/static/img/icos/ico-5.svg" class="w-2"/><p class="txt-blue text-start"><strong>Você pode acessar mais de 60 milhões de usuários conectados à nossa rede de pagamento de métodos de pagamento locais, métodos de pagamento alternativos e cartões de crédito e débito locais.</strong></p></div></div></div></div></div><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-8"><a href="optin.php" class="btn d-inline-flex"><strong>Saiba mais</strong></a></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-3 pt-4"><div class="row d-flex row-gap-3 align-items-center justify-content-center"><div class="col-12 col-md-4"><div class="pe-0 pe-lg-4"><img src="/static/img/pixglobal-phone.png" class="img-fluid"/></div></div><div class="col-12 col-md-8 col-lg-5 d-flex flex-column gap-2"><h5>Introduza o método de pagamento brasileiro PIX em shopping centers, lojas, serviços e onde há um grande fluxo de brasileiros.</h5><h2><strong>O que é o PIX?</strong></h2><p>O PIX é uma solução de pagamento inovadora projetada especificamente para o mercado brasileiro. O sistema de pagamento instantâneo criado pelo Banco Central do Brasil (BCB), está mudando o mercado ao realizar transferências e pagamentos, em poucos segundos, a qualquer hora do dia - inclusive finais de semana e feriados - de forma segura e prática.</p><ul class="d-flex flex-column text-start gap-1"><li class="d-flex align-items-start gap-1"><img src="/static/img/ico-check.svg" class="w-1"/><p class="txt-blue">Confirmação do pagamento e compensação do valor em <strong>tempo real.</strong></p></li><li class="d-flex align-items-start gap-1"><img src="/static/img/ico-check.svg" class="w-1"/><p class="txt-blue">Transações 24 horas por dia, 7 dias por semana - inclusive nos <strong>finais de semana e feriados.</strong></p></li><li class="d-flex align-items-start gap-1"><img src="/static/img/ico-check.svg" class="w-1"/><p class="txt-blue"><strong>De forma segura</strong> - Transações realizadas diretamente pelo Banco Central do Brasil.</p></li><li class="d-flex align-items-start gap-1"><img src="/static/img/ico-check.svg" class="w-1"/><p class="txt-blue">Atraia mais brasileiros - Muitas pessoas viajam com dinheiro exato e precisam enviar remessas internacionais para realizar a conversão BRL/USD, o que pode levar algum tempo.<br/><br/>Com o PIX, você pode receber o pagamento instantaneamente.</p></li><li class="d-flex align-items-start gap-1"><img src="/static/img/ico-check.svg" class="w-1"/><p class="txt-blue">- Redução de custo de até 80% de taxas comparado ao uso de cartões de crédito convencionais.</p></li></ul><a href="optin.php" class="btn d-inline-flex m-auto"><strong>Comece agora</strong></a></div></div></div></section><div class="h-4 bg-white"></div><section class="content-1 bg-blue"><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row d-flex row-gap-3 align-items-center justify-content-center"><div class="col-12 col-md-4"><h4 class="txt-light-green pe-0 pe-lg-5"><strong>Uma grande oportunidade para você.<br/>Uma experiência rápida e digital para seus clientes.</strong></h4></div><div class="col-12 col-md-4 text-start"><div class="d-flex align-items-start gap-2 ps-2 pe-2"><img src="/static/img/icos/ico-7.svg" class="w-4"/><div class="d-flex flex-column gap-1"><p class="txt-white"><strong>Seus clientes aproveitam mais</strong></p><p class="sub txt-white">Acelere o tempo necessário para vender para seus clientes e evite taxas desnecessárias.</p></div></div></div><div class="col-12 col-md-4 text-start"><div class="d-flex align-items-start gap-2 ps-2 pe-2"><img src="/static/img/icos/ico-8.svg" class="w-4"/><div class="d-flex flex-column gap-1"><p class="txt-white"><strong>Disponibilidade</strong></p><p class="sub txt-white">As operações podem ser realizadas 24 horas por dia, inclusive nos finais de semana e feriados.</p></div></div></div><div class="col-12 col-md-4 text-start"><div class="d-flex align-items-start gap-2 ps-2 pe-2"><img src="/static/img/icos/ico-9.svg" class="w-4"/><div class="d-flex flex-column gap-1"><p class="txt-white"><strong>Retirada</strong></p><p class="sub txt-white">Você pode sacar os pagamentos recebidos em até 01 dia útil e a partir do valor de USD 100* por saque.</p></div></div></div><div class="col-12 col-md-4 text-start"><div class="d-flex align-items-start gap-2 ps-2 pe-2"><img src="/static/img/icos/ico-10.svg" class="w-4"/><div class="d-flex flex-column gap-1"><p class="txt-white"><strong>Conveniência</strong></p><p class="sub txt-white">A experiência do usuário é intuitiva para o usuário final, pois está conectada ao aplicativo financeiro com o qual o usuário já está
+está acostumado a usar.
+</p></div></div></div><div class="col-12 col-md-4 text-start"><div class="d-flex align-items-start gap-2 ps-2 pe-2"><img src="/static/img/icos/ico-11.svg" class="w-4"/><div class="d-flex flex-column gap-1"><p class="txt-white"><strong>KPIs em tempo real</strong></p><p class="sub txt-white">Controle todas as transações realizadas em nossa plataforma proprietária, visualize extratos, veja a evolução das vendas por método de pagamento e faça liquidações sempre que desejar.</p></div></div></div></div></div></section><section class="content-10 bg-white"><div id="ioknaf" class="img"></div><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row d-flex align-items-center justify-content-center"><div class="col-12 col-lg-6 d-flex flex-column gap-2"><h2 class="txt-blue"><strong>Um método de pagamento fácil, intuitivo, rápido e já conhecido pelos brasileiros como o melhor e mais utilizado.</strong></h2><p class="txt-blue">Com o PIX, os consumidores brasileiros podem fazer transações em qualquer dia do ano, 24 horas por dia, via QR Code, e receber confirmação instantânea quando o usuário concluir o pagamento. Fácil assim.</p><a href="optin.php" class="btn d-inline-flex m-auto"><strong>Comece agora</strong></a></div><div class="col-12 col-lg-6">
+</div></div></div></section>',
+            'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#ioknaf{background-image:url("/static/img/qrcode-scan.jpg");}',
                 'metatitle' => 'PIX Global',
                 'slug' => NULL,
-                'metadescription' => NULL,
+            'metadescription' => 'O revolucionário método de pagamento instantâneo para empresas globais. O método de pagamento brasileiro aceito em todo o mundo.Com o PIX Global, você recebe as transações imediatamente em sua conta, evitando taxas abusivas e melhorando a experiência de seus clientes.Entre em contato+O tradicional PIX, agora em qualquer lugar.Agora você pode contar com o tradicionalmente conhecido PIX. Agilidade, confiança e a facilidade de pagar e receber com taxas até 80%* menores. Junte-se à FacilitaPay na revolução dos pagamentos.*Em comparação com cartões de crédito/débito e outros métodos de pagamento alternativos.Discover more about our PIX Global.Nome *E-mail *Empresa *WebsiteComece agoraA FacilitaPay precisa das informações de contato que você nos fornece para entrar em contato com você sobre nossos produtos e serviços. Você pode cancelar a inscrição dessas comunicações a qualquer momento. Para obter informações sobre como cancelar a inscrição, bem como nossas práticas de privacidade e compromisso em proteger sua privacidade, por favor, revise nosso Código de Conduta.Por que você deve abrir uma conta para receber transações PIX:Os viajantes terão menos custos pagando por meio do PIXMenos custos transacionais para os vendedoresSem taxas mensais para abrir uma contaSem riscos cambiais para vendedores e compradoresVocê pode acessar mais de 60 milhões de usuários conectados à nossa rede de pagamento de métodos de pagamento locais, métodos de pagamento alternativos e cartões de crédito e débito locais.Saiba maisIntroduza o método de pagamento brasileiro PIX em shopping centers, lojas, serviços e onde há um grande fluxo de brasileiros.O que é o PIX?O PIX é uma solução de pagamento inovadora projetada especificamente para o mercado brasileiro. O sistema de pagamento instantâneo criado pelo Banco Central do Brasil (BCB), está mudando o mercado ao realizar transferências e pagamentos, em poucos segundos, a qualquer hora do dia - inclusive finais de semana e feriados - de forma segura e prática.Confirmação do pagamento e compensação do valor em tempo real.Transações 24 horas por dia, 7 dias por semana - inclusive nos finais de semana e feriados.De forma segura - Transações realizadas diretamente pelo Banco Central do Brasil.Atraia mais brasileiros - Muitas pessoas viajam com dinheiro exato e precisam enviar remessas internacionais para realizar a conversão BRL/USD, o que pode levar algum tempo.Com o PIX, você pode receber o pagamento instantaneamente.- Redução de custo de até 80% de taxas comparado ao uso de cartões de crédito convencionais.Comece agoraUma grande oportunidade para você.Uma experiência rápida e digital para seus clientes.Seus clientes aproveitam maisAcelere o tempo necessário para vender para seus clientes e evite taxas desnecessárias.DisponibilidadeAs operações podem ser realizadas 24 horas por dia, inclusive nos finais de semana e feriados.RetiradaVocê pode sacar os pagamentos recebidos em até 01 dia útil e a partir do valor de USD 100* por saque.ConveniênciaA experiência do usuário é intuitiva para o usuário final, pois está conectada ao aplicativo financeiro com o qual o usuário já está
+está acostumado a usar.
+KPIs em tempo realControle todas as transações realizadas em nossa plataforma proprietária, visualize extratos, veja a evolução das vendas por método de pagamento e faça liquidações sempre que desejar.Um método de pagamento fácil, intuitivo, rápido e já conhecido pelos brasileiros como o melhor e mais utilizado.Com o PIX, os consumidores brasileiros podem fazer transações em qualquer dia do ano, 24 horas por dia, via QR Code, e receber confirmação instantânea quando o usuário concluir o pagamento. Fácil assim.Comece agora',
                 'created_at' => '2023-05-29 20:46:28',
-                'updated_at' => '2023-05-29 20:46:28',
+                'updated_at' => '2023-06-01 20:00:45',
             ),
             11 => 
             array (
@@ -2344,8 +2514,7 @@ Cómo funcionaetapa 1Creamos una cuenta bancaria local en FacilitaPay para tu em
                 'pages_id' => 14,
                 'locale' => 'es',
                 'title' => 'PIX Global',
-                'html' => '<body class="home">
-<section class="hero-8">
+                'html' => '<section class="hero-8">
 <div class="container d-flex flex-column gap-3 pb-5 pt-5">
 <div class="row row-gap-4 align-items-center justify-content-center">
 <div class="col-12 col-lg-5 d-flex flex-column gap-2">
@@ -2582,7 +2751,6 @@ href="optin.php" class="btn d-inline-flex m-auto"><strong id="iruwnz">Comienza a
 </div>
 </div>
 </section>
-</body>
 ',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'PIX Global',
@@ -2597,12 +2765,7 @@ href="optin.php" class="btn d-inline-flex m-auto"><strong id="iruwnz">Comienza a
                 'pages_id' => 15,
                 'locale' => 'en',
                 'title' => 'Payment Methods',
-                'html' => '<style>
-.tab-content{
-display: none;
-}
-</style>
-
+                'html' => '
 <section class="hero-2" style="background-image: url(\'/static/img/bg-payment-methods.jpg\');">
 <div class="container d-flex flex-column gap-3 pb-4 pt-4">
 <div class="row justify-content-center">
@@ -3189,591 +3352,45 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
                 'pages_id' => 15,
                 'locale' => 'pt',
                 'title' => 'Payment Methods',
-                'html' => '<style>
-.tab-content{
-display: none;
-}
-</style>
+                'html' => '<section class="hero-2" id="i1dx"><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-5 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6 class="txt-light-green">MÉTODOS DE PAGAMENTO</h6><h3 class="txt-white"><strong>Explore os métodos de pagamento locais.</strong></h3></div><p class="txt-white">Muitos países da América Latina tiveram um crescimento econômico significativo na última década, o que levou à expansão da classe média e ao aumento do poder de compra. Nesse mercado, os métodos de pagamento locais e a abordagem localizada desempenham um papel essencial para aqueles que desejam prosperar na região.</p><a href="optin.php" class="btn me-auto"><strong>Entre em contato</strong></a></div><div class="col-12 col-lg-5">
+</div></div></div></section><section class="content-3 bg-white text-center"><div class="container d-flex flex-column gap-2 pt-4"><div class="row justify-content-center"><div class="col-12"><h2><strong id="iwf9s">Por que a América Latina é um mercado importante?</strong></h2></div></div><div class="row justify-content-center"><div class="col-12"><p>A América Latina representa um mercado importante para a expansão de empresas globais devido à sua população grande e em rápido crescimento, ao aumento da conectividade com a Internet e ao crescente poder de compra dos consumidores. Com uma população de mais de 650 milhões de pessoas, um crescimento significativo na conectividade com a Internet (mais de 70% dos latinos) e uma classe média em rápido crescimento, a América Latina apresenta uma oportunidade significativa para as empresas que buscam aproveitar o crescente poder de compra dos usuários na região.<br/>Com o FacilitaPay como seu parceiro local de pagamentos, sua empresa poderá navegar pelos desafios e oportunidades exclusivos da região, permitindo que você integre os métodos de pagamento e as moedas mais populares que os usuários da região precisam para acessar bens e serviços globais - tudo por meio de uma integração única e perfeita.</p></div></div></div><div class="img" id="i6hgo"></div></section><section class="content-5 bg-white"><div class="container d-flex flex-column gap-3 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-4 text-center"><h4><strong>Métodos de pagamentos mais populares em cada país.</strong></h4></div></div><div class="row justify-content-center"><div class="col-12 col-lg-8"><div class="d-flex text-start bg-blue border-radius"><div class="list d-flex w-25"><div class="d-flex flex-column flex-grow-1 pb-1 ps-1 pt-1"><a href="#!" rel="brazil" class="tab active">Brasil</a><a href="#!" rel="colombia" class="tab">Colombia</a><a href="#!" rel="mexico" class="tab">Mexico</a></div></div><div class="table-1 d-flex w-75"><div id="tab-contents" class="container"><div rel="brazil" class="tab-content"><div class="row text-start bg-gradient-gray p-1"><div class="col-12"><div class="d-flex flex-column gap-1 ignoreanimation"><h4 class="ignoreanimation"><strong>PIX (Pagamento Instantâneo)</strong></h4><p class="txt-gray ignoreanimation">O sistema de pagamento instantâneo criado pelo Banco Central do Brasil está mudando o mercado ao realizar transferências e pagamentos, em poucos segundos, a qualquer hora do dia - inclusive finais de semana e feriados - de forma segura e prática.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/pix-logo.svg" class="ignoreanimation"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Cartões de crédito locais</strong></h4><p class="txt-gray ignoreanimation">O uso de cartões de crédito vem crescendo. No entanto, os cartões de crédito habilitados internacionalmente representam apenas 24% das transações de comércio eletrônico. Comece a aceitar cartões internacionais e nacionais e aumente suas conversões.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg" class="ignoreanimation"/><img src="/static/img/finance/visa.svg" class="ignoreanimation"/><img src="/static/img/finance/amex.svg" class="ignoreanimation"/><img src="/static/img/finance/diners.svg" class="ignoreanimation"/><img src="/static/img/finance/elo.svg" class="ignoreanimation"/><img src="/static/img/finance/hipercard.svg" class="ignoreanimation"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Cartões de débito locais</strong></h4><p class="txt-gray ignoreanimation">O cartão de débito é um método de pagamento comum no Brasil. Hoje, há 116 milhões de cartões de débito ativos no país, com 664 bilhões de reais gastos com esse método em 2019. Aceite cartões de débito para alcançar uma nova base de consumidores e otimizar sua receita no Brasil.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg" class="ignoreanimation"/><img src="/static/img/finance/visa.svg" class="ignoreanimation"/><img src="/static/img/finance/elo.svg" class="ignoreanimation"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Parcelamentos</strong></h4><p class="txt-gray ignoreanimation">Os brasileiros têm o hábito de dividir o valor total de uma compra feita com cartão de crédito em até 12 pagamentos mensais. Permita que seus clientes façam compras de maior valor e aumente o tamanho de seu tíquete médio.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/installments.svg" class="ignoreanimation"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Boleto Bancário</strong></h4><p class="txt-gray ignoreanimation">O Brasil tem uma cultura centrada no dinheiro, e o boleto tem sido historicamente usado pela população brasileira para pagar contas mensais, impostos e também compras de comércio eletrônico. Alcance a população sem conta bancária e também aqueles cuja preferência é o boleto por hábito.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/instant-boleto.svg" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Cripto</strong></h4><p class="txt-gray ignoreanimation">O Brasil tem o sétimo maior mercado de criptomoedas do mundo e está crescendo rapidamente. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/ethereum.png" class="ignoreanimation"/><img src="/static/img/finance/crypto-2.png" class="ignoreanimation"/><img src="/static/img/finance/bitcoin.png" class="ignoreanimation"/><img src="/static/img/finance/crypto-3.png" class="ignoreanimation"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Carteiras digitais</strong></h4><p class="txt-gray ignoreanimation">A popularidade das carteiras digitais está aumentando no Brasil, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/logo-mercadopago.svg" class="ignoreanimation"/><img src="/static/img/finance/logo-paypal.svg" class="ignoreanimation"/><img src="/static/img/finance/picpay.svg" class="ignoreanimation h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4 class="ignoreanimation"><strong>Outros pagamentos alternativos</strong></h4><p class="txt-gray ignoreanimation">O Brasil tem várias formas de pagamento on-line além dos cartões de crédito. Transferência bancária e débito on-line são duas opções de pagamento eficazes. Permita que os consumidores usem sua conta bancária habitual para fazer um pagamento instantâneo sem o risco de estorno para você.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/bank-transfer-cropped--en.svg" class="ignoreanimation"/><img src="/static/img/finance/online-debit--en.svg" class="ignoreanimation"/></div></div></div></div></div><div rel="colombia" class="tab-content"><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cartões de crédito locais</strong></h4><p class="txt-gray">Esse método de pagamento é uma das principais opções dos colombianos ao fazer compras on-line. Todos os cartões colombianos estão habilitados a fazer compras internacionais, mas os bancos e emissores locais impõem alguns obstáculos às compras internacionais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/><img src="/static/img/finance/amex.svg"/><img src="/static/img/finance/diners.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cartões de débito locais</strong></h4><p class="txt-gray">O uso de cartões de débito na Colômbia tem crescido rapidamente nos últimos anos, com mais de 20 milhões de titulares de cartões no país em 2021. O número de terminais POS na Colômbia tem aumentado, com mais de 200.000 em uso em 2021. Isso ajudou a impulsionar o uso do cartão de débito, pois os consumidores agora podem fazer pagamentos com cartão em um número cada vez maior de estabelecimentos comerciais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>PSE (Pagos Seguros en Línea)</strong></h4><p class="txt-gray">A solução de pagamento alternativa preferida na Colômbia. O Pagos Seguros en Línea permite que seus clientes façam transferências bancárias diretamente de suas contas bancárias, sem precisar de um cartão de crédito.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/pse-logo.png" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Baloto</strong></h4><p class="txt-gray">A Baloto é a principal operadora de loteria da Colômbia e também tem uma rede de pagamento, com mais de 13.500 estações de pagamento, podendo chegar a 96% das cidades. Os clientes podem pagar suas compras off-line ou on-line. Ao escolher a opção off-line, eles recebem um comprovante de pagamento com um código de barras e um número de série, que pode ser pago em uma das estações de pagamento.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/baloto.png" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>SuRed</strong></h4><p class="txt-gray">Sendo uma das maiores redes de pagamento da Colômbia, a SuRed tem parceria com mais de 27.000 lojas de conveniência de diferentes marcas e em 32 departamentos. Os clientes que escolhem esse método de pagamento recebem um voucher que pode ser pago em dinheiro em qualquer um de seus pontos.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/sured.png" class="h-1"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Efecty</strong></h4><p class="txt-gray">Com confirmação em tempo real e fácil experiência do usuário, o Efecty é um dos vouchers de pagamento em dinheiro mais populares na Colômbia, pagável em mais de 10.000 locais em todo o país. Aumenta suas vendas ao atingir uma grande parte dos clientes colombianos que preferem pagar off-line, com dinheiro, e permite que você atinja a população sem conta bancária.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/efecty.svg" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Parcelamentos</strong></h4><p class="txt-gray">As compras parceladas são muito populares na Colômbia, mais de 70% das transações on-line com cartão de crédito são parceladas. Os clientes podem pagar suas compras em até 36 meses. Os bancos que financiam a operação cobram taxas de juros, que são cobradas diretamente do cliente, dependendo do acordo que ele tem com seu banco.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/installments-36x.svg" class="h-2"/></div></div></div></div></div><div rel="mexico" class="tab-content"><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>OXXO</strong></h4><p class="txt-gray">OXXO é um dos mais famosos pagamentos com comprovante no México. As pessoas estão acostumadas a ir às lojas de conveniência para pagar contas e também seus cupons para compras no comércio eletrônico. Comece a aceitar o OXXO como método de pagamento e alcance mais consumidores.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/oxxo-pay.svg" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>OXXO Pay</strong></h4><p class="txt-gray">O método de pagamento mais conhecido no México, agora com confirmação em tempo real.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/oxxo-pay.svg" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cartões de crédito e débito locais</strong></h4><p class="txt-gray">O acesso a serviços financeiros ainda está crescendo, e a penetração de cartões de crédito está aumentando no México. A aquisição local pode oferecer melhores taxas de aprovação no México, e você pode aceitar cartões de débito locais.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/><img src="/static/img/finance/amex.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Parcelamentos de cartões de crédito</strong></h4><p class="txt-gray">Com o parcelamento, os consumidores podem dividir as compras em 3, 6, 9 e 12 pagamentos mensais, dependendo do preço da compra. Ofereça parcelamentos a seus clientes mexicanos e aumente o tamanho do tíquete médio.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/installments.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>SPEI</strong></h4><p class="txt-gray">Sempre que um mexicano quiser fazer uma transferência interbancária, ele precisará usar o SPEI. O sistema mexicano para transações bancárias on-line. Permita que seus clientes paguem suas compras com transferências bancárias on-line por meio do SPEI.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/spei.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cripto</strong></h4><p class="txt-gray">O mercado de criptomoedas está se tornando cada vez mais importante no México devido à grande população de pessoas sem conta bancária no país, aos altos níveis de entrada de remessas e ao crescente interesse em ativos digitais como uma proteção contra a inflação e a instabilidade econômica. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/ethereum.png" class="h-1"/><img src="/static/img/finance/crypto-2.png" class="h-1"/><img src="/static/img/finance/bitcoin.png" class="h-1"/><img src="/static/img/finance/crypto-3.png" class="h-1"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Carteiras digitais</strong></h4><p class="txt-gray">A popularidade das carteiras digitais está aumentando no México, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/logo-mercadopago.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Outros pagamentos alternativos</strong></h4><p class="txt-gray">O México tem vários métodos de pagamento além dos cartões de crédito. Os pagamentos por voucher, Oxxo e carteiras digitais são métodos muito comuns usados pelos consumidores on-line.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/bank-transfer-cropped--en.svg"/><img src="/static/img/finance/online-debit--en.svg" class="h-1"/></div></div></div></div></div></div></div></div></div></div><div class="row justify-content-center"><div class="col-11 col-lg-7"><div class="d-flex flex-column gap-2 text-center justify-content-center"><!--                          <h2><strong>Start offering all local payment methods in LatAm yo your customers</h2>--><a href="optin.php" class="btn"><strong>Comece agora!</strong></a></div></div></div></div></section><section class="content-4 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-4 d-flex flex-column gap-3"><div class="d-flex flex-column gap-1"><h6 class="txt-light-green">CARTÕES DE CRÉDITO</h6><h2><strong>Cartões de crédito e débito domésticos</strong></h2></div><div class="img bg-blue d-flex flex-grow-1 w-100"><div id="inkfqx"></div></div></div><div class="col-12 col-lg-5"><p class="ps-3 txt-blue">
+No mercado da América Latina, os cartões de crédito e débito domésticos têm se tornado cada vez mais populares como meio de pagamento. Eles são convenientes, seguros e amplamente aceitos pelos comerciantes em toda a região. Esses cartões são emitidos por bancos locais e são adaptados às necessidades dos consumidores de cada país. Os cartões domésticos também oferecem benefícios, como taxas e juros mais baixos, bem como programas de recompensas criados especificamente para o mercado local.
+<br/>
+A disponibilidade de cartões de crédito e débito nacionais possibilitou maior poder de compra para a população de cada país. Com acesso ao crédito, os consumidores podem comprar produtos e serviços que antes estavam fora de alcance. Isso, por sua vez, impulsiona o crescimento econômico à medida que os consumidores gastam mais dinheiro e as empresas expandem suas operações para atender à crescente demanda. Além disso, os cartões de débito se tornaram uma ferramenta essencial para aqueles que não têm acesso aos serviços bancários tradicionais, oferecendo a eles uma maneira segura e conveniente de administrar seu dinheiro. De modo geral, a popularidade dos cartões de crédito e débito domésticos na América Latina abriu novas oportunidades para indivíduos e empresas e ajudou a impulsionar o crescimento econômico da região.
+<br/>
+Com a FacilitaPay como parceiro local, os comerciantes podem aceitar tanto cartões internacionais quanto domésticos, aumentando o mercado endereçável e as taxas de aprovação.
 
-<section class="hero-2" style="background-image: url(\'/static/img/bg-payment-methods.jpg\');">
-<div class="container d-flex flex-column gap-3 pb-4 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-5 d-flex flex-column gap-2">
-<div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">PAYMENT METHODS</h6>
-<h3 class="txt-white"><strong>Explore local payment methods.</strong></h3>
-</div>
-<p class="txt-white">Many Latin American countries have experienced significant economic growth during the last decade, leading to an expanding middle class and increased purchasing power. In this market, local payment methods and the localized approach play an essential role for those who want to prosper in the region.</p>
-<a href="optin.php" class="btn me-auto"><strong>Get in touch</strong></a>
-</div>
-<div class="col-12 col-lg-5">
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-3 bg-white text-center">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row justify-content-center">
-<div class="col-12">
-<h2><strong>Why Latin America is a significant market?</strong></h2>
-</div>
-</div>
-<div class="row justify-content-center">
-<div class="col-12">
-<p>Latin America represents a significant market for global companies to expand to due to its large and rapidly growing population, increasing internet connectivity, and growing consumer spending power. With a population of over 650 million people, a significant growth in internet connectivity with (over 70% of Latins) and a fast-growing middle class, Latin America presents a significant opportunity for companies looking to tap into the growing user spending power in the region. <br><br>With FacilitaPay as your local payments partner, your company will be able to navigate the region\'s unique challenges and opportunities, allowing you to integrate the most popular payment methods and currencies that users in the region need to access global goods and services - all through one single and seamless integration.</p>
-</div>
-</div>
-</div>
-<div class="img" style="background-image: url(\'/static/img/bg-content-2.jpg\');"></div>
-</section>
-
-<section class="content-5 bg-white">
-<div class="container d-flex flex-column gap-3 pt-4">
-
-<div class="row justify-content-center">
-<div class="col-12 col-lg-4 text-center">
-<h4><strong>Most popular payment methods by countries.</strong></h4>
-</div>
-</div>
-
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8">
-<div class="d-flex text-start bg-blue border-radius">
-<div class="list d-flex w-25">
-<div class="d-flex flex-column flex-grow-1 pb-1 ps-1 pt-1">
-<a href="#!" class="tab active" rel="brazil">Brazil</a>
-<a href="#!" class="tab" rel="colombia">Colombia</a>
-<a href="#!" class="tab" rel="mexico">Mexico</a>
-</div>
-</div>
-<div class="table-1 d-flex w-75">
-<div class="container" id="tab-contents">
-
-<div class="tab-content" rel="brazil">
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1 ignoreanimation">
-<h4 class="ignoreanimation"><strong>PIX (Instant Payment)</strong></h4>
-<p class="txt-gray ignoreanimation">The instant payment system created by the Central Bank of Brazil is changing the market by performing transfers and payments, in a few seconds, at any time of the day - including weekends and holidays - in a safe and practical way.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/pix-logo.svg" class="h-1">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Local Credit Cards</strong></h4>
-<p class="txt-gray ignoreanimation">The usage of credit cards has been growing. Although, internationally-enabled credit cards make up only 24% of e-commerce transactions. Start to accept both international and domestic cards and increase your conversions.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/master.svg">
-<img class="ignoreanimation" src="/static/img/finance/visa.svg">
-<img class="ignoreanimation" src="/static/img/finance/amex.svg">
-<img class="ignoreanimation" src="/static/img/finance/diners.svg">
-<img class="ignoreanimation" src="/static/img/finance/elo.svg">
-<img class="ignoreanimation" src="/static/img/finance/hipercard.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Local Debit Cards</strong></h4>
-<p class="txt-gray ignoreanimation">A debit card is a common payment method in Brazil. Today, there are 116M active debit cards in the country, with 664B reais spent with this method in 2019. Accept debit cards to reach a new consumer base and optimize your revenue in Brazil.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/master.svg" >
-<img class="ignoreanimation" src="/static/img/finance/visa.svg" >
-<img class="ignoreanimation" src="/static/img/finance/elo.svg" >
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Installments</strong></h4>
-<p class="txt-gray ignoreanimation">Brazilians have the habit of splitting the total amount of a purchase made with a credit card in up to 12 monthly payments. Allow your customers to make higher-value purchases and increase your average ticket size.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/installments.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Boleto Bancário</strong></h4>
-<p class="txt-gray ignoreanimation">Brazil has a cash-centric culture, and Boleto has been historically used by the Brazilian population to pay for monthly bills, taxes, and also e-commerce purchases. Reach the unbanked population and also those whose preference is Boleto out of habit.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/instant-boleto.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Crypto</strong></h4>
-<p class="txt-gray ignoreanimation">Brazil has the seventh largest crypto market in the world and is growing rapidly. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/ethereum.png" class="h-1">
-<img class="ignoreanimation" src="/static/img/finance/crypto-2.png" class="h-1">
-<img class="ignoreanimation" src="/static/img/finance/bitcoin.png" class="h-1">
-<img class="ignoreanimation" src="/static/img/finance/crypto-3.png" class="h-1">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Digital Wallets</strong></h4>
-<p class="txt-gray ignoreanimation">The popularity of digital wallets is increasing in Brazil, mostly due to the benefits offered by them, such as convenience, security, and simplicity to pay. Be ahead of the market and start to offer digital wallets on your e-commerce store.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/logo-mercadopago.svg" >
-<img class="ignoreanimation" src="/static/img/finance/logo-paypal.svg" >
-<img class="ignoreanimation h-2" src="/static/img/finance/picpay.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4 class="ignoreanimation"><strong>Other Alternative Payments</strong></h4>
-<p class="txt-gray ignoreanimation">Brazil has several ways to pay online beyond credit cards. Bank Transfer and Online Debit are two effective payment options. Allow consumers to use their usual bank account to make an instant payment without the risk of chargeback for you.</p>
-<div class="d-flex flex-wrap gap-1">
-<img class="ignoreanimation" src="/static/img/finance/bank-transfer-cropped--en.svg" >
-<img class="ignoreanimation" src="/static/img/finance/online-debit--en.svg" class="h-1">
-</div>
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="tab-content" rel="colombia">
-
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Local Credit Cards</strong></h4>
-<p class="txt-gray">This payment method is one of the primary options of Colombians when shopping online. All Colombian cards are enabled to make international purchases, yet, local banks and issuers impose some obstacles to international shopping. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-<img src="/static/img/finance/amex.svg">
-<img src="/static/img/finance/diners.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Local Debit Cards</strong></h4>
-<p class="txt-gray">Debit card usage in Colombia has been growing rapidly in recent years, with over 20 million cardholders in the country as of 2021. The number of POS terminals in Colombia has been increasing, with over 200,000 in use as of 2021. This has helped to boost debit card usage, as consumers can now make card payments at a growing number of merchants. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>PSE (Pagos Seguros en Línea)</strong></h4>
-<p class="txt-gray">The preferred alternative payment solution in Colombia. Pagos Seguros en Línea allows your customers to make bank transfers directly from their bank accounts, without needing a credit card.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/pse-logo.png" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Baloto</strong></h4>
-<p class="txt-gray">Baloto is Colombia’s main lottery operator in the country and also has a payment network, with more than 13.500 payment stations, it’s able to reach 96% of the cities. Clients can pay purchases offline or online. When choosing the offline option, they receive a payment voucher with a barcode and a serial number, which can be paid at one of the payment stations.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/baloto.png" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>SuRed</strong></h4>
-<p class="txt-gray">Being one of the largest payments networks in Colombia, SuRed is partnered with more than 27.000 convenience stores from different brands and across 32 departments. Clients who choose this payment method receive a voucher that can be paid in cash at any of their points.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/sured.png" class="h-1">
-</div>
-</div>
-</div>
-</div>
-
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Efecty</strong></h4>
-<p class="txt-gray">With real-time confirmation and easy user experience, Efecty is one of the most popular cash payment vouchers in Colombia, payable in over 10,000 locations throughout the country. Increases your sales by reaching a vast part of Colombian customers that prefer to pay offline, with cash and allows you to reach the unbanked population.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/efecty.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Installments</strong></h4>
-<p class="txt-gray">Installment purchases are very popular in Colombia, over 70% of online credit card transactions are installment-based. The clients are allowed to pay their purchase in up to 36 months. The banks, who finance the operation charge interest rates, which are charged directly to the client depending on the agreement he has with his bank.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/installments-36x.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="tab-content" rel="mexico">
-
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>OXXO</strong></h4>
-<p class="txt-gray">OXXO is one of the most famous voucher payments in Mexico. People are used to going to convenience stores to pay bills, and also their vouchers for e-commerce purchases. Start to accept OXXO as a payment method and reach more consumers.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/oxxo-pay.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>OXXO Pay</strong></h4>
-<p class="txt-gray">The most known payment method in Mexico now with real-time confirmation.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/oxxo-pay.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Local Credit and Debit Cards</strong></h4>
-<p class="txt-gray">Access to financial services is still growing, and credit card penetration is on the rise in Mexico. Local acquiring can offer better approval rates in Mexico, and you can accept local debit cards.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-<img src="/static/img/finance/amex.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Credit Card Installments</strong></h4>
-<p class="txt-gray">With installments, consumers can split up purchases in 3, 6, 9, and 12 monthly payments depending on the price of the purchase. Offer installments to your Mexican customers and increase average ticket sizes.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/installments.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>SPEI</strong></h4>
-<p class="txt-gray">Whenever a Mexican wants to make an interbank transfer, they need to use SPEI. The Mexican system for online banking transactions. Allow your customers to pay for their purchases with online bank transfers through SPEI.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/spei.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Crypto</strong></h4>
-<p class="txt-gray">The crypto market is becoming increasingly important in Mexico due to the country\'s large population of unbanked individuals, high levels of remittance inflows, and growing interest in digital assets as a hedge against inflation and economic instability. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/ethereum.png" class="h-1">
-<img src="/static/img/finance/crypto-2.png" class="h-1">
-<img src="/static/img/finance/bitcoin.png" class="h-1">
-<img src="/static/img/finance/crypto-3.png" class="h-1">
-</div>
-</div>
-</div>
-</div>
-
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Digital Wallets</strong></h4>
-<p class="txt-gray">The popularity of digital wallets is increasing in México, mostly due to the benefits offered by them, such as convenience, security, and simplicity to pay. Be ahead of the market and start to offer digital wallets on your e-commerce store.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/logo-mercadopago.svg" >
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Other Alternative Payments</strong></h4>
-<p class="txt-gray">Mexico has several payment methods besides credit cards. Voucher payments, Oxxo and digital wallets are very common methods used by online consumers.</p>
-<div class="d-flex flex-wrap gap-1">
-<img src="/static/img/finance/bank-transfer-cropped--en.svg" >
-<img src="/static/img/finance/online-debit--en.svg" class="h-1">
-</div>
-</div>
-</div>
-</div>
-
-</div>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="row justify-content-center">
-<div class="col-11 col-lg-7">
-<div class="d-flex flex-column gap-2 text-center justify-content-center">
-<!--                          <h2><strong>Start offering all local payment methods in LatAm yo your customers</h2>-->
-<a href="optin.php" class="btn"><strong>Get started</strong></a>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="content-4 bg-white">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-4 d-flex flex-column gap-3">
-<div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">CREDIT CARDS</h6>
-<h2><strong>Domestic Credit and Debit Cards</strong></h2>
-</div>
-<div class="img bg-blue d-flex flex-grow-1 w-100">
-<div style="background-image: url(\'/static/img/couple-buy-online.jpg\');"></div>
-</div>
-</div>
-<div class="col-12 col-lg-5">
-<p class="ps-3 txt-blue">In the Latin America market, domestic credit and debit cards have become increasingly popular as a means of payment. They are convenient, secure and widely accepted by merchants across the region. These cards are issued by local banks, and they are tailored to the needs of consumers in each country. Domestic cards also offer benefits such as lower fees and interest rates, as well as rewards programs that are specifically designed for the local market. <br><br>The availability of domestic credit and debit cards has enabled more purchasing power for the population in each country. With access to credit, consumers can buy products and services that were previously out of reach. This, in turn, drives economic growth as consumers spend more money, and businesses expand their operations to meet the growing demand. Additionally, debit cards have become an essential tool for those who don\'t have access to traditional banking services, providing them with a safe and convenient way to manage their money. Overall, the popularity of domestic credit and debit cards in LatAm has opened up new opportunities for individuals and businesses, and has helped to drive the region\'s economic growth. <br><br>With FacilitaPay as a local partner, merchants can accept both international and domestic cards, increasing the addressable market and the approval rates.</p>
-</div>
-</div>
-</div>
-</section>
-
-<section class="content-1">
-<div class="container pt-4">
-<div class="row text-center">
-<h2><strong>How does the credit card work?</strong></h2>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-white"></div>
-
-
-
-<section class="steps-2">
-<div class="container">
-<div class="row">
-<div class="col-12 col-md-4">
-<div class="d-flex flex-column gap-1">
-<div><strong>1</strong></div>
-<h5>The customer selects Credit Cards as the payment method.</h5>
-</div>
-</div>
-<div class="col-12 col-md-4">
-<div class="d-flex flex-column gap-1">
-<div><strong>2</strong></div>
-<h5>The customer fills in the Credit Card Information.</h5>
-</div>
-</div>
-<div class="col-12 col-md-4">
-<div class="d-flex flex-column gap-1">
-<div><strong>3</strong></div>
-<h5>Payment confirmation is sent in real-time to your customer.</h5>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-8">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-10" style="background-image: url(\'/static/img/img.jpg\');">
-<div class="container  d-flex flex-column row-gap-3 gap-2 p-4">
-<div class="row justify-content-center">
-<div class="col-12 d-flex flex-column gap-1 text-center justify-content-center">
-<h6 class="txt-white">Let\'s Go</h6>
-<h2 class="txt-white"><strong>Benefits of accepting credit cards</strong></h2>
-</div>
-</div>
-<div class="row d-flex row-gap-3">
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-light-green"><strong>Increase Approval Rates</strong></h4>
-<p class="txt-white">With local acquiring, your business has better approval rates.</p>
-</div>
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-light-green"><strong>Less Chargeback risk</strong></h4>
-<p class="txt-white">Rely on Facilitapay Shield, an advanced anti-fraud strategy, with no extra cost.</p>
-</div>
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-light-green"><strong>Retry Logic</strong></h4>
-<p class="txt-white">Advanced machine learning technology increases approval rates by minimizing failed payments.</p>
-</div>
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-light-green"><strong>Simplify purchases</strong></h4>
-<p class="txt-white">Support recurring payments, via card tokenization, and pre-authorization.</p>
-</div>
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-light-green"><strong>Billing Descriptor</strong></h4>
-<p class="txt-white">Start offering all local payment methods in LatAm to your customers.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="content-6 bg-white">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row d-flex justify-content-center text-center">
-<div class="col-12 col-lg-6">
-<h2><strong>Increase your average ticket with installments</strong></h2>
-</div>
-</div>
-<div class="row d-flex row-gap-3 justify-content-center">
-<div class="col-12 col-lg-4">
-<div class="d-flex flex-column gap-2 pb-4 pe-3 pt-4">
-<p class="txt-blue">Offering installment plans can be a game-changer for businesses looking to expand into Latin America. In many cases, consumers in the region prefer to use installment plans to help manage their budgets and make big-ticket purchases more affordable. This is especially true given that credit card limits in Latin America are typically very low, meaning that consumers may not be able to pay for large purchases all at once without exceeding their limits.</p>
-<p class="txt-blue"><strong>By offering installment plans, businesses can make their products and services more accessible to consumers in Latin America, which can help drive sales and increase customer loyalty.</strong></p>
-<div class="d-flex flex-column gap-1">
-<h6 class="txt-blue">SUPPORTED CREDIT CARDS</h6>
-<div class="d-flex align-items-center gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-<img src="/static/img/finance/amex.svg">
-<img src="/static/img/finance/diners.svg">
-<img src="/static/img/finance/elo.svg">
-<img src="/static/img/finance/hipercard20.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-6 bg-img" style="background-image: url(\'/static/img/woman-buy-online.jpg\');">
-</div>
-</div>
-</div>
-</section>
-
-<section class="content-4 bg-white">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-4 d-flex flex-column gap-3">
-<div class="d-flex flex-column gap-1">
-<!--                    <h6 class="txt-light-green">Alternative payment methods</h6>-->
-<h2><strong>Alternative payment methods</strong></h2>
-</div>
-<div class="img bg-blue d-flex flex-grow-1 w-100">
-<div style="background-image: url(\'/static/img/ewallet.png\');"></div>
-</div>
-</div>
-<div class="col-12 col-lg-5">
-<p class="ps-3 txt-blue">
-In the era of digital transformation, payment methods have evolved beyond traditional credit and debit cards. Consumers are now seeking alternative payment options such as e-wallets, mobile payments, and online bank transfers. This trend is gaining momentum worldwide, especially among tech-savvy younger generations who prefer seamless, convenient, and secure payment methods.
-<br><br>
-By offering multiple payment options, merchants can provide a better shopping experience to their customers and increase their conversion rates. With just a single integration, merchants can accept payments through various channels, including credit cards, debit cards, digital wallets, and other alternative payment methods.
-<br><br>
-As more consumers move towards mobile-based payments, businesses must adapt to keep up with the changing landscape of payment options. Whether it is through the integration of mobile payment gateways or the acceptance of different payment methods, merchants must be willing to evolve and offer their customers the payment options they prefer.</p>
-</div>
-</div>
-</div>
-<br><br><br><br>
-</section>
-
-
-
-<section class="content-7 bg-white">
-<div>
-<div class="container d-flex flex-column gap-3 pb-4 pt-4">
-<div class="row justify-content-center text-center">
-<div class="col-12 col-lg-6">
-<h2><strong>FacilitaPay with local acquiring x International acquiring</strong></h2>
-</div>
-</div>
-<div class="row d-flex row-gap-5 justify-content-center">
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-green"><strong>Local acquiring</strong></h4>
-<ul class="txt-blue">
-<li><h5>International and domestic card schemes</h5></li>
-<li><p>Best performance in payments with a direct connection to local acquirers. This way issuer banks will have more local consumer data increasing the approval rates.</p></li>
-<li><p>Customers will have a local payment experience with all the services available, purchasing as it would in a local e-commerce.</p></li>
-<li><p>Installments and recurring billing available.</p></li>
-</ul>
-</div>
-<div class="col-12 col-lg-4 d-flex flex-column gap-1">
-<h4 class="txt-green"><strong>International acquiring</strong></h4>
-<ul class="txt-blue">
-<li><h5>International schemes only</h5></li>
-<li><p>Worse performance in payments, as the issuing banks, tend to refuse more transactions from international acquirers due to the lack of information.</p></li>
-<li><p>Limited for those who own internationally enabled cards. The shopping experience is not localized.</p></li>
-<li><p>No installments and no recurring billing.</p></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="content-1">
-<div class="container pt-4">
-<div class="row justify-content-center">
-<div class="col-11 col-lg-7">
-<div class="d-flex flex-column gap-2 text-center justify-content-center">
-<h2><strong>Start offering all local payment methods in LatAm yo your customers</h2>
-<a href="optin.php" class="btn"><strong>Get started</strong></a>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-white"></div>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+</p></div></div></div></section><section class="content-1"><div class="container pt-4"><div class="row text-center"><h2><strong>Como funciona o cartão de crédito?</strong></h2></div></div></section><div class="h-4 bg-white"></div><section class="steps-2"><div class="container"><div class="row"><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><strong>1</strong></div><h5>O cliente seleciona o cartão de crédito como método de pagamento.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><strong>2</strong></div><h5>O cliente preenche as informações do cartão de crédito.</h5></div></div><div class="col-12 col-md-4"><div class="d-flex flex-column gap-1"><div><strong>3</strong></div><h5>A confirmação do pagamento é enviada em tempo real para o cliente.</h5></div></div></div></div></section><section class="content-8"><div class="container"><div class="row justify-content-center"><div class="col-12 col-lg-10" id="im08po"><div class="container d-flex flex-column row-gap-3 gap-2 p-4"><div class="row justify-content-center"><div class="col-12 d-flex flex-column gap-1 text-center justify-content-center"><h6 class="txt-white">Vamos lá</h6><h2 class="txt-white"><strong>Benefícios de aceitar cartões de crédito</strong></h2></div></div><div class="row d-flex row-gap-3"><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-light-green"><strong>Aumento das taxas de aprovação</strong></h4><p class="txt-white">Com a aquisição local, sua empresa tem melhores taxas de aprovação.</p></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-light-green"><strong>Menor risco de estorno</strong></h4><p class="txt-white">Conte com o Facilitapay Shield, uma estratégia antifraude avançada, sem custo adicional.</p></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-light-green"><strong>Lógica de repetição</strong></h4><p class="txt-white">A tecnologia avançada de aprendizado de máquina aumenta as taxas de aprovação ao minimizar os pagamentos com falha.</p></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-light-green"><strong>Simplifique as compras</strong></h4><p class="txt-white">Ofereça suporte a pagamentos recorrentes, por meio de tokenização de cartão e pré-autorização.</p></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-light-green"><strong>Faturamento detalhado</strong></h4><p class="txt-white">Comece a oferecer todos os métodos de pagamento locais na América Latina para seus clientes.</p></div></div></div></div></div></div></section><section class="content-6 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row d-flex justify-content-center text-center"><div class="col-12 col-lg-6"><h2><strong>Aumente seu ticket médio com parcelamentos</strong></h2></div></div><div class="row d-flex row-gap-3 justify-content-center"><div class="col-12 col-lg-4"><div class="d-flex flex-column gap-2 pb-4 pe-3 pt-4"><p class="txt-blue">A oferta de planos de parcelamento pode ser um divisor de águas para as empresas que pretendem se expandir na América Latina. Em muitos casos, os consumidores da região preferem usar planos de parcelamento para ajudar a administrar seus orçamentos e tornar as compras de alto valor mais acessíveis. Isso é especialmente verdadeiro porque os limites dos cartões de crédito na América Latina são normalmente muito baixos, o que significa que os consumidores talvez não consigam pagar grandes compras de uma só vez sem exceder seus limites.</p><p class="txt-blue"><strong>Ao oferecer planos de parcelamento, as empresas podem tornar seus produtos e serviços mais acessíveis aos consumidores na América Latina, o que pode ajudar a impulsionar as vendas e aumentar a fidelidade do cliente.</strong></p><div class="d-flex flex-column gap-1"><h6 class="txt-blue">CARTÕES ACEITOS</h6><div class="d-flex align-items-center gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/><img src="/static/img/finance/amex.svg"/><img src="/static/img/finance/diners.svg"/><img src="/static/img/finance/elo.svg"/><img src="/static/img/finance/hipercard20.svg"/></div></div></div></div><div class="col-12 col-lg-6 bg-img" id="i8s34j">
+</div></div></div></section><section class="content-4 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-4 d-flex flex-column gap-3"><div class="d-flex flex-column gap-1"><!--                    <h6 class="txt-light-green">Alternative payment methods</h6>--><h2><strong>Métodos alternativos de pagamento</strong></h2></div><div class="img bg-blue d-flex flex-grow-1 w-100"><div id="ivu6l5"></div></div></div><div class="col-12 col-lg-5"><p class="ps-3 txt-blue">
+Na era da transformação digital, os métodos de pagamento evoluíram para além dos tradicionais cartões de crédito e débito. Os consumidores agora estão buscando opções alternativas de pagamento, como carteiras eletrônicas, pagamentos móveis e transferências bancárias on-line. Essa tendência está ganhando força em todo o mundo, especialmente entre as gerações mais jovens com experiência em tecnologia, que preferem métodos de pagamento contínuos, convenientes e seguros.
+<br/><br/>
+Ao oferecer várias opções de pagamento, os comerciantes podem proporcionar uma melhor experiência de compra para seus clientes e aumentar suas taxas de conversão. Com apenas uma única integração, os comerciantes podem aceitar pagamentos por meio de vários canais, incluindo cartões de crédito, cartões de débito, carteiras digitais e outros métodos de pagamento alternativos.
+<br/><br/>
+À medida que mais consumidores passam a usar pagamentos baseados em dispositivos móveis, as empresas precisam se adaptar para acompanhar o cenário mutável das opções de pagamento. Seja por meio da integração de gateways de pagamento móvel ou da aceitação de diferentes métodos de pagamento, os comerciantes devem estar dispostos a evoluir e oferecer a seus clientes as opções de pagamento que eles preferirem.</p></div></div></div><br/><br/><br/><br/></section><section class="content-7 bg-white"><div><div class="container d-flex flex-column gap-3 pb-4 pt-4"><div class="row justify-content-center text-center"><div class="col-12 col-lg-6"><h2><strong>FacilitaPay com aquisição local x aquisição internacional</strong></h2></div></div><div class="row d-flex row-gap-5 justify-content-center"><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-green"><strong>Aquisição local</strong></h4><ul class="txt-blue"><li><h5>Sistemas de cartões nacionais e internacionais</h5></li><li><p>Melhor desempenho em pagamentos com uma conexão direta com adquirentes locais. Dessa forma, os bancos emissores terão mais dados sobre os consumidores locais, aumentando as taxas de aprovação.</p></li><li><p>Os clientes terão uma experiência de pagamento local com todos os serviços disponíveis, comprando como fariam em um comércio eletrônico local.</p></li><li><p>Parcelamento e faturamento recorrente disponíveis.</p></li></ul></div><div class="col-12 col-lg-4 d-flex flex-column gap-1"><h4 class="txt-green"><strong>Aquisição internacional</strong></h4><ul class="txt-blue"><li><h5>Somente esquemas internacionais</h5></li><li><p>Pior desempenho em pagamentos, pois os bancos emissores tendem a recusar mais transações de adquirentes internacionais devido à falta de informações.</p></li><li><p>Limitado para aqueles que possuem cartões habilitados internacionalmente. A experiência de compra não é localizada.</p></li><li><p>Sem parcelas e sem faturamento recorrente.</p></li></ul></div></div></div></div></section><section class="content-1"><div class="container pt-4"><div class="row justify-content-center"><div class="col-11 col-lg-7"><div class="d-flex flex-column gap-2 text-center justify-content-center"><h2><strong>Comece a oferecer todos os métodos de pagamento locais, na América Latina para seus clientes</strong></h2><strong><a href="optin.php" class="btn"><strong>Comece agora</strong></a></strong></div><strong>
+</strong></div><strong>
+</strong></div><strong>
+</strong></div><strong>
+</strong></section><strong><div class="h-4 bg-white"></div></strong>',
+            'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#i1dx{background-image:url(\'/static/img/bg-payment-methods.jpg\');}#i6hgo{background-image:url(\'/static/img/bg-content-2.jpg\');}#inkfqx{background-image:url(\'/static/img/couple-buy-online.jpg\');}#im08po{background-image:url(\'/static/img/img.jpg\');}#i8s34j{background-image:url(\'/static/img/woman-buy-online.jpg\');}#ivu6l5{background-image:url(\'/static/img/ewallet.png\');}',
                 'metatitle' => 'Payment Methods',
                 'slug' => NULL,
-                'metadescription' => NULL,
+                'metadescription' => 'MÉTODOS DE PAGAMENTOExplore os métodos de pagamento locais.Muitos países da América Latina tiveram um crescimento econômico significativo na última década, o que levou à expansão da classe média e ao aumento do poder de compra. Nesse mercado, os métodos de pagamento locais e a abordagem localizada desempenham um papel essencial para aqueles que desejam prosperar na região.Entre em contato
+Por que a América Latina é um mercado importante?A América Latina representa um mercado importante para a expansão de empresas globais devido à sua população grande e em rápido crescimento, ao aumento da conectividade com a Internet e ao crescente poder de compra dos consumidores. Com uma população de mais de 650 milhões de pessoas, um crescimento significativo na conectividade com a Internet (mais de 70% dos latinos) e uma classe média em rápido crescimento, a América Latina apresenta uma oportunidade significativa para as empresas que buscam aproveitar o crescente poder de compra dos usuários na região.Com o FacilitaPay como seu parceiro local de pagamentos, sua empresa poderá navegar pelos desafios e oportunidades exclusivos da região, permitindo que você integre os métodos de pagamento e as moedas mais populares que os usuários da região precisam para acessar bens e serviços globais - tudo por meio de uma integração única e perfeita.Métodos de pagamentos mais populares em cada país.BrasilColombiaMexicoPIX (Pagamento Instantâneo)O sistema de pagamento instantâneo criado pelo Banco Central do Brasil está mudando o mercado ao realizar transferências e pagamentos, em poucos segundos, a qualquer hora do dia - inclusive finais de semana e feriados - de forma segura e prática.Cartões de crédito locaisO uso de cartões de crédito vem crescendo. No entanto, os cartões de crédito habilitados internacionalmente representam apenas 24% das transações de comércio eletrônico. Comece a aceitar cartões internacionais e nacionais e aumente suas conversões.Cartões de débito locaisO cartão de débito é um método de pagamento comum no Brasil. Hoje, há 116 milhões de cartões de débito ativos no país, com 664 bilhões de reais gastos com esse método em 2019. Aceite cartões de débito para alcançar uma nova base de consumidores e otimizar sua receita no Brasil.ParcelamentosOs brasileiros têm o hábito de dividir o valor total de uma compra feita com cartão de crédito em até 12 pagamentos mensais. Permita que seus clientes façam compras de maior valor e aumente o tamanho de seu tíquete médio.Boleto BancárioO Brasil tem uma cultura centrada no dinheiro, e o boleto tem sido historicamente usado pela população brasileira para pagar contas mensais, impostos e também compras de comércio eletrônico. Alcance a população sem conta bancária e também aqueles cuja preferência é o boleto por hábito.CriptoO Brasil tem o sétimo maior mercado de criptomoedas do mundo e está crescendo rapidamente. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.Carteiras digitaisA popularidade das carteiras digitais está aumentando no Brasil, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.Outros pagamentos alternativosO Brasil tem várias formas de pagamento on-line além dos cartões de crédito. Transferência bancária e débito on-line são duas opções de pagamento eficazes. Permita que os consumidores usem sua conta bancária habitual para fazer um pagamento instantâneo sem o risco de estorno para você.Cartões de crédito locaisEsse método de pagamento é uma das principais opções dos colombianos ao fazer compras on-line. Todos os cartões colombianos estão habilitados a fazer compras internacionais, mas os bancos e emissores locais impõem alguns obstáculos às compras internacionais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.Cartões de débito locaisO uso de cartões de débito na Colômbia tem crescido rapidamente nos últimos anos, com mais de 20 milhões de titulares de cartões no país em 2021. O número de terminais POS na Colômbia tem aumentado, com mais de 200.000 em uso em 2021. Isso ajudou a impulsionar o uso do cartão de débito, pois os consumidores agora podem fazer pagamentos com cartão em um número cada vez maior de estabelecimentos comerciais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.PSE (Pagos Seguros en Línea)A solução de pagamento alternativa preferida na Colômbia. O Pagos Seguros en Línea permite que seus clientes façam transferências bancárias diretamente de suas contas bancárias, sem precisar de um cartão de crédito.BalotoA Baloto é a principal operadora de loteria da Colômbia e também tem uma rede de pagamento, com mais de 13.500 estações de pagamento, podendo chegar a 96% das cidades. Os clientes podem pagar suas compras off-line ou on-line. Ao escolher a opção off-line, eles recebem um comprovante de pagamento com um código de barras e um número de série, que pode ser pago em uma das estações de pagamento.SuRedSendo uma das maiores redes de pagamento da Colômbia, a SuRed tem parceria com mais de 27.000 lojas de conveniência de diferentes marcas e em 32 departamentos. Os clientes que escolhem esse método de pagamento recebem um voucher que pode ser pago em dinheiro em qualquer um de seus pontos.EfectyCom confirmação em tempo real e fácil experiência do usuário, o Efecty é um dos vouchers de pagamento em dinheiro mais populares na Colômbia, pagável em mais de 10.000 locais em todo o país. Aumenta suas vendas ao atingir uma grande parte dos clientes colombianos que preferem pagar off-line, com dinheiro, e permite que você atinja a população sem conta bancária.ParcelamentosAs compras parceladas são muito populares na Colômbia, mais de 70% das transações on-line com cartão de crédito são parceladas. Os clientes podem pagar suas compras em até 36 meses. Os bancos que financiam a operação cobram taxas de juros, que são cobradas diretamente do cliente, dependendo do acordo que ele tem com seu banco.OXXOOXXO é um dos mais famosos pagamentos com comprovante no México. As pessoas estão acostumadas a ir às lojas de conveniência para pagar contas e também seus cupons para compras no comércio eletrônico. Comece a aceitar o OXXO como método de pagamento e alcance mais consumidores.OXXO PayO método de pagamento mais conhecido no México, agora com confirmação em tempo real.Cartões de crédito e débito locaisO acesso a serviços financeiros ainda está crescendo, e a penetração de cartões de crédito está aumentando no México. A aquisição local pode oferecer melhores taxas de aprovação no México, e você pode aceitar cartões de débito locais.Parcelamentos de cartões de créditoCom o parcelamento, os consumidores podem dividir as compras em 3, 6, 9 e 12 pagamentos mensais, dependendo do preço da compra. Ofereça parcelamentos a seus clientes mexicanos e aumente o tamanho do tíquete médio.SPEISempre que um mexicano quiser fazer uma transferência interbancária, ele precisará usar o SPEI. O sistema mexicano para transações bancárias on-line. Permita que seus clientes paguem suas compras com transferências bancárias on-line por meio do SPEI.CriptoO mercado de criptomoedas está se tornando cada vez mais importante no México devido à grande população de pessoas sem conta bancária no país, aos altos níveis de entrada de remessas e ao crescente interesse em ativos digitais como uma proteção contra a inflação e a instabilidade econômica. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.Carteiras digitaisA popularidade das carteiras digitais está aumentando no México, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.Outros pagamentos alternativosO México tem vários métodos de pagamento além dos cartões de crédito. Os pagamentos por voucher, Oxxo e carteiras digitais são métodos muito comuns usados pelos consumidores on-line.Start offering all local payment methods in LatAm yo your customers-->Comece agora!CARTÕES DE CRÉDITOCartões de crédito e débito domésticos
+No mercado da América Latina, os cartões de crédito e débito domésticos têm se tornado cada vez mais populares como meio de pagamento. Eles são convenientes, seguros e amplamente aceitos pelos comerciantes em toda a região. Esses cartões são emitidos por bancos locais e são adaptados às necessidades dos consumidores de cada país. Os cartões domésticos também oferecem benefícios, como taxas e juros mais baixos, bem como programas de recompensas criados especificamente para o mercado local.
+
+A disponibilidade de cartões de crédito e débito nacionais possibilitou maior poder de compra para a população de cada país. Com acesso ao crédito, os consumidores podem comprar produtos e serviços que antes estavam fora de alcance. Isso, por sua vez, impulsiona o crescimento econômico à medida que os consumidores gastam mais dinheiro e as empresas expandem suas operações para atender à crescente demanda. Além disso, os cartões de débito se tornaram uma ferramenta essencial para aqueles que não têm acesso aos serviços bancários tradicionais, oferecendo a eles uma maneira segura e conveniente de administrar seu dinheiro. De modo geral, a popularidade dos cartões de crédito e débito domésticos na América Latina abriu novas oportunidades para indivíduos e empresas e ajudou a impulsionar o crescimento econômico da região.
+
+Com a FacilitaPay como parceiro local, os comerciantes podem aceitar tanto cartões internacionais quanto domésticos, aumentando o mercado endereçável e as taxas de aprovação.
+
+Como funciona o cartão de crédito?1O cliente seleciona o cartão de crédito como método de pagamento.2O cliente preenche as informações do cartão de crédito.3A confirmação do pagamento é enviada em tempo real para o cliente.Vamos láBenefícios de aceitar cartões de créditoAumento das taxas de aprovaçãoCom a aquisição local, sua empresa tem melhores taxas de aprovação.Menor risco de estornoConte com o Facilitapay Shield, uma estratégia antifraude avançada, sem custo adicional.Lógica de repetiçãoA tecnologia avançada de aprendizado de máquina aumenta as taxas de aprovação ao minimizar os pagamentos com falha.Simplifique as comprasOfereça suporte a pagamentos recorrentes, por meio de tokenização de cartão e pré-autorização.Faturamento detalhadoComece a oferecer todos os métodos de pagamento locais na América Latina para seus clientes.Aumente seu ticket médio com parcelamentosA oferta de planos de parcelamento pode ser um divisor de águas para as empresas que pretendem se expandir na América Latina. Em muitos casos, os consumidores da região preferem usar planos de parcelamento para ajudar a administrar seus orçamentos e tornar as compras de alto valor mais acessíveis. Isso é especialmente verdadeiro porque os limites dos cartões de crédito na América Latina são normalmente muito baixos, o que significa que os consumidores talvez não consigam pagar grandes compras de uma só vez sem exceder seus limites.Ao oferecer planos de parcelamento, as empresas podem tornar seus produtos e serviços mais acessíveis aos consumidores na América Latina, o que pode ajudar a impulsionar as vendas e aumentar a fidelidade do cliente.CARTÕES ACEITOS
+Alternative payment methods-->Métodos alternativos de pagamento
+Na era da transformação digital, os métodos de pagamento evoluíram para além dos tradicionais cartões de crédito e débito. Os consumidores agora estão buscando opções alternativas de pagamento, como carteiras eletrônicas, pagamentos móveis e transferências bancárias on-line. Essa tendência está ganhando força em todo o mundo, especialmente entre as gerações mais jovens com experiência em tecnologia, que preferem métodos de pagamento contínuos, convenientes e seguros.
+
+Ao oferecer várias opções de pagamento, os comerciantes podem proporcionar uma melhor experiência de compra para seus clientes e aumentar suas taxas de conversão. Com apenas uma única integração, os comerciantes podem aceitar pagamentos por meio de vários canais, incluindo cartões de crédito, cartões de débito, carteiras digitais e outros métodos de pagamento alternativos.
+
+À medida que mais consumidores passam a usar pagamentos baseados em dispositivos móveis, as empresas precisam se adaptar para acompanhar o cenário mutável das opções de pagamento. Seja por meio da integração de gateways de pagamento móvel ou da aceitação de diferentes métodos de pagamento, os comerciantes devem estar dispostos a evoluir e oferecer a seus clientes as opções de pagamento que eles preferirem.FacilitaPay com aquisição local x aquisição internacionalAquisição localSistemas de cartões nacionais e internacionaisMelhor desempenho em pagamentos com uma conexão direta com adquirentes locais. Dessa forma, os bancos emissores terão mais dados sobre os consumidores locais, aumentando as taxas de aprovação.Os clientes terão uma experiência de pagamento local com todos os serviços disponíveis, comprando como fariam em um comércio eletrônico local.Parcelamento e faturamento recorrente disponíveis.Aquisição internacionalSomente esquemas internacionaisPior desempenho em pagamentos, pois os bancos emissores tendem a recusar mais transações de adquirentes internacionais devido à falta de informações.Limitado para aqueles que possuem cartões habilitados internacionalmente. A experiência de compra não é localizada.Sem parcelas e sem faturamento recorrente.Comece a oferecer todos os métodos de pagamento locais, na América Latina para seus clientesComece agora',
                 'created_at' => '2023-05-29 20:47:25',
-                'updated_at' => '2023-05-29 20:47:25',
+                'updated_at' => '2023-06-02 17:31:44',
             ),
             14 => 
             array (
@@ -4855,17 +4472,17 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
                 'pages_id' => 16,
                 'locale' => 'pt',
                 'title' => 'Industries',
-            'html' => '<section class="hero-6" style="background-image: url(\'/static/img/woman-laptop.jpg\');">
+            'html' => '        <section class="hero-6" style="background-image: url(\'/static/img/woman-laptop.jpg\');">
 <div class="container pb-5 pt-5">
 <div class="row justify-content-center flex-column-reverse flex-lg-row row-gap-3">
 <div class="col-12 col-lg-5">
 </div>
 <div class="col-12 col-lg-5 d-flex flex-column gap-2">
 <div>
-<h6 class="txt-light-green">INDUSTRIES</h6>
-<h3 class="txt-white"><strong>Built‑to‑fit payment solutions for your business industry in rising economies.</strong></h3>
+<h6 class="txt-light-green">INDÚSTRIAS</h6>
+<h3 class="txt-white"><strong>Soluções de pagamento criadas sob medida para seu setor de negócios em economias em ascensão.</strong></h3>
 </div>
-<p class="txt-white">FacilitaPay understands your industry and payment needs. Discover what we have to get you ahead of the competition and reach more opportunities in the markets where we operate.</p>
+<p class="txt-white">A FacilitaPay entende seu setor e suas necessidades de pagamento. Descubra o que temos para colocá-lo à frente da concorrência e alcançar mais oportunidades nos mercados em que operamos.</p>
 <a href="optin.php" target="_blank" class="btn me-auto"><strong>Start Now</strong></a>
 </div>
 </div>
@@ -4877,10 +4494,10 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="row">
 <div class="col-12">
 <ul>
-<li><a href="#payments">Payments</a></li>
-<li><a href="#crypto">Crypto</a></li>
-<li><a href="#gaming">Gaming</a></li>
-<li><a href="#remittance">Remittance</a></li>
+<li><a href="#payments">Pagamentos</a></li>
+<li><a href="#crypto">Cripto</a></li>
+<li><a href="#gaming">Jogos</a></li>
+<li><a href="#remittance">Remessas</a></li>
 <li><a href="#saas">Saas</a></li>
 <li><a href="#streaming">Streaming</a></li>
 <li><a href="#ecommerce">Ecommerce</a></li>
@@ -4897,15 +4514,17 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="row row-gap-3 justify-content-center">
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/investments.png\');"></div>
-<h2><strong>INVESTMENTS & CFD\'S</strong></h2>
-<p>Latin America\'s economies have been expanding in recent years, leading to an increase in disposable income and a growing middle class. This has led to an increase in demand for financial products such as stocks, bonds, and mutual funds. Additionally, the region has a young population with a high potential for long-term growth. <br><br>Latin Americans are ready to invest in global assets, however, there are certain gaps in financial and banking institutions which have led to a need of using local payment means to acquire these assets, and our mission at FacilitaPay has been to enable for global trading and investment firms.</p>
+<h2><strong>INVESTIMENTOS E CFD\'S</strong></h2>
+<p>As economias da América Latina têm se expandido nos últimos anos, levando a um aumento da renda disponível e a uma classe média crescente. Isso levou a um aumento na demanda por produtos financeiros, como ações, títulos e fundos mútuos. Além disso, a região tem uma população jovem com alto potencial de crescimento a longo prazo.
+<br>   Os latino-americanos estão prontos para investir em ativos globais; no entanto, há certas lacunas nas instituições financeiras e bancárias que levaram à necessidade de usar meios de pagamento locais para adquirir esses ativos, e nossa missão como a FacilitaPay tem sido possibilitar o comércio global e as empresas de investimento.
+</p>
 <div class="d-flex gap-2">
 <img src="/static/img/logos/sproutfi.png" class="h-1">
 <img src="/static/img/logos/stake.png" class="h-1">
 <img src="/static/img/logos/tickmill.png" class="h-1">
 <img src="/static/img/logos/easymarkets.png" class="h-1">
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
@@ -4941,38 +4560,38 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>White label payment solution:</strong></h4>
-<p>To be customized with your company’s look and feel.</p>
+<h4><strong>Solução de pagamento whitelabel:</strong></h4>
+<p>Para ser personalizada com a aparência de sua empresa.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Flexible payment flows:</strong></h4>
-<p>Easily adapted to fit your technical needs and operational requirements.</p>
+<h4><strong>Fluxos de pagamento flexíveis:</strong></h4>
+<p>Facilmente adaptados para atender às suas necessidades técnicas e requisitos operacionais.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Diverse partnership opportunities:</strong></h4>
-<p>Direct partnerships, PSP agreements and referral programs.</p>
+<h4><strong>Diversas oportunidades de parceria:</strong></h4>
+<p>Parcerias diretas, acordos de PSP e programas de referência.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 </div>
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/img.jpg\');"></div>
-<h2><strong>PAYMENTS</strong></h2>
-<p>The payments market in Latin America is expected to reach $1.05 trillion by 2023, driven by an increase in e-commerce, digital transactions and a boost in the interactions among Latin Americans with global and local brands across several different verticals.</p>
-<p>Gain speed-to-market and optimize costs by using a FacilitaPay’s local payments structure in Latin America; let us handle all the local regulations, partnerships and technology needed to operate in the region while you focus on your core business.</p>
+<h2><strong>PAGAMENTOS</strong></h2>
+<p>Espera-se que o mercado de pagamentos na América Latina atinja US$ 1,05 trilhão até 2023, impulsionado por um aumento no comércio eletrônico, nas transações digitais e no aumento das interações entre os latino-americanos com marcas globais e locais em várias verticais diferentes.</p>
+<p>Ganhe velocidade no mercado e otimize os custos usando uma estrutura de pagamentos local da FacilitaPay na América Latina; deixe-nos cuidar de todas as regulamentações, parcerias e tecnologias locais necessárias para operar na região enquanto você se concentra em seu negócio principal.</p>
 <div class="d-flex gap-2">
 <!--                  <img src="/static/img/logos/texcent.png" alt="texcent" class="h-1">-->
 <img src="/static/img/logos/flutterwave.png" class="h-1">
 <img src="/static/img/logos/boku.png" class="h-1">
 <img src="/static/img/logos/wyre.png" class="h-1">
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
 </div>
 </div>
 </div>
@@ -4984,36 +4603,36 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="row row-gap-3 justify-content-center">
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/crypto.png\');"></div>
-<h2><strong>CRYPTO</strong></h2>
-<p>The crypto world is constantly growing, with millions of new users joining the market annually. The Latin American region has witnessed a particular growth during the last few years, with a significant increase in the interest in cryptocurrency across South America.</p>
-<p>During the last year alone, crypto adoption in Latin America grew by a staggering 40%, making it one of the most rapidly developing markets in the world. According to analysts, Latin American crypto users received 562 billion USD worth of crypto from July 2021 to June 2022.</p>
+<h2><strong>CRIPTO</strong></h2>
+<p>O mundo das criptomoedas está em constante crescimento, com milhões de novos usuários entrando no mercado anualmente. A região da América Latina testemunhou um crescimento especial nos últimos anos, com um aumento significativo no interesse por criptomoedas na América do Sul.</p>
+<p>Somente no último ano, a adoção de criptomoedas na América Latina cresceu impressionantes 40%, tornando-a um dos mercados de desenvolvimento mais rápido do mundo. De acordo com analistas, os usuários de criptografia da América Latina receberam US$ 562 bilhões em criptografia de julho de 2021 a junho de 2022.</p>
 <div class="d-flex gap-2">
 <img src="/static/img/logos/bybit-blue.png" class="h-1">
 <img src="/static/img/logos/bitso-blue.png" class="h-1">
 <img src="/static/img/logos/kraken.png" class="h-1">
 <img src="/static/img/logos/okx-blue.png" class="h-1">
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece Agora</strong></a>
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Local KYC Features:</strong></h4>
-<p>A robust and fully localized compliance process to help you onboard new users in the region.</p>
+<h4><strong>Recursos locais de KYC:</strong></h4>
+<p>Um processo de conformidade robusto e totalmente localizado para ajudá-lo a integrar novos usuários na região.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Instant Payments:</strong></h4>
-<p>Receive and send payments in seconds to users on a 24/7 basis.</p>
+<h4><strong>Pagamentos instantâneos:</strong></h4>
+<p>Receba e envie pagamentos em segundos aos usuários, 24 horas por dia, 7 dias por semana.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Mitigate risk and chargebacks:</strong></h4>
-<p>By accepting alternative payment options such as PIX, bank transfers and cash.</p>
+<h4><strong>Reduza o risco e os estornos:</strong></h4>
+<p>Aceitando opções de pagamento alternativas, como PIX, transferências bancárias e dinheiro.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
@@ -5029,31 +4648,31 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Avoid checkout abandonment:</strong></h4>
-<p>No need to exit redirect from your checkout page.</p>
+<h4><strong>Evite o abandono do checkout:</strong></h4>
+<p>Não há necessidade de redirecionar a saída de sua página de checkout.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Convert more gamers from freemium to premium, as fast as you can:</strong></h4>
-<p>Easy and low cost payment methods. You dont need to loose anything in your gameplay.</p>
+<h4><strong>Converta mais jogadores de freemium para premium, o mais rápido possível:</strong></h4>
+<p>Métodos de pagamento fáceis e de baixo custo. Você não precisa perder nada em sua jogabilidade.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Let them pay in the way they want:</strong></h4>
-<p>Multiple payment methods beside the standard credit/debit cards. Easy way to pay with: PIX, SPEI, CODI, PSE, crypto currencies and many others.</p>
+<h4><strong>Deixe que eles paguem da maneira que quiserem:</strong></h4>
+<p>Vários métodos de pagamento além dos cartões de crédito/débito padrão. Maneira fácil de pagar com: PIX, SPEI, CODI, PSE, moedas criptográficas e muitos outros.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 </div>
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/gaming.png\');"></div>
-<h2><strong>GAMING</strong></h2>
-<p>With over 270M gamers and a projected total revenue of USD 5.1bi by 2024, Latin America is one of the fastest-growing markets for gaming. Opportunities are seamless for global gaming merchants looking to grow their revenue, but many loose out by not entering this market - or doing it without a proper local partner.</p>
-<p>With FacilitaPay, you will be ready to seize the opportunities in Latin America by offering all the local experience that your users need, allowing them to pay in the way they want to. Our payment solutions helps you avoid abandoned carts during checkout, while significantly increasing your conversion rates.</p>
+<h2><strong>JOGOS ONLINE</strong></h2>
+<p>Com mais de 270 milhões de jogadores e uma receita total projetada de US$ 5,1 bilhões até 2024, a América Latina é um dos mercados de jogos que mais cresce. As oportunidades são infinitas para os comerciantes globais de jogos que buscam aumentar sua receita, mas muitos perdem por não entrar nesse mercado - ou por fazê-lo sem um parceiro local adequado.</p>
+<p>Com a FacilitaPay, você estará pronto para aproveitar as oportunidades na América Latina, oferecendo toda a experiência local de que seus usuários precisam, permitindo que eles paguem da maneira que quiserem. Nossas soluções de pagamento o ajudam a evitar carrinhos abandonados durante o checkout, aumentando significativamente suas taxas de conversão.</p>
 <div class="d-flex gap-2">
 <!--                  <img src="/static/img/logos-ex/logo-1.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-2.svg" class="h-1">-->
@@ -5071,36 +4690,36 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="row row-gap-3 justify-content-center">
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/remitance.png\');"></div>
-<h2><strong>REMITTANCE</strong></h2>
-<p>Latin America remittances have been growing at a pace of over 20% YoY in the last years. In 2022, for example, more than 100 billion dollars where transacted in and out of the region - three times the amount transacted in 2005.</p>
-<p>Remittances in the region are both an income source for families and a way of reaching global suppliers and partners, being a significant part of the local economies.</p>
+<h2><strong>REMESSAS</strong></h2>
+<p>As remessas da América Latina têm crescido a um ritmo de mais de 20% ao ano nos últimos anos. Em 2022, por exemplo, mais de 100 bilhões de dólares foram transacionados dentro e fora da região - três vezes o valor transacionado em 2005.</p>
+<p>As remessas na região são tanto uma fonte de renda para as famílias quanto uma forma de alcançar fornecedores e parceiros globais, sendo uma parte significativa das economias locais.</p>
 <div class="d-flex gap-2">
 <img src="/static/img/logos/belmoney.png" class="h-1">
 <img src="/static/img/logos/global66.png" class="h-1">
 <img src="/static/img/logos/wyre.png" class="h-1">
 <img src="/static/img/logos/tempofrance.png" class="h-2">
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora!</strong></a>
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Send money everywhere:</strong></h4>
-<p>Many people in Latin America rely on informal networks, such as friends and family members, to send and receive money, rather than using formal financial institutions.</p>
+<h4><strong>Envie dinheiro para qualquer lugar:</strong></h4>
+<p>Muitas pessoas na América Latina dependem de redes informais, como amigos e familiares, para enviar e receber dinheiro, em vez de usar instituições financeiras formais.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Low costs and speed:</strong></h4>
-<p>The remittance industry in Latin America is characterized by high fees and a lack of competition, which makes it difficult for people to afford to send money to their families.</p>
+<h4><strong>Baixos custos e velocidade:</strong></h4>
+<p>O setor de remessas na América Latina é caracterizado por altas taxas e falta de concorrência, o que torna difícil para as pessoas enviarem dinheiro para suas famílias.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Work with crypto with a more direct transaction without the banks institutions:</strong></h4>
-<p>Cryptocurrency is increasingly being used as a way to send remittances from people living abroad to their families in Latin America. This is due to the high fees and long wait times associated with traditional remittance services.</p>
+<h4><strong>Trabalhe com criptomoedas com uma transação mais direta sem as instituições bancárias:</strong></h4>
+<p>A criptomoeda está sendo cada vez mais usada como uma forma de enviar remessas de pessoas que vivem no exterior para suas famílias na América Latina. Isso se deve às altas taxas e aos longos tempos de espera associados aos serviços de remessa tradicionais.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
@@ -5115,29 +4734,29 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Create your audience:</strong></h4>
-<p>By enabling all the local payment methods and currencies they require to pay online.</p>
+<h4><strong>Crie seu público:</strong></h4>
+<p>Habilitando todos os métodos de pagamento e moedas locais de que eles precisam para pagar on-line.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Enhanced payments performance:</strong></h4>
-<p>Through localized billing we provide you with the best-in-market approval rates.</p>
+<h4><strong>Desempenho aprimorado dos pagamentos:</strong></h4>
+<p>Por meio do faturamento localizado, oferecemos a você as melhores taxas de aprovação do mercado.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Processing large payments:</strong></h4>
-<p>In a fully compliant and cost-efficient way, without the need for local entities.</p>
+<h4><strong>Processamento de grandes pagamentos:</strong></h4>
+<p>De forma totalmente compatível e econômica, sem a necessidade de entidades locais.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Speed-to-market:</strong></h4>
-<p>Expand to LatAm’s main markets through one single integration.</p>
+<h4><strong>Entre mais rápido no mercado:</strong></h4>
+<p>Expanda para os principais mercados da América Latina por meio de uma única integração.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
@@ -5145,8 +4764,8 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/saas.png\');"></div>
 <h2><strong>SAAS</strong></h2>
-<p>Latin America is the 4th largest online region with more than 530M internet users. The SaaS market in Latin America has been growing at an annual rate of 20% from 2022 to 2025, which has been driven by factors such as the need for cost-effective solutions and the increasing availability of reliable internet connectivity.</>
-<p>The region represents a low-hanging-fruit for SaaS companies, with a relatively low adoption of SaaS solutions compared to more developed countries, and a lot of room for growth in the years to come. Count on a local payments partner like FacilitaPay to unlock the opportunities for your company in this region.</p>
+<p>A América Latina é a quarta maior região on-line, com mais de 530 milhões de usuários de Internet. O mercado de SaaS na América Latina tem crescido a uma taxa anual de 20% de 2022 a 2025, impulsionado por fatores como a necessidade de soluções econômicas e a crescente disponibilidade de conectividade confiável com a Internet.</>
+<p>A região representa um mercado de baixo potencial para as empresas de SaaS, com uma adoção relativamente baixa de soluções de SaaS em comparação com os países mais desenvolvidos, e muito espaço para crescimento nos próximos anos. Conte com um parceiro de pagamentos local, como a FacilitaPay, para desbloquear as oportunidades para sua empresa nessa região.</p>
 <div class="d-flex gap-2">
 <img src="/static/img/logos/floori.png" class="h-1">
 <!--                  <img src="/static/img/logos-ex/logo-2.svg" class="h-1">-->
@@ -5165,35 +4784,35 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/streaming.png\');"></div>
 <h2><strong>STREAMING</strong></h2>
-<p>After North America, Latin America is the second most attractive market for streaming companies to expand to, with a market potential of $11.4 billion, it’s the second-fastest growing streaming market globally and also the one with the greatest demand for music streaming services.</p>
-<p>Unlock millions of eager subscribers in Latin America by localizing your platform’s payments strategy with FacilitaPay.</p>
+<p>Depois da América do Norte, a América Latina é o segundo mercado mais atraente para a expansão das empresas de streaming. Com um potencial de mercado de US$ 11,4 bilhões, é o segundo mercado de streaming que mais cresce globalmente e também o que tem a maior demanda por serviços de streaming de música.</p>
+<p>Desbloqueie milhões de assinantes ansiosos na América Latina localizando a estratégia de pagamentos de sua plataforma com a FacilitaPay.</p>
 <div class="d-flex gap-2">
 <!--                  <img src="/static/img/logos-ex/logo-1.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-2.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-3.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-4.svg" class="h-1">-->
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece Agora</strong></a>
 </div>
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Attract loyal subscribers:</strong></h4>
-<p>By enabling all the local payment methods and currencies they require to pay online.</p>
+<h4><strong>Atraia assinantes fiéis:</strong></h4>
+<p>Ao habilitar todos os métodos de pagamento e moedas locais de que eles precisam para pagar on-line.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Enhanced payments performance:</strong></h4>
-<p>Through localized billing we provide you with the best-in-market approval rates.</p>
+<h4><strong>Desempenho aprimorado dos pagamentos:</strong></h4>
+<p>Por meio do faturamento localizado, oferecemos a você as melhores taxas de aprovação do mercado.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-white border-radius gap-1 p-2">
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Speed-to-market:</strong></h4>
-<p>Expand to LatAm’s main markets through one single integration.</p>
+<h4><strong>Entre mais rápido no mercado:</strong></h4>
+<p>Expanda para os principais mercados da América Latina por meio de uma única integração.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
@@ -5208,22 +4827,22 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-4 d-flex flex-column gap-1">
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column  gap-1">
-<h4><strong>Sell through LatAm:</strong></h4>
-<p>The e-commerce market in LatAm is expected to reach $93 billion by 2025, driven by an increase in internet penetration and smartphone adoption.</p>
+<h4><strong>Venda na América Latina:</strong></h4>
+<p>Espera-se que o mercado de comércio eletrônico na América Latina atinja US$ 93 bilhões até 2025, impulsionado por um aumento na penetração da Internet e na adoção de smartphones.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column  gap-1">
-<h4><strong>Charge and payout everywhere:</strong></h4>
-<p>Cross-border e-commerce is also on the rise in LatAm, with many consumers in the region buying goods and services from other countries. This trend is driven by the availability of a wide range of products and better prices offered by international e-commerce platforms.</p>
+<h4><strong>Cobrança e pagamento em qualquer lugar:</strong></h4>
+<p>O comércio eletrônico transfronteiriço também está em ascensão na América Latina, com muitos consumidores da região comprando produtos e serviços de outros países. Essa tendência é impulsionada pela disponibilidade de uma ampla gama de produtos e melhores preços oferecidos pelas plataformas internacionais de comércio eletrônico.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="align-items-start d-flex bg-light-gray border-radius gap-1 p-2">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Buy now, pay later:</strong></h4>
-<p>With FacilitaPay, our merchants can count on card installment options, better approval rates, and can offer all local payment methods.</p>
+<h4><strong>Compre agora e pague depois:</strong></h4>
+<p>Com a FacilitaPay, nossos comerciantes podem contar com opções de parcelamento de cartão, melhores taxas de aprovação e podem oferecer todos os métodos de pagamento locais.</p>
 </div>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
@@ -5231,28 +4850,28 @@ As more consumers move towards mobile-based payments, businesses must adapt to k
 <div class="col-12 col-lg-6 d-flex flex-column gap-2">
 <div class="img" style="background-image: url(\'/static/img/industries/ecommerce.png\');"></div>
 <h2><strong>ECOMMERCE</strong></h2>
-<p>The e-commerce market in Latin America has seen a powerful adoption in the last decades, with its volumes growing at rates of 25% between 2021 and 2025, and a revenue of more than US$700 billion, according to Americas Market Intelligence (AMI).</p>
-<p>As the demand grows for local and international goods among Latin Americans, the need to localize and provide them access becomes more relevant. Count on FacilitaPay to provide your Latin American clients with all the tools and means they need to pay you.</p>
+<p>O mercado de comércio eletrônico na América Latina teve uma forte adoção nas últimas décadas, com seus volumes crescendo a taxas de 25% entre 2021 e 2025, e uma receita de mais de US$ 700 bilhões, de acordo com a Americas Market Intelligence (AMI).</p>
+<p>À medida que cresce a demanda por produtos locais e internacionais entre os latino-americanos, a necessidade de localizar e fornecer acesso a eles se torna mais relevante. Conte com a FacilitaPay para fornecer aos seus clientes latino-americanos todas as ferramentas e meios de que eles precisam para pagá-lo.</p>
 <ul>
-<li> · Brazil: E-commerce market worth $153 billion in 2021</li>
-<li> · Mexico: E-commerce market worth $48.6 billion in 2021</li>
-<li> · Colombia: E-commerce market worth $22.4 billion in 2021</li>
-<li> · Argentina: E-commerce market worth $18 billion in 2021</li>
-<li> · Chile: E-commerce market worth $15.65 billion in 2021</li>
-<li> · Peru: E-commerce market worth $13 billion in 2021</li>
+<li>· Brasil: O mercado de comércio eletrônico foi avaliado em US$ 153 bilhões em 2021</li>
+<li>· México: Mercado de comércio eletrônico foi avaliado em US$ 48,6 bilhões em 2021</li>
+<li>· Colômbia: Mercado de comércio eletrônico foi avaliado em US$ 22,4 bilhões em 2021</li>
+<li>· Argentina: mercado de comércio eletrônico foi avaliado em US$ 18 bilhões em 2021</li>
+<li>· Chile: Mercado de comércio eletrônico foi avaliado em US$ 15,65 bilhões em 2021</li>
+<li>· Peru: Mercado de comércio eletrônico foi avaliado em US$ 13 bilhões em 2021</li>
 </ul>
-
 <div class="d-flex gap-2">
 <img src="/static/img/logos/octoshop.png" class="h-1">
 <!--                  <img src="/static/img/logos-ex/logo-2.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-3.svg" class="h-1">-->
 <!--                  <img src="/static/img/logos-ex/logo-4.svg" class="h-1">-->
 </div>
-<a href="optin.php" class="btn me-auto"><strong>Start Now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
 </div>
 </div>
 </div>
-</section>',
+</section>
+',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'Industries',
                 'slug' => NULL,
@@ -5791,7 +5410,9 @@ in fees. (*Compared to local entities).</p>
                 'pages_id' => 17,
                 'locale' => 'pt',
                 'title' => 'Markets Brazil',
-            'html' => '<section class="hero-2 bg-blue text-white" style="background-image: url(\'/static/img/bg-markets-br.png\')">
+                'html' => '
+
+<section class="hero-2 bg-blue text-white" style="background-image: url(\'/static/img/bg-markets-br.png\')">
 <div class="container d-flex flex-column gap-5 pb-4 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-6">
@@ -5801,11 +5422,13 @@ in fees. (*Compared to local entities).</p>
 </div>
 <div class="d-flex flex-column gap-2">
 <div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">BRAZIL</h6>
-<h2 class="text-white"><strong>Latin America’s largest eCommerce market</strong></h2>
+<h6 class="txt-light-green">BRASIL</h6>
+<h2 class="text-white"><strong>O maior mercado de comércio eletrônico da América Latina</strong></h2>
 </div>
-<p>With a population of over 210 million people, it is the sixth most populous country in the world and the largest economy in Latin America. Brazil is a rapidly growing market for digital companies, having a high internet and smartphone penetration. <br><br>Unlock the potential in this market by offering PIX, a 24/7 instant bank transfer and the most popular payment method in Brazil.</p>
-<a href="optin.php" class="btn me-auto">Start now</a>
+<p>Com uma população de mais de 210 milhões de pessoas, o Brasil é o sexto país mais populoso do mundo e a maior economia da América Latina. O Brasil é um mercado em rápido crescimento para empresas digitais, com alta penetração da Internet e de smartphones.
+<BR>
+Desbloqueie o potencial desse mercado oferecendo o PIX, uma transferência bancária instantânea 24 horas por dia, 7 dias por semana, e o método de pagamento mais popular no Brasil.</p>
+<a href="optin.php" class="btn me-auto">Comecen agora</a>
 </div>
 </div>
 </div>
@@ -5817,7 +5440,7 @@ in fees. (*Compared to local entities).</p>
 <div class="container d-flex flex-column gap-2">
 <div class="row">
 <div class="col-12 d-flex flex-column align-items-center">
-<h6 class="txt-white">Trusted by tech giants:</h6>
+<h6 class="txt-white">Confiado por gigantes da tecnologia:</h6>
 </div>
 </div>
 <div class="row text-center slider">
@@ -5843,7 +5466,7 @@ in fees. (*Compared to local entities).</p>
 <div class="container d-flex flex-column gap-2 pt-4">
 <div class="row">
 <div class="col-12">
-<h2 class="text-center"><strong>Market Overview <span class="txt-light-green">Brazil</span></strong></h2>
+<h2 class="text-center"><strong>Visão geral de mercado no <span class="txt-light-green">Brasil</span></strong></h2>
 </div>
 </div>
 <div class="row d-flex row-gap-3 align-items-center">
@@ -5853,8 +5476,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/icos/ico-1.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>Population - 211M</strong></h4>
-<p>The largest country in Latin America and the world\'s sixth most populous country.</p>
+<h4><strong>População - 211M</strong></h4>
+<p>O maior país da América Latina e o sexto país mais populoso do mundo.</p>
 </div>
 </div>
 </div>
@@ -5864,8 +5487,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/icos/ico-2.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>eCommerce Growth</strong></h4>
-<p>Brazil is expected to remain among the top 10 eCommerce markets globally with a projected growth of 17% through 2021.</p>
+<h4><strong>Crescimento do ecommerce</strong></h4>
+<p>Espera-se que o Brasil permaneça entre os 10 principais mercados de comércio eletrônico do mundo, com um crescimento projetado de 17% até 2021.</p>
 </div>
 </div>
 </div>
@@ -5875,8 +5498,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/icos/ico-3.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>eShoppers - 81.2M</strong></h4>
-<p>An eCommerce market with 81.2M eShoppers and a ticket average of  391 BRL.</p>
+<h4><strong>Compradores em ecommerce - 81,2 milhões</strong></h4>
+<p>Um mercado de comércio eletrônico com 81,2 milhões de compradores e um ticket médio de R$ 391.</p>
 </div>
 </div>
 </div>
@@ -5919,8 +5542,8 @@ in fees. (*Compared to local entities).</p>
 <div class="container d-flex flex-column gap-3 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">Brazil’s eCommerce payment mix</h6>
-<h2 class="text-center"><strong>Improve your payment acceptance by offering local payment methods in Brazil</strong></h2>
+<h6 class="text-center">MIX DE PAGAMENTOS DE COMÉRCIO ELETRÔNICO DO BRASIL</h6>
+<h2 class="text-center"><strong>Melhore sua aceitação de pagamentos oferecendo métodos de pagamento locais no Brasil</strong></h2>
 </div>
 </div>
 <div class="row d-flex row-gap-3 justify-content-center">
@@ -6043,8 +5666,9 @@ in fees. (*Compared to local entities).</p>
 <div class="container d-flex flex-column gap-2">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">DISCOVER</h6>
-<h2 class="text-center"><strong>Explore the opportunities in Brazil.</strong></h2>
+<h6 class="text-center">DESCUBRA</h6>
+<h2 class="text-center"><strong>Explore as oportunidades no Brasil.
+</strong></h2>
 </div>
 </div>
 <div class="row justify-content-center row-gap-2">
@@ -6054,8 +5678,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Availability</strong></h4>
-<p>PIX is available 24/7 for individuals and businesses, transfers are instantaneous.</p>
+<h4><strong>Disponibilidade</strong></h4>
+<p>O PIX está disponível 24 horas por dia, 7 dias por semana, para pessoas físicas e jurídicas, e as transferências são instantâneas.</p>
 </div>
 </div>
 </div>
@@ -6065,8 +5689,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Adoption</strong></h4>
-<p>Brazilian e-commerce has gained 8M new customers during the COVID-19 pandemic.</p>
+<h4><strong>Adoção</strong></h4>
+<p>O comércio eletrônico brasileiro ganhou 8 milhões de novos clientes durante a pandemia da COVID-19.</p>
 </div>
 </div>
 </div>
@@ -6076,8 +5700,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Accessibility</strong></h4>
-<p>PIX is compatible with multiple payment channels, including mobile, internet banking, and ATMs.</p>
+<h4><strong>Acessibilidade</strong></h4>
+<p>O PIX é compatível com vários canais de pagamento, incluindo celular, internet banking e caixas eletrônicos.</p>
 </div>
 </div>
 </div>
@@ -6087,8 +5711,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Trending Products</strong></h4>
-<p>The desire for new trendy products or services that are not normally found in Brazil makes Brazilian consumers fans of international brands.</p>
+<h4><strong>Produtos em alta</strong></h4>
+<p>O desejo por novos produtos ou serviços da moda que normalmente não são encontrados no Brasil faz com que os consumidores brasileiros sejam fãs de marcas internacionais.</p>
 </div>
 </div>
 </div>
@@ -6098,8 +5722,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Growth</strong></h4>
-<p>According to a report by Statista, the e-commerce market in Brazil is projected to grow by 10.3% in 2022, reaching a total value of BRL 98.7 billion (approximately USD 18 billion).</p>
+<h4><strong>Crescimento</strong></h4>
+<p>De acordo com um relatório da Statista, o mercado de comércio eletrônico no Brasil deve crescer 10,3% em 2022, atingindo um valor total de R$ 98,7 bilhões (aproximadamente US$ 18 bilhões).</p>
 </div>
 </div>
 </div>
@@ -6109,9 +5733,8 @@ in fees. (*Compared to local entities).</p>
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Opportunities</strong></h4>
-<p>Growth without setting up with a local entity, with FacilitaPay you get up to 95%* reduction
-in fees. (*Compared to local entities).</p>
+<h4><strong>Oportunidades de crescimento</strong></h4>
+<p>Crescimento sem se estabelecer com uma entidade local, com a FacilitaPay você obtém uma redução de até 95%* nas taxas. (*Comparado com entidades locais).</p>
 </div>
 </div>
 </div>
@@ -6131,106 +5754,106 @@ in fees. (*Compared to local entities).</p>
 <div class="col-12 col-lg-6">
 <div class="row bg-blue border-radius-top p-1">
 <div class="col-12">
-<h4 class="text-white"><strong>Payment Methods</strong></h4>
+<h4 class="text-white"><strong>Métodos de pagamento</strong></h4>
 </div>
 </div>
 <div class="row text-start bg-gradient-gray p-1">
 <div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>PIX (Instant Payment)</strong></h4>
-<p class="txt-gray">The instant payment system created by the Central Bank of Brazil is changing the market by performing transfers and payments, in a few seconds, at any time of the day - including weekends and holidays - in a safe and practical way.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/pix-logo.svg" class="h-1">
+<div class="d-flex flex-column gap-1 ignoreanimation">
+<h4 class="ignoreanimation"><strong>PIX (Pagamento Instantâneo)</strong></h4>
+<p class="txt-gray ignoreanimation">O sistema de pagamento instantâneo criado pelo Banco Central do Brasil está mudando o mercado ao realizar transferências e pagamentos, em poucos segundos, a qualquer hora do dia - inclusive finais de semana e feriados - de forma segura e prática.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/pix-logo.svg" class="h-1">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Local Credit Cards</strong></h4>
-<p class="txt-gray">The usage of credit cards has been growing. Although, internationally-enabled credit cards make up only 24% of e-commerce transactions. Start to accept both international and domestic cards and increase your conversions.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-<img src="/static/img/finance/amex.svg">
-<img src="/static/img/finance/diners.svg">
-<img src="/static/img/finance/elo.svg">
-<img src="/static/img/finance/hipercard.svg">
+<h4 class="ignoreanimation"><strong>Cartões de crédito locais</strong></h4>
+<p class="txt-gray ignoreanimation">O uso de cartões de crédito vem crescendo. No entanto, os cartões de crédito habilitados internacionalmente representam apenas 24% das transações de comércio eletrônico. Comece a aceitar cartões internacionais e nacionais e aumente suas conversões.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/master.svg">
+<img class="ignoreanimation" src="/static/img/finance/visa.svg">
+<img class="ignoreanimation" src="/static/img/finance/amex.svg">
+<img class="ignoreanimation" src="/static/img/finance/diners.svg">
+<img class="ignoreanimation" src="/static/img/finance/elo.svg">
+<img class="ignoreanimation" src="/static/img/finance/hipercard.svg">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Local Debit Cards</strong></h4>
-<p class="txt-gray">A debit card is a common payment method in Brazil. Today, there are 116M active debit cards in the country, with 664B reais spent with this method in 2019. Accept debit cards to reach a new consumer base and optimize your revenue in Brazil.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/master.svg" >
-<img src="/static/img/finance/visa.svg" >
-<img src="/static/img/finance/elo.svg" >
+<h4 class="ignoreanimation"><strong>Cartões de débito locais</strong></h4>
+<p class="txt-gray ignoreanimation">O cartão de débito é um método de pagamento comum no Brasil. Hoje, há 116 milhões de cartões de débito ativos no país, com 664 bilhões de reais gastos com esse método em 2019. Aceite cartões de débito para alcançar uma nova base de consumidores e otimizar sua receita no Brasil.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/master.svg" >
+<img class="ignoreanimation" src="/static/img/finance/visa.svg" >
+<img class="ignoreanimation" src="/static/img/finance/elo.svg" >
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Installments</strong></h4>
-<p class="txt-gray">Brazilians have the habit of splitting the total amount of a purchase made with a credit card in up to 12 monthly payments. Allow your customers to make higher-value purchases and increase your average ticket size.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/installments.svg" class="h-2">
+<h4 class="ignoreanimation"><strong>Parcelamentos</strong></h4>
+<p class="txt-gray ignoreanimation">Os brasileiros têm o hábito de dividir o valor total de uma compra feita com cartão de crédito em até 12 pagamentos mensais. Permita que seus clientes façam compras de maior valor e aumente o tamanho de seu tíquete médio.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/installments.svg" class="h-2">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Boleto Bancário</strong></h4>
-<p class="txt-gray">Brazil has a cash-centric culture, and Boleto has been historically used by the Brazilian population to pay for monthly bills, taxes, and also e-commerce purchases. Reach the unbanked population and also those whose preference is Boleto out of habit.</p>
-<div class="d-flex gap-1">
+<h4 class="ignoreanimation"><strong>Boleto Bancário</strong></h4>
+<p class="txt-gray ignoreanimation">O Brasil tem uma cultura centrada no dinheiro, e o boleto tem sido historicamente usado pela população brasileira para pagar contas mensais, impostos e também compras de comércio eletrônico. Alcance a população sem conta bancária e também aqueles cuja preferência é o boleto por hábito.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/instant-boleto.svg" class="h-2">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Crypto</strong></h4>
-<p class="txt-gray">Brazil has the seventh largest crypto market in the world and is growing rapidly. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/ethereum.png" class="h-1">
-<img src="/static/img/finance/crypto-2.png" class="h-1">
-<img src="/static/img/finance/bitcoin.png" class="h-1">
-<img src="/static/img/finance/crypto-3.png" class="h-1">
+<h4 class="ignoreanimation"><strong>Cripto</strong></h4>
+<p class="txt-gray ignoreanimation">O Brasil tem o sétimo maior mercado de criptomoedas do mundo e está crescendo rapidamente. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/ethereum.png" class="h-1">
+<img class="ignoreanimation" src="/static/img/finance/crypto-2.png" class="h-1">
+<img class="ignoreanimation" src="/static/img/finance/bitcoin.png" class="h-1">
+<img class="ignoreanimation" src="/static/img/finance/crypto-3.png" class="h-1">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Digital Wallets</strong></h4>
-<p class="txt-gray">The popularity of digital wallets is increasing in Brazil, mostly due to the benefits offered by them, such as convenience, security, and simplicity to pay. Be ahead of the market and start to offer digital wallets on your e-commerce store.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/logo-mercadopago.svg" >
-<img src="/static/img/finance/logo-paypal.svg" >
-<img src="/static/img/finance/picpay.svg" class="h-1">
+<h4 class="ignoreanimation"><strong>Carteiras digitais</strong></h4>
+<p class="txt-gray ignoreanimation">A popularidade das carteiras digitais está aumentando no Brasil, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/logo-mercadopago.svg" >
+<img class="ignoreanimation" src="/static/img/finance/logo-paypal.svg" >
+<img class="ignoreanimation h-2" src="/static/img/finance/picpay.svg">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Other Alternative Payments</strong></h4>
-<p class="txt-gray">Brazil has several ways to pay online beyond credit cards. Bank Transfer and Online Debit are two effective payment options. Allow consumers to use their usual bank account to make an instant payment without the risk of chargeback for you.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/bank-transfer-cropped--en.svg" >
-<img src="/static/img/finance/online-debit--en.svg" class="h-1">
+<h4 class="ignoreanimation"><strong>Outros pagamentos alternativos</strong></h4>
+<p class="txt-gray ignoreanimation">O Brasil tem várias formas de pagamento on-line além dos cartões de crédito. Transferência bancária e débito on-line são duas opções de pagamento eficazes. Permita que os consumidores usem sua conta bancária habitual para fazer um pagamento instantâneo sem o risco de estorno para você.</p>
+<div class="d-flex flex-wrap gap-1">
+<img class="ignoreanimation" src="/static/img/finance/bank-transfer-cropped--en.svg" >
+<img class="ignoreanimation" src="/static/img/finance/online-debit--en.svg" class="h-1">
 </div>
 </div>
 </div>
@@ -7232,487 +6855,15 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAMarket Overview BrazilPoblación - 21
                 'pages_id' => 18,
                 'locale' => 'pt',
                 'title' => 'Markets Colombia',
-            'html' => '<section class="hero-2 bg-blue text-white" style="background-image: url(\'/static/img/bg-market-cl.png\')">
-<div class="container d-flex flex-column gap-5 pb-4 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-6">
-<div class="d-flex flex-column flex-lg-row gap-4">
-<div class="flag">
-<img src="/static/img/ico-colombia.svg" class="w-4">
-</div>
-<div class="d-flex flex-column gap-2">
-<div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">COLOMBIA</h6>
-<h2 class="text-white"><strong>The fastest growing online market in Latin America</strong></h2>
-</div>
-<p>Colombia has a population of 51 million people with a large and young population, which presents a significant market opportunity for digital companies. The country has the highest e-commerce adoption in the region. Reach 100% of Colombians by offering PSE, Efecty and local cards</p>
-<a href="optin.php" class="btn me-auto">Start now</a>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4">
-</div>
-</div>
-<div class="row text-center slider">
-<div class="col-12 d-flex flex-column">
-<div class="container d-flex flex-column gap-2">
-<div class="row">
-<div class="col-12 d-flex flex-column align-items-center">
-<h6 class="txt-white">Trusted by tech giants:</h6>
-</div>
-</div>
-<div class="row text-center slider">
-<div class="col-12">
-<ul class="d-flex justify-content-center flex-wrap row-gap-3 column-gap-5">
-<li><img src="/static/img/logos/sproutfi-white.png" class="h-2"></li>
-<li><img src="/static/img/logos/bitso.png" class="h-2"></li>
-<li><img src="/static/img/logos/okx.png" class="h-2"></li>
-<li><img src="/static/img/logos/angloamerican-white.png" class="h-2"></li>
-<li><img src="/static/img/logos/global66-white.png" class="h-2"></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-1 bg-white">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row">
-<div class="col-12">
-<h2 class="text-center"><strong>Market Overview <span class="txt-light-green">Colombia</span></strong></h2>
-</div>
-</div>
-<div class="row d-flex row-gap-3 align-items-center">
-<div class="col-12 col-md-4">
-<div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
-<div class="ico">
-<img src="/static/img/icos/ico-1.svg" class="w-2">
-</div>
-<div class="d-flex flex-column gap-2">
-<h4><strong>Population - 51.8M</strong></h4>
-<p>TThe fastest growing digital market in and the third most populous country in Latin America</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4">
-<div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
-<div class="ico">
-<img src="/static/img/icos/ico-2.svg" class="w-2">
-</div>
-<div class="d-flex flex-column gap-2">
-<h4><strong>eCommerce - $3.8B</strong></h4>
-<p>The arrival of global companies in Colombia is boosting e-commerce solutions throughout the value chain of the digital ecosystem. Colombian online consumers are becoming familiar with buying from foreign websites.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-4">
-<div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2">
-<div class="ico">
-<img src="/static/img/icos/ico-3.svg" class="w-2">
-</div>
-<div class="d-flex flex-column gap-2">
-<h4><strong>eShoppers - 11.6M</strong></h4>
-<p>There are 11.6M* online shoppers in the country, and the total addressable market is expanding along with the increase of connectivity.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-white"></div>
-
-
-
-<section class="cta cta-1 bg-white">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-12 col-sm-6 col-lg-5 d-flex align-items-center bg-light-green">
-<div class="square"></div>
-<div class="p-2">
-<h3><strong>Easily enter the fastest growing online market in Latin America.</strong></h3>
-</div>
-</div>
-<div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" style="background-image: url(\'/static/img/bg-cta.jpg\');">
-<div class="d-flex flex-column gap-1 p-2">
-<h4 class="txt-white">Offer PSE and many other payment methods.</h4>
-<a href="optin.php" class="btn d-flex"><strong>Start now</strong></a>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-light-gray"></div>
-
-
-
-<section class="map-stats bg-light-gray">
-<div class="container d-flex flex-column gap-3 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">Colombia’s eCommerce payment mix</h6>
-<h2 class="text-center"><strong>Improve your payment acceptance by offering local payment methods in Colombia</strong></h2>
-</div>
-</div>
-<div class="row d-flex row-gap-3 justify-content-center">
-<div class="col-12 col-lg-4">
-<div class="d-flex h-100 justify-content-center text-start flex-column pe-3 gap-2">
-<div class="badge align-items-center justify-content-center d-flex flex-column">
-<span>98% OF <br>MARKET SHARE COVERED BY</span>
-<img src="/static/img/logo-facilitapay-white.svg">
-</div>
-<div class="item d-flex align-items-center gap-1">
-<div>
-<img src="/static/img/finance/SVG/ico-pse.svg">
-</div>
-<div class="d-flex flex-column flex-grow-1">
-<p class="sub">PSE - 16%</p>
-<div class="barra">
-<div style="width: 16%;"></div>
-</div>
-</div>
-</div>
-<div class="item d-flex align-items-center gap-1">
-<div>
-<img src="/static/img/finance/SVG/ico-card.svg">
-</div>
-<div class="d-flex flex-column flex-grow-1">
-<p class="sub">CREDIT CARD - 52%</p>
-<div class="barra">
-<div style="width: 52%;"></div>
-</div>
-</div>
-</div>
-<div class="item d-flex align-items-center gap-1">
-<div>
-<img src="/static/img/finance/SVG/ico-money.svg">
-</div>
-<div class="d-flex flex-column flex-grow-1">
-<p class="sub">Cash Payments (EfectY, Baloto, SuRed) - 13%</p>
-<div class="barra">
-<div style="width: 13%;"></div>
-</div>
-</div>
-</div>
-<div class="item d-flex align-items-center gap-1">
-<div>
-<img src="/static/img/finance/SVG/ico-international-wires.svg">
-</div>
-<div class="d-flex flex-column flex-grow-1">
-<p class="sub">International Wires - 2%</p>
-<div class="barra">
-<div style="width: 2%;"></div>
-</div>
-</div>
-</div>
-<div class="item d-flex align-items-center gap-1">
-<div>
-<img src="/static/img/finance/SVG/ico-crypto-currencies.svg">
-</div>
-<div class="d-flex flex-column flex-grow-1">
-<p class="sub">Crypto Currencies (Stablecoins) - 3%</p>
-<div class="barra">
-<div style="width: 3%;"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-12 col-md-7 col-lg-5">
-<div>
-<img src="/static/img/maps/map-colombia.svg" class="img-fluid">
-</div>
-</div>
-
-<div class="col-12 col-md-3">
-<div class="d-flex h-100 justify-content-center flex-lg-column flex-wrap ps-2 gap-1">
-
-<div>
-<h5>CAPITAL</h5>
-<p>Bogotá</p>
-</div>
-<div>
-<h5>REGION</h5>
-<p>South America</p>
-</div>
-<div>
-<h5>CURRENCY</h5>
-<p>Colombian Peso <br>USD/COP = 4344,55</p>
-</div>
-<div>
-<h5>POPULATION</h5>
-<p>51.2M</p>
-</div>
-<div>
-<h5>GDP</h5>
-<p>US$ 314.32B</p>
-</div>
-<div>
-<h5>GDP PER CAPITA</h5>
-<p>US$ 6.131</p>
-</div>
-</div>
-
-</div>
-
-</div>
-</div>
-</section>
-
-
-
-<section class="bullets-2 bg-light-gray pt-4">
-<div class="container d-flex flex-column gap-2">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">DISCOVER</h6>
-<h2 class="text-center"><strong>Explore the opportunities in Colombia.</strong></h2>
-</div>
-</div>
-<div class="row justify-content-center row-gap-2">
-<div class="col-12 col-lg-4">
-<div class="item bg-white border-radius d-flex gap-1 p-2">
-<div class="ico">
-<img src="/static/img/ico-check.svg" class="w-1">
-</div>
-<div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Large market</strong></h4>
-<p>Colombia has a population of over 50 million people, providing a significant potential market for digital products and services.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4">
-<div class="item bg-white border-radius d-flex gap-1 p-2">
-<div class="ico">
-<img src="/static/img/ico-check.svg" class="w-1">
-</div>
-<div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Increasing internet usage</strong></h4>
-<p>CColombia has seen significant growth in internet usage in recent years, with over 70% of the population now using the internet. This presents an opportunity for digital companies to reach a large and growing user base.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4">
-<div class="item bg-white border-radius d-flex gap-1 p-2">
-<div class="ico">
-<img src="/static/img/ico-check.svg" class="w-1">
-</div>
-<div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Growing middle class</strong></h4>
-<p>Colombia\'s growing middle class has increased purchasing power and disposable income, making them a potential market for digital products and services.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4">
-<div class="item bg-white border-radius d-flex gap-1 p-2">
-<div class="ico">
-<img src="/static/img/ico-check.svg" class="w-1">
-</div>
-<div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Mobile-first market</strong></h4>
-<p>Colombia is a mobile-first market, with a high percentage of the population accessing the internet through their mobile devices. This makes it an attractive market for mobile apps and services.</p>
-</div>
-</div>
-</div>
-<div class="col-12 col-lg-4">
-<div class="item bg-white border-radius d-flex gap-1 p-2">
-<div class="ico">
-<img src="/static/img/ico-check.svg" class="w-1">
-</div>
-<div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Government support</strong></h4>
-<p>The Colombian government has taken steps to support the growth of the digital economy, including promoting investment and innovation in the sector.</p>
-</div>
-</div>
-</div>
-</div>
-
-<div class="row justify-content-center">
-<div class="col-12 col-lg-4">
-<a href="optin.php" class="btn me-auto"><strong>Start now</strong></a>
-</div>
-</div>
-
-</div>
-</section>
-
-
-
-<div class="h-4 bg-light-gray"></div>
-
-
-<section class="table-1 bg-light-gray">
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-6">
-<div class="row bg-blue border-radius-top p-1">
-<div class="col-12">
-<h4 class="text-white"><strong>Payment Methods</strong></h4>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Local Credit Cards</strong></h4>
-<p class="txt-gray">This payment method is one of the primary options of Colombians when shopping online. All Colombian cards are enabled to make international purchases, yet, local banks and issuers impose some obstacles to international shopping. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-<img src="/static/img/finance/amex.svg">
-<img src="/static/img/finance/diners.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Local Debit Cards</strong></h4>
-<p class="txt-gray">Debit card usage in Colombia has been growing rapidly in recent years, with over 20 million cardholders in the country as of 2021. The number of POS terminals in Colombia has been increasing, with over 200,000 in use as of 2021. This has helped to boost debit card usage, as consumers can now make card payments at a growing number of merchants. FacilitaPay card solution offers local acquiring what increases approval rates.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/master.svg">
-<img src="/static/img/finance/visa.svg">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>PSE (Pagos Seguros en Línea)</strong></h4>
-<p class="txt-gray">The preferred alternative payment solution in Colombia. Pagos Seguros en Línea allows your customers to make bank transfers directly from their bank accounts, without needing a credit card.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/pse-logo.png" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Baloto</strong></h4>
-<p class="txt-gray">Baloto is Colombia’s main lottery operator in the country and also has a payment network, with more than 13.500 payment stations, it’s able to reach 96% of the cities. Clients can pay purchases offline or online. When choosing the offline option, they receive a payment voucher with a barcode and a serial number, which can be paid at one of the payment stations.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/baloto.png" class="h-2">
-</div>
-</div>
-</div>
-</div>
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>SuRed</strong></h4>
-<p class="txt-gray">Being one of the largest payments networks in Colombia, SuRed is partnered with more than 27.000 convenience stores from different brands and across 32 departments. Clients who choose this payment method receive a voucher that can be paid in cash at any of their points.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/sured.png" class="h-1">
-</div>
-</div>
-</div>
-</div>
-
-<!--                <div class="row text-start bg-gradient-gray p-1">-->
-<!--                  <div class="col-12">-->
-<!--                    <div class="d-flex flex-column gap-1">-->
-<!--                      <h4><strong>Crypto</strong></h4>-->
-<!--                      <p class="txt-gray">Colombia has one of the highest rates of cryptocurrency adoption in Latin America, with around 5 million people estimated to own some form of digital currency. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>-->
-<!--                      <div class="d-flex gap-1">-->
-<!--                          <img src="/static/img/finance/ethereum.png" class="h-1">-->
-<!--                          <img src="/static/img/finance/crypto-2.png" class="h-1">-->
-<!--                          <img src="/static/img/finance/bitcoin.png" class="h-1">-->
-<!--                          <img src="/static/img/finance/crypto-3.png" class="h-1">-->
-<!--                      </div>-->
-<!--                    </div>-->
-<!--                  </div>-->
-<!--                </div>-->
-
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Efecty</strong></h4>
-<p class="txt-gray">With real-time confirmation and easy user experience, Efecty is one of the most popular cash payment vouchers in Colombia, payable in over 10,000 locations throughout the country. Increases your sales by reaching a vast part of Colombian customers that prefer to pay offline, with cash and allows you to reach the unbanked population.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/efecty.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-
-<div class="row text-start bg-gradient-gray p-1">
-<div class="col-12">
-<div class="d-flex flex-column gap-1">
-<h4><strong>Installments</strong></h4>
-<p class="txt-gray">Installment purchases are very popular in Colombia, over 70% of online credit card transactions are installment-based. The clients are allowed to pay their purchase in up to 36 months. The banks, who finance the operation charge interest rates, which are charged directly to the client depending on the agreement he has with his bank.</p>
-<div class="d-flex gap-1">
-<img src="/static/img/finance/installments-36x.svg" class="h-2">
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-light-gray"></div>
-
-
-
-<section class="cta-2 bg-light-gray">
-<div class="container d-flex flex-column gap-2 pb-4 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-md-6 col-lg-6 d-flex align-items-center bg-white">
-<div class="d-flex flex-column gap-1 p-2">
-<h4><strong>Download our <span class="txt-light-green">Colombia</span> Country Guide</strong></h4>
-<p>Learn everything you need to know about the eCommerce payments landscape in Colombia in our straight-to-the-point country guide.</p>
-<a href="#!" class="btn me-auto"><strong>Download now</strong></a>
-</div>
-</div>
-<div class="col-12 col-md-6 col-lg-3 bg-light-green">
-<div>
-<img src="/static/img/brochure-cl.png">
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<div class="h-1 bg-light-gray"></div>
-
-<section class="pagination-1 bg-light-gray">
-<div class="container">
-<div class="row justify-content-between">
-<div class="col-4">
-<a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="/static/img/ico-brazil.svg" class="h-2"> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Brazil</strong> country page</span></a>
-</div>
-<div class="col-4">
-<a href="markets-mexico.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Mexico</strong> country page</span> <span class="arrow right"></span> <img src="/static/img/ico-mexico.svg" class="h-2"></a>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-light-gray"></div>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+                'html' => '<section class="hero-2 bg-blue text-white" id="idio"><div class="container d-flex flex-column gap-5 pb-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-6"><div class="d-flex flex-column flex-lg-row gap-4"><div class="flag"><img src="/static/img/ico-colombia.svg" class="w-4"/></div><div class="d-flex flex-column gap-2"><div class="d-flex flex-column gap-1"><h6 class="txt-light-green">COLOMBIA</h6><h2 class="text-white"><strong>O mercado on-line que cresce mais rapidamente na América Latina</strong></h2></div><p>A Colômbia tem uma população de 51 milhões de pessoas, com uma população grande e jovem, o que representa uma oportunidade de mercado significativa para as empresas digitais. O país tem a maior adoção de comércio eletrônico da região. Alcance 100% dos colombianos oferecendo PSE, Efecty e cartões locais.</p><a href="optin.php" class="btn me-auto">Comece agora</a></div></div></div><div class="col-12 col-lg-4">
+</div></div><div class="row text-center slider"><div class="col-12 d-flex flex-column"><div class="container d-flex flex-column gap-2"><div class="row"><div class="col-12 d-flex flex-column align-items-center"><h6 class="txt-white">Confiado por gigantes da tecnologia:</h6></div></div><div class="row text-center slider"><div class="col-12"><ul class="d-flex justify-content-center flex-wrap row-gap-3 column-gap-5"><li><img src="/static/img/logos/sproutfi-white.png" class="h-2"/></li><li><img src="/static/img/logos/bitso.png" class="h-2"/></li><li><img src="/static/img/logos/okx.png" class="h-2"/></li><li><img src="/static/img/logos/angloamerican-white.png" class="h-2"/></li><li><img src="/static/img/logos/global66-white.png" class="h-2"/></li></ul></div></div></div></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row"><div class="col-12"><h2 class="text-center"><strong>Visão geral de mercado na <span class="txt-light-green">Colômbia</span></strong></h2></div></div><div class="row d-flex row-gap-3 align-items-center"><div class="col-12 col-md-4"><div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2"><div class="ico"><img src="/static/img/icos/ico-1.svg" class="w-2"/></div><div class="d-flex flex-column gap-2"><h4><strong>População - 51.8M</strong></h4><p>O mercado digital de crescimento mais rápido e o terceiro país mais populoso da América Latina</p></div></div></div><div class="col-12 col-md-4"><div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2"><div class="ico"><img src="/static/img/icos/ico-2.svg" class="w-2"/></div><div class="d-flex flex-column gap-2"><h4><strong>Ecommerce - $3.8B</strong></h4><p>A chegada de empresas globais à Colômbia está impulsionando as soluções de comércio eletrônico em toda a cadeia de valor do ecossistema digital. Os consumidores on-line colombianos estão se familiarizando com a compra em sites estrangeiros.</p></div></div></div><div class="col-12 col-md-4"><div class="item bg-light-gray text-start border-radius d-flex gap-2 p-2"><div class="ico"><img src="/static/img/icos/ico-3.svg" class="w-2"/></div><div class="d-flex flex-column gap-2"><h4><strong>Compradores em ecommerce  - 11.6M</strong></h4><p>THá 11,6 milhões* de compradores on-line no país, e o mercado total endereçável está se expandindo junto com o aumento da conectividade.</p></div></div></div></div></div></section><div class="h-4 bg-white"></div><section class="cta cta-1 bg-white"><div class="container"><div class="row justify-content-center"><div class="col-12 col-sm-6 col-lg-5 d-flex align-items-center bg-light-green"><div class="square"></div><div class="p-2"><h3><strong>Easily enter the fastest growing online market in Latin America.</strong></h3></div></div><div class="col-12 col-sm-6 col-lg-5 bg-blue txt-white" id="igbf2"><div class="d-flex flex-column gap-1 p-2"><h4 class="txt-white">Offer PSE and many other payment methods.</h4><a href="optin.php" class="btn d-flex"><strong>Start now</strong></a></div></div></div></div></section><div class="h-4 bg-light-gray"></div><section class="map-stats bg-light-gray"><div class="container d-flex flex-column gap-3 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-8 d-flex flex-column gap-1"><h6 class="text-center">MIX DE PAGAMENTOS DE COMÉRCIO ELETRÔNICO DA COLÔMBIA</h6><h2 class="text-center"><strong id="iwmnod">Melhore sua aceitação de pagamentos oferecendo métodos de pagamento locais na Colômbia</strong></h2></div></div><div class="row d-flex row-gap-3 justify-content-center"><div class="col-12 col-lg-4"><div class="d-flex h-100 justify-content-center text-start flex-column pe-3 gap-2"><div class="badge align-items-center justify-content-center d-flex flex-column"><span>98% OF <br/>MARKET SHARE COVERED BY</span><img src="/static/img/logo-facilitapay-white.svg"/></div><div class="item d-flex align-items-center gap-1"><div><img src="/static/img/finance/SVG/ico-pse.svg"/></div><div class="d-flex flex-column flex-grow-1"><p class="sub">PSE - 16%</p><div class="barra"><div id="i344eg"></div></div></div></div><div class="item d-flex align-items-center gap-1"><div><img src="/static/img/finance/SVG/ico-card.svg"/></div><div class="d-flex flex-column flex-grow-1"><p class="sub">CREDIT CARD - 52%</p><div class="barra"><div id="ilfqns"></div></div></div></div><div class="item d-flex align-items-center gap-1"><div><img src="/static/img/finance/SVG/ico-money.svg"/></div><div class="d-flex flex-column flex-grow-1"><p class="sub">Cash Payments (EfectY, Baloto, SuRed) - 13%</p><div class="barra"><div id="ien1qf"></div></div></div></div><div class="item d-flex align-items-center gap-1"><div><img src="/static/img/finance/SVG/ico-international-wires.svg"/></div><div class="d-flex flex-column flex-grow-1"><p class="sub">International Wires - 2%</p><div class="barra"><div id="izmnp6"></div></div></div></div><div class="item d-flex align-items-center gap-1"><div><img src="/static/img/finance/SVG/ico-crypto-currencies.svg"/></div><div class="d-flex flex-column flex-grow-1"><p class="sub">Crypto Currencies (Stablecoins) - 3%</p><div class="barra"><div id="i2101g"></div></div></div></div></div></div><div class="col-12 col-md-7 col-lg-5"><div><img src="/static/img/maps/map-colombia.svg" class="img-fluid"/></div></div><div class="col-12 col-md-3"><div class="d-flex h-100 justify-content-center flex-lg-column flex-wrap ps-2 gap-1"><div><h5>CAPITAL</h5><p>Bogotá</p></div><div><h5>REGION</h5><p>South America</p></div><div><h5>CURRENCY</h5><p>Colombian Peso <br/>USD/COP = 4344,55</p></div><div><h5>POPULATION</h5><p>51.2M</p></div><div><h5>GDP</h5><p>US$ 314.32B</p></div><div><h5>GDP PER CAPITA</h5><p>US$ 6.131</p></div></div></div></div></div></section><section class="bullets-2 bg-light-gray pt-4"><div class="container d-flex flex-column gap-2"><div class="row justify-content-center"><div class="col-12 col-lg-8 d-flex flex-column gap-1"><h6 class="text-center">DESCUBRA</h6><h2 class="text-center"><strong>Explore as oportunidades na Colombia.</strong></h2></div></div><div class="row justify-content-center row-gap-2"><div class="col-12 col-lg-4"><div class="item bg-white border-radius d-flex gap-1 p-2"><div class="ico"><img src="/static/img/ico-check.svg" class="w-1"/></div><div class="d-flex flex-column flex-grow-1 gap-1"><h4><strong>Grande mercado</strong></h4><p>A Colômbia tem uma população de mais de 50 milhões de pessoas, o que proporciona um mercado potencial significativo para produtos e serviços digitais.</p></div></div></div><div class="col-12 col-lg-4"><div class="item bg-white border-radius d-flex gap-1 p-2"><div class="ico"><img src="/static/img/ico-check.svg" class="w-1"/></div><div class="d-flex flex-column flex-grow-1 gap-1"><h4><strong>Aumento do uso da Internet</strong></h4><p>A Colômbia registrou um crescimento significativo no uso da Internet nos últimos anos, com mais de 70% da população usando a Internet atualmente. Isso representa uma oportunidade para as empresas digitais alcançarem uma base de usuários grande e crescente.</p></div></div></div><div class="col-12 col-lg-4"><div class="item bg-white border-radius d-flex gap-1 p-2"><div class="ico"><img src="/static/img/ico-check.svg" class="w-1"/></div><div class="d-flex flex-column flex-grow-1 gap-1"><h4><strong>Classe média em crescimento</strong></h4><p>A crescente classe média colombiana tem maior poder de compra e renda disponível, o que a torna um mercado potencial para produtos e serviços digitais.</p></div></div></div><div class="col-12 col-lg-4"><div class="item bg-white border-radius d-flex gap-1 p-2"><div class="ico"><img src="/static/img/ico-check.svg" class="w-1"/></div><div class="d-flex flex-column flex-grow-1 gap-1"><h4><strong>Mercado que prioriza os dispositivos móveis</strong></h4><p>A Colômbia é um mercado que prioriza os dispositivos móveis, com uma alta porcentagem da população acessando a Internet por meio de seus dispositivos móveis. Isso a torna um mercado atraente para aplicativos e serviços móveis.</p></div></div></div><div class="col-12 col-lg-4"><div class="item bg-white border-radius d-flex gap-1 p-2"><div class="ico"><img src="/static/img/ico-check.svg" class="w-1"/></div><div class="d-flex flex-column flex-grow-1 gap-1"><h4><strong>Apoio do governo</strong></h4><p>O governo colombiano tomou medidas para apoiar o crescimento da economia digital, incluindo a promoção de investimentos e inovações no setor.</p></div></div></div></div><div class="row justify-content-center"><div class="col-12 col-lg-4"><a href="optin" class="btn me-auto"><strong>Comece agora</strong></a></div></div></div></section><div class="h-4 bg-light-gray"></div><section class="table-1 bg-light-gray"><div class="container"><div class="row justify-content-center"><div class="col-12 col-lg-6"><div class="row bg-blue border-radius-top p-1"><div class="col-12"><h4 class="text-white"><strong>Métodos de pagamento</strong></h4></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cartões de crédito locais</strong></h4><p class="txt-gray">Esse método de pagamento é uma das principais opções dos colombianos ao fazer compras on-line. Todos os cartões colombianos estão habilitados a fazer compras internacionais, mas os bancos e emissores locais impõem alguns obstáculos às compras internacionais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/><img src="/static/img/finance/amex.svg"/><img src="/static/img/finance/diners.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Cartões de débito locais</strong></h4><p class="txt-gray">O uso de cartões de débito na Colômbia tem crescido rapidamente nos últimos anos, com mais de 20 milhões de titulares de cartões no país em 2021. O número de terminais POS na Colômbia tem aumentado, com mais de 200.000 em uso em 2021. Isso ajudou a impulsionar o uso do cartão de débito, pois os consumidores agora podem fazer pagamentos com cartão em um número cada vez maior de estabelecimentos comerciais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/master.svg"/><img src="/static/img/finance/visa.svg"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>PSE (Pagos Seguros en Línea)</strong></h4><p class="txt-gray">A solução de pagamento alternativa preferida na Colômbia. O Pagos Seguros en Línea permite que seus clientes façam transferências bancárias diretamente de suas contas bancárias, sem precisar de um cartão de crédito.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/pse-logo.png" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Baloto</strong></h4><p class="txt-gray">A Baloto é a principal operadora de loteria da Colômbia e também tem uma rede de pagamento, com mais de 13.500 estações de pagamento, podendo chegar a 96% das cidades. Os clientes podem pagar suas compras off-line ou on-line. Ao escolher a opção off-line, eles recebem um comprovante de pagamento com um código de barras e um número de série, que pode ser pago em uma das estações de pagamento.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/baloto.png" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>SuRed</strong></h4><p class="txt-gray">Sendo uma das maiores redes de pagamento da Colômbia, a SuRed tem parceria com mais de 27.000 lojas de conveniência de diferentes marcas e em 32 departamentos. Os clientes que escolhem esse método de pagamento recebem um voucher que pode ser pago em dinheiro em qualquer um de seus pontos.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/sured.png" class="h-1"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Efecty</strong></h4><p class="txt-gray">Com confirmação em tempo real e fácil experiência do usuário, o Efecty é um dos vouchers de pagamento em dinheiro mais populares na Colômbia, pagável em mais de 10.000 locais em todo o país. Aumenta suas vendas ao atingir uma grande parte dos clientes colombianos que preferem pagar off-line, com dinheiro, e permite que você atinja a população sem conta bancária.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/efecty.svg" class="h-2"/></div></div></div></div><div class="row text-start bg-gradient-gray p-1 ignoreanimation"><div class="col-12"><div class="d-flex flex-column gap-1"><h4><strong>Parcelamentos</strong></h4><p class="txt-gray">As compras parceladas são muito populares na Colômbia, mais de 70% das transações on-line com cartão de crédito são parceladas. Os clientes podem pagar suas compras em até 36 meses. Os bancos que financiam a operação cobram taxas de juros, que são cobradas diretamente do cliente, dependendo do acordo que ele tem com seu banco.</p><div class="d-flex flex-wrap gap-1"><img src="/static/img/finance/installments-36x.svg" class="h-2"/></div></div></div></div></div></div></div></section><div class="h-4 bg-light-gray"></div><section class="cta-2 bg-light-gray"><div class="container d-flex flex-column gap-2 pb-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-md-6 col-lg-6 d-flex align-items-center bg-white"><div class="d-flex flex-column gap-1 p-2"><h4><strong>Download our <span class="txt-light-green">Colombia</span> Country Guide</strong></h4><p>Learn everything you need to know about the eCommerce payments landscape in Colombia in our straight-to-the-point country guide.</p><a href="#!" class="btn me-auto"><strong>Download now</strong></a></div></div><div class="col-12 col-md-6 col-lg-3 bg-light-green"><div><img src="/static/img/brochure-cl.png"/></div></div></div></div></section><div class="h-1 bg-light-gray"></div><section class="pagination-1 bg-light-gray"><div class="container"><div class="row justify-content-between"><div class="col-4"><a href="markets-brazil.php" class="btn btn-2 d-inline-flex align-items-center gap-1 me-auto"><img src="/static/img/ico-brazil.svg" class="h-2"/> <span class="arrow left"></span> <span class="d-none d-lg-block">Prev - <strong>Brazil</strong> country page</span></a></div><div class="col-4"><a href="markets-mexico.php" class="btn btn-2 d-inline-flex align-items-center gap-1 ms-auto"><span class="d-none d-lg-block">Next - <strong>Mexico</strong> country page</span> <span class="arrow right"></span> <img src="/static/img/ico-mexico.svg" class="h-2"/></a></div></div></div></section><div class="h-4 bg-light-gray"></div>',
+            'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#idio{background-image:url(\'/static/img/bg-market-cl.png\');}#igbf2{background-image:url(\'/static/img/bg-cta.jpg\');}#i344eg{width:16%;}#ilfqns{width:52%;}#ien1qf{width:13%;}#izmnp6{width:2%;}#i2101g{width:3%;}',
                 'metatitle' => 'Markets Colombia',
                 'slug' => NULL,
-                'metadescription' => NULL,
+                'metadescription' => 'COLOMBIAO mercado on-line que cresce mais rapidamente na América LatinaA Colômbia tem uma população de 51 milhões de pessoas, com uma população grande e jovem, o que representa uma oportunidade de mercado significativa para as empresas digitais. O país tem a maior adoção de comércio eletrônico da região. Alcance 100% dos colombianos oferecendo PSE, Efecty e cartões locais.Comece agora
+Confiado por gigantes da tecnologia:Visão geral de mercado na ColômbiaPopulação - 51.8MO mercado digital de crescimento mais rápido e o terceiro país mais populoso da América LatinaEcommerce - $3.8BA chegada de empresas globais à Colômbia está impulsionando as soluções de comércio eletrônico em toda a cadeia de valor do ecossistema digital. Os consumidores on-line colombianos estão se familiarizando com a compra em sites estrangeiros.Compradores em ecommerce  - 11.6MTHá 11,6 milhões* de compradores on-line no país, e o mercado total endereçável está se expandindo junto com o aumento da conectividade.Easily enter the fastest growing online market in Latin America.Offer PSE and many other payment methods.Start nowMIX DE PAGAMENTOS DE COMÉRCIO ELETRÔNICO DA COLÔMBIAMelhore sua aceitação de pagamentos oferecendo métodos de pagamento locais na Colômbia98% OF MARKET SHARE COVERED BYPSE - 16%CREDIT CARD - 52%Cash Payments (EfectY, Baloto, SuRed) - 13%International Wires - 2%Crypto Currencies (Stablecoins) - 3%CAPITALBogotáREGIONSouth AmericaCURRENCYColombian Peso USD/COP = 4344,55POPULATION51.2MGDPUS$ 314.32BGDP PER CAPITAUS$ 6.131DESCUBRAExplore as oportunidades na Colombia.Grande mercadoA Colômbia tem uma população de mais de 50 milhões de pessoas, o que proporciona um mercado potencial significativo para produtos e serviços digitais.Aumento do uso da InternetA Colômbia registrou um crescimento significativo no uso da Internet nos últimos anos, com mais de 70% da população usando a Internet atualmente. Isso representa uma oportunidade para as empresas digitais alcançarem uma base de usuários grande e crescente.Classe média em crescimentoA crescente classe média colombiana tem maior poder de compra e renda disponível, o que a torna um mercado potencial para produtos e serviços digitais.Mercado que prioriza os dispositivos móveisA Colômbia é um mercado que prioriza os dispositivos móveis, com uma alta porcentagem da população acessando a Internet por meio de seus dispositivos móveis. Isso a torna um mercado atraente para aplicativos e serviços móveis.Apoio do governoO governo colombiano tomou medidas para apoiar o crescimento da economia digital, incluindo a promoção de investimentos e inovações no setor.Comece agoraMétodos de pagamentoCartões de crédito locaisEsse método de pagamento é uma das principais opções dos colombianos ao fazer compras on-line. Todos os cartões colombianos estão habilitados a fazer compras internacionais, mas os bancos e emissores locais impõem alguns obstáculos às compras internacionais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.Cartões de débito locaisO uso de cartões de débito na Colômbia tem crescido rapidamente nos últimos anos, com mais de 20 milhões de titulares de cartões no país em 2021. O número de terminais POS na Colômbia tem aumentado, com mais de 200.000 em uso em 2021. Isso ajudou a impulsionar o uso do cartão de débito, pois os consumidores agora podem fazer pagamentos com cartão em um número cada vez maior de estabelecimentos comerciais. A solução de cartão FacilitaPay oferece aquisição local, o que aumenta as taxas de aprovação.PSE (Pagos Seguros en Línea)A solução de pagamento alternativa preferida na Colômbia. O Pagos Seguros en Línea permite que seus clientes façam transferências bancárias diretamente de suas contas bancárias, sem precisar de um cartão de crédito.BalotoA Baloto é a principal operadora de loteria da Colômbia e também tem uma rede de pagamento, com mais de 13.500 estações de pagamento, podendo chegar a 96% das cidades. Os clientes podem pagar suas compras off-line ou on-line. Ao escolher a opção off-line, eles recebem um comprovante de pagamento com um código de barras e um número de série, que pode ser pago em uma das estações de pagamento.SuRedSendo uma das maiores redes de pagamento da Colômbia, a SuRed tem parceria com mais de 27.000 lojas de conveniência de diferentes marcas e em 32 departamentos. Os clientes que escolhem esse método de pagamento recebem um voucher que pode ser pago em dinheiro em qualquer um de seus pontos.EfectyCom confirmação em tempo real e fácil experiência do usuário, o Efecty é um dos vouchers de pagamento em dinheiro mais populares na Colômbia, pagável em mais de 10.000 locais em todo o país. Aumenta suas vendas ao atingir uma grande parte dos clientes colombianos que preferem pagar off-line, com dinheiro, e permite que você atinja a população sem conta bancária.ParcelamentosAs compras parceladas são muito populares na Colômbia, mais de 70% das transações on-line com cartão de crédito são parceladas. Os clientes podem pagar suas compras em até 36 meses. Os bancos que financiam a operação cobram taxas de juros, que são cobradas diretamente do cliente, dependendo do acordo que ele tem com seu banco.Download our Colombia Country GuideLearn everything you need to know about the eCommerce payments landscape in Colombia in our straight-to-the-point country guide.Download now  Prev - Brazil country pageNext - Mexico country page',
                 'created_at' => '2023-05-30 17:56:38',
-                'updated_at' => '2023-05-30 17:56:38',
+                'updated_at' => '2023-06-02 18:22:38',
             ),
             23 => 
             array (
@@ -8623,7 +7774,7 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
                 'pages_id' => 19,
                 'locale' => 'pt',
                 'title' => 'Markets Mexico',
-            'html' => '<section class="hero-2 bg-blue text-white" style="background-image: url(\'/static/img/bg-market-mx.png\')">
+            'html' => '        <section class="hero-2 bg-blue text-white" style="background-image: url(\'/static/img/bg-market-mx.png\')">
 <div class="container d-flex flex-column gap-5 pb-4 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-6">
@@ -8633,11 +7784,11 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 </div>
 <div class="d-flex flex-column gap-2">
 <div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">Mexico</h6>
-<h2 class="text-white"><strong>The second largest economy in LatAm.</strong></h2>
+<h6 class="txt-light-green">México</h6>
+<h2 class="text-white"><strong>A segunda maior economia da América Latina.</strong></h2>
 </div>
-<p>Mexico offers a large and growing market for e-commerce with a population of over 130 million people and increasing internet penetration, making it an attractive investment opportunity for e-commerce companies. With favorable demographic trends and supportive government policies, Mexico presents a stable and predictable business environment for companies looking to expand their e-commerce operations.</p>
-<a href="optin.php" class="btn me-auto">Start now</a>
+<p>O México oferece um mercado grande e crescente para o comércio eletrônico, com uma população de mais de 130 milhões de pessoas e uma crescente penetração da Internet, o que o torna uma oportunidade de investimento atraente para empresas de comércio eletrônico. Com tendências demográficas favoráveis e políticas governamentais de apoio, o México apresenta um ambiente de negócios estável e previsível para empresas que buscam expandir suas operações de comércio eletrônico.</p>
+<a href="optin" class="btn me-auto">Start now</a>
 </div>
 </div>
 </div>
@@ -8649,7 +7800,7 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="container d-flex flex-column gap-2">
 <div class="row">
 <div class="col-12 d-flex flex-column align-items-center">
-<h6 class="txt-white">Trusted by tech giants:</h6>
+<h6 class="txt-white">Confiado por gigantes da tecnologia:</h6>
 </div>
 </div>
 <div class="row text-center slider">
@@ -8675,7 +7826,7 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="container d-flex flex-column gap-2 pt-4">
 <div class="row">
 <div class="col-12">
-<h2 class="text-center"><strong>Market Overview <span class="txt-light-green">Mexico</span></strong></h2>
+<h2 class="text-center"><strong>Visão geral de mercado do <span class="txt-light-green">México</span></strong></h2>
 </div>
 </div>
 <div class="row d-flex row-gap-3 align-items-center">
@@ -8685,8 +7836,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/icos/ico-1.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>Population - 130M</strong></h4>
-<p>The second largest economy in LatAm and the world\'s twelfth most populous country.</p>
+<h4><strong>População - 130M</strong></h4>
+<p>A segunda maior economia da América Latina e o décimo segundo país mais populoso do mundo.</p>
 </div>
 </div>
 </div>
@@ -8696,8 +7847,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/icos/ico-2.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>Market size</strong></h4>
-<p>According to a report by Statista, the e-commerce market in Mexico was valued at $22.6 billion in 2020 and is expected to reach $36.3 billion by 2024.</p>
+<h4><strong>Tamanho do mercado</strong></h4>
+<p>De acordo com um relatório da Statista, o mercado de comércio eletrônico no México foi avaliado em US$ 22,6 bilhões em 2020 e deve chegar a US$ 36,3 bilhões até 2024.</p>
 </div>
 </div>
 </div>
@@ -8707,8 +7858,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/icos/ico-3.svg" class="w-2">
 </div>
 <div class="d-flex flex-column gap-2">
-<h4><strong>Mobile Commerce</strong></h4>
-<p>Mobile commerce is gaining popularity in Mexico and is expected to drive the growth of the e-commerce market in the future. In 2020, 56% of online purchases in Mexico were made using a mobile device.</p>
+<h4><strong>Comércio móvel</strong></h4>
+<p>O comércio móvel está ganhando popularidade no México e espera-se que impulsione o crescimento do mercado de comércio eletrônico no futuro. Em 2020, 56% das compras on-line no México foram feitas usando um dispositivo móvel.</p>
 </div>
 </div>
 </div>
@@ -8751,8 +7902,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="container d-flex flex-column gap-3 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">Mexico’s eCommerce payment mix</h6>
-<h2 class="text-center"><strong>Improve your payment acceptance by offering local payment methods in Mexico</strong></h2>
+<h6 class="text-center">MIX DE PAGAMENTOS DE COMÉRCIO ELETRÔNICO DO MÉXICO</h6>
+<h2 class="text-center"><strong>Melhore sua aceitação de pagamentos oferecendo métodos de pagamento locais no México</strong></h2>
 </div>
 </div>
 <div class="row d-flex row-gap-3 justify-content-center">
@@ -8833,7 +7984,7 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 </div>
 <div class="col-12 col-md-7 col-lg-5">
 <div>
-<img src="/static/img/maps/map-mexico.svg" class="img-fluid">
+<img src="/static/img/maps/map-méxico.svg" class="img-fluid">
 </div>
 </div>
 <div class="col-12 col-md-3">
@@ -8841,7 +7992,7 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 
 <div>
 <h5>CAPITAL</h5>
-<p>Mexico City</p>
+<p>México City</p>
 </div>
 <div>
 <h5>REGION</h5>
@@ -8876,8 +8027,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="container d-flex flex-column gap-2">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-8 d-flex flex-column gap-1">
-<h6 class="text-center">DISCOVER</h6>
-<h2 class="text-center"><strong>Explore the opportunities in Mexico.</strong></h2>
+<h6 class="text-center">DESCUBRA</h6>
+<h2 class="text-center"><strong>Explore as oportunidades no México.</strong></h2>
 </div>
 </div>
 <div class="row justify-content-center row-gap-2">
@@ -8887,8 +8038,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Large and growing population</strong></h4>
-<p>Large and growing population: Mexico has a population of over 130 million people, making it one of the largest consumer markets in the world. This large consumer base provides a significant opportunity for e-commerce companies to tap into.</p>
+<h4><strong>População grande e crescente</strong></h4>
+<p>População grande e em crescimento: O México tem uma população de mais de 130 milhões de pessoas, o que o torna um dos maiores mercados consumidores do mundo. Essa grande base de consumidores oferece uma oportunidade significativa para as empresas de comércio eletrônico.</p>
 </div>
 </div>
 </div>
@@ -8898,8 +8049,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Increasing internet penetration</strong></h4>
-<p>The number of internet users in Mexico has been growing rapidly in recent years, and this trend is expected to continue in the future. This increase in internet usage is creating a growing market for e-commerce companies.</p>
+<h4><strong>Aumento da penetração da Internet</strong></h4>
+<p>O número de usuários de Internet no México tem crescido rapidamente nos últimos anos, e espera-se que essa tendência continue no futuro. Esse aumento no uso da Internet está criando um mercado crescente para as empresas de comércio eletrônico.</p>
 </div>
 </div>
 </div>
@@ -8909,8 +8060,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Favorable demographic trends</strong></h4>
-<p>Mexico has a young and growing middle class, which is driving consumer spending and e-commerce growth. Additionally, Mexico\'s demographic trends, such as urbanization and increasing education levels, are creating a more favorable environment for e-commerce.
+<h4><strong>Tendências demográficas favoráveis</strong></h4>
+<p>O México tem uma classe média jovem e crescente, que está impulsionando os gastos dos consumidores e o crescimento do comércio eletrônico. Além disso, as tendências demográficas do México, como a urbanização e o aumento dos níveis de educação, estão criando um ambiente mais favorável para o comércio eletrônico.
 </p>
 </div>
 </div>
@@ -8921,8 +8072,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Government support</strong></h4>
-<p>The Mexican government is supportive of e-commerce and has implemented policies to encourage its growth. This supportive environment provides a more stable and predictable business environment for e-commerce companies operating in Mexico.</p>
+<h4><strong>Apoio do governo</strong></h4>
+<p>O governo mexicano apoia o comércio eletrônico e implementou políticas para incentivar seu crescimento. Esse ambiente favorável proporciona um ambiente de negócios mais estável e previsível para as empresas de comércio eletrônico que operam no México.</p>
 </div>
 </div>
 </div>
@@ -8932,8 +8083,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Payment methods</strong></h4>
-<p>Credit cards are the most widely used payment method for e-commerce transactions in Mexico, followed by bank transfers and cash on delivery.</p>
+<h4><strong>Métodos de pagamento</strong></h4>
+<p>Os cartões de crédito são o método de pagamento mais usado para transações de comércio eletrônico no México, seguidos por transferências bancárias e dinheiro na entrega.</p>
 </div>
 </div>
 </div>
@@ -8943,15 +8094,15 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <img src="/static/img/ico-check.svg" class="w-1">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4><strong>Popular products</strong></h4>
-<p>The most popular product categories in the Mexican e-commerce market are fashion and accessories, electronics, and home and garden items.</p>
+<h4><strong>Produtos populares</strong></h4>
+<p>As categorias de produtos mais populares no mercado mexicano de comércio eletrônico são moda e acessórios, eletrônicos e itens para casa e jardim.</p>
 </div>
 </div>
 </div>
 </div>
 <div class="row justify-content-center">
 <div class="col-12 col-lg-4">
-<a href="optin.php" class="btn me-auto"><strong>Start now</strong></a>
+<a href="optin.php" class="btn me-auto"><strong>Comece agora</strong></a>
 </div>
 </div>
 
@@ -8970,37 +8121,37 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="col-12 col-lg-6">
 <div class="row bg-blue border-radius-top p-1">
 <div class="col-12">
-<h4 class="text-white"><strong>Payment Methods</strong></h4>
+<h4 class="text-white"><strong>Métodos de pagamento</strong></h4>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
 <h4><strong>OXXO</strong></h4>
-<p class="txt-gray">OXXO is one of the most famous voucher payments in Mexico. People are used to going to convenience stores to pay bills, and also their vouchers for e-commerce purchases. Start to accept OXXO as a payment method and reach more consumers.</p>
-<div class="d-flex gap-1">
+<p class="txt-gray">OXXO é um dos mais famosos pagamentos com comprovante no México. As pessoas estão acostumadas a ir às lojas de conveniência para pagar contas e também seus cupons para compras no comércio eletrônico. Comece a aceitar o OXXO como método de pagamento e alcance mais consumidores.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/oxxo-pay.svg" class="h-2">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
 <h4><strong>OXXO Pay</strong></h4>
-<p class="txt-gray">The most known payment method in Mexico now with real-time confirmation.</p>
-<div class="d-flex gap-1">
+<p class="txt-gray">O método de pagamento mais conhecido no México, agora com confirmação em tempo real.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/oxxo-pay.svg" class="h-2">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Local Credit and Debit Cards</strong></h4>
-<p class="txt-gray">Access to financial services is still growing, and credit card penetration is on the rise in Mexico. Local acquiring can offer better approval rates in Mexico, and you can accept local debit cards.</p>
-<div class="d-flex gap-1">
+<h4><strong>Cartões de crédito e débito locais</strong></h4>
+<p class="txt-gray">O acesso a serviços financeiros ainda está crescendo, e a penetração de cartões de crédito está aumentando no México. A aquisição local pode oferecer melhores taxas de aprovação no México, e você pode aceitar cartões de débito locais.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/master.svg">
 <img src="/static/img/finance/visa.svg">
 <img src="/static/img/finance/amex.svg">
@@ -9008,34 +8159,34 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Credit Card Installments</strong></h4>
-<p class="txt-gray">With installments, consumers can split up purchases in 3, 6, 9, and 12 monthly payments depending on the price of the purchase. Offer installments to your Mexican customers and increase average ticket sizes.</p>
-<div class="d-flex gap-1">
+<h4><strong>Parcelamentos de cartões de crédito</strong></h4>
+<p class="txt-gray">Com o parcelamento, os consumidores podem dividir as compras em 3, 6, 9 e 12 pagamentos mensais, dependendo do preço da compra. Ofereça parcelamentos a seus clientes mexicanos e aumente o tamanho do tíquete médio.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/installments.svg">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
 <h4><strong>SPEI</strong></h4>
-<p class="txt-gray">Whenever a Mexican wants to make an interbank transfer, they need to use SPEI. The Mexican system for online banking transactions. Allow your customers to pay for their purchases with online bank transfers through SPEI.</p>
-<div class="d-flex gap-1">
+<p class="txt-gray">Sempre que um mexicano quiser fazer uma transferência interbancária, ele precisará usar o SPEI. O sistema mexicano para transações bancárias on-line. Permita que seus clientes paguem suas compras com transferências bancárias on-line por meio do SPEI.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/spei.svg">
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Crypto</strong></h4>
-<p class="txt-gray">The crypto market is becoming increasingly important in Mexico due to the country\'s large population of unbanked individuals, high levels of remittance inflows, and growing interest in digital assets as a hedge against inflation and economic instability. With FacilitaPay, you can make settlement in crypto, on/off ramp solutions and receive your local payments in stablecoins.</p>
-<div class="d-flex gap-1">
+<h4><strong>Cripto</strong></h4>
+<p class="txt-gray">O mercado de criptomoedas está se tornando cada vez mais importante no México devido à grande população de pessoas sem conta bancária no país, aos altos níveis de entrada de remessas e ao crescente interesse em ativos digitais como uma proteção contra a inflação e a instabilidade econômica. Com o FacilitaPay, você pode fazer liquidações em criptomoedas, soluções on/off ramp e receber seus pagamentos locais em stablecoins.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/ethereum.png" class="h-1">
 <img src="/static/img/finance/crypto-2.png" class="h-1">
 <img src="/static/img/finance/bitcoin.png" class="h-1">
@@ -9044,23 +8195,24 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Digital Wallets</strong></h4>
-<p class="txt-gray">The popularity of digital wallets is increasing in México, mostly due to the benefits offered by them, such as convenience, security, and simplicity to pay. Be ahead of the market and start to offer digital wallets on your e-commerce store.</p>
-<div class="d-flex gap-1">
+<h4><strong>Carteiras digitais</strong></h4>
+<p class="txt-gray">A popularidade das carteiras digitais está aumentando no México, principalmente devido aos benefícios oferecidos por elas, como conveniência, segurança e simplicidade de pagamento. Esteja à frente do mercado e comece a oferecer carteiras digitais em sua loja de comércio eletrônico.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/logo-mercadopago.svg" >
 </div>
 </div>
 </div>
 </div>
-<div class="row text-start bg-gradient-gray p-1">
+<div class="row text-start bg-gradient-gray p-1 ignoreanimation">
 <div class="col-12">
 <div class="d-flex flex-column gap-1">
-<h4><strong>Other Alternative Payments</strong></h4>
-<p class="txt-gray">Mexico has several payment methods besides credit cards. Voucher payments, Oxxo and digital wallets are very common methods used by online consumers.</p>
-<div class="d-flex gap-1">
+<h4><strong>Outros pagamentos alternativos</strong></h4>
+<p class="txt-gray">O México tem vários métodos de pagamento além dos cartões de crédito. Os pagamentos por voucher, Oxxo e carteiras digitais são métodos muito comuns usados pelos consumidores on-line.</p>
+<div class="d-flex flex-wrap gap-1">
 <img src="/static/img/finance/bank-transfer-cropped--en.svg" >
 <img src="/static/img/finance/online-debit--en.svg" class="h-1">
 </div>
@@ -9084,8 +8236,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 <div class="row justify-content-center">
 <div class="col-12 col-md-6 col-lg-6 d-flex align-items-center bg-white">
 <div class="d-flex flex-column gap-1 p-2">
-<h4><strong>Download our <span class="txt-light-green">Mexico</span> Country Guide</strong></h4>
-<p>Learn everything you need to know about the eCommerce payments landscape in Mexico in our straight-to-the-point country guide.</p>
+<h4><strong>Download our <span class="txt-light-green">México</span> Country Guide</strong></h4>
+<p>Learn everything you need to know about the eCommerce payments landscape in México in our straight-to-the-point country guide.</p>
 <a href="#!" class="btn me-auto"><strong>Download now</strong></a>
 </div>
 </div>
@@ -9119,7 +8271,8 @@ CONFIADO POR LOS GIGANTES DE LA TECNOLOGÍAPanorama del mercado en  ColombiaPo
 
 
 
-<div class="h-4 bg-light-gray"></div>',
+<div class="h-4 bg-light-gray"></div>
+',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'Markets Mexico',
                 'slug' => NULL,
@@ -9782,7 +8935,7 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
                 'pages_id' => 20,
                 'locale' => 'pt',
                 'title' => 'Blockchain',
-            'html' => '<div class="blockchain" style="background-image: url(\'/static/img/bg-crypto.jpg\');">
+            'html' => '        <div class="blockchain" style="background-image: url(\'/static/img/bg-crypto.jpg\');">
 
 
 
@@ -9790,10 +8943,11 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="container d-flex flex-column gap-2 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-md-9 d-flex flex-column gap-2">
-<h6 class="txt-white">CRYPTO</h6>
-<h1 class="txt-white">We have the safer and the fast way to transact through the blockchain.</h1>
-<p class="txt-white">Since 2017 we realized that blockchain would revolutionize the world of finance. Our ideal at FacilitaPay is to act as a tool that will collaborate with the growth of Web 3 infrastructure. <br><br><strong>Are you in the Crypto world looking to increase your customer base in LatAm?</strong></p>
-<a href="optin.php" class="btn me-auto">Start now</a>
+<h6 class="txt-white">CRIPTO</h6>
+<h1 class="txt-white">Temos a maneira mais segura e rápida de fazer transações por meio do blockchain.</h1>
+<p class="txt-white">Desde 2017 percebemos que o blockchain iria revolucionar o mundo das finanças. Nosso ideal na FacilitaPay é atuar como uma ferramenta que irá colaborar com o crescimento da infraestrutura da Web 3.
+<br><br><strong>Você está no mundo das criptomoedas e quer aumentar sua base de clientes na América Latina?</strong></p>
+<a href="optin.php" class="btn me-auto">Comece agora</a>
 </div>
 <div class="col-12 col-lg-4">
 </div>
@@ -9807,8 +8961,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="container d-flex flex-column gap-3 pt-5">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-10 d-flex flex-column  gap-2">
-<h6 class="txt-white">FEATURES</h6>
-<h2 class="txt-white"><strong>Here at FacilitaPay we offer practical and innovative solutions for your business.</strong></h2>
+<h6 class="txt-white">RECURSOS</h6>
+<h2 class="txt-white"><strong>No FacilitaPay, oferecemos soluções práticas e inovadoras para sua empresa.</strong></h2>
 </div>
 </div>
 <div class="row justify-content-center">
@@ -9818,8 +8972,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="d-flex align-items-start border-radius box-opacity text-start gap-2 p-2">
 <img src="/static/img/ico-check.svg" class="w-1">
 <div class="d-flex flex-column gap-1">
-<h4 class="txt-white"><strong>Settlement in crypto</strong></h4>
-<p class="txt-white">Collect your payments in local currency and receive them in USDC, USDT, BTC or ETH.</p>
+<h4 class="txt-white"><strong>Liquidação em criptomoedas</strong></h4>
+<p class="txt-white">Receba seus pagamentos em moeda local e receba-os em USDC, USDT, BTC ou ETH.</p>
 <div class="d-flex gap-1">
 <img src="/static/img/finance/ethereum.png" class="h-1">
 <img src="/static/img/finance/crypto-2.png" class="h-1">
@@ -9834,7 +8988,7 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/ico-check.svg" class="w-1">
 <div class="d-flex flex-column gap-1">
 <h4 class="txt-white"><strong>On / Off Ramps</strong></h4>
-<p class="txt-white">FacilitaPay\'s treasury assists you with the exchange fiat-to-crypto or crypto-to-fiat. As simple as this.</p>
+<p class="txt-white">A tesouraria da FacilitaPay lhe auxilia na troca fiat-to-crypto ou crypto-to-fiat. Simples assim.</p>
 </div>
 </div>
 </div>
@@ -9842,8 +8996,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="d-flex align-items-start border-radius box-opacity text-start gap-2 p-2">
 <img src="/static/img/ico-check.svg" class="w-1">
 <div class="d-flex flex-column gap-1">
-<h4 class="txt-white"><strong>Receive your local payments in crypto</strong></h4>
-<p class="txt-white">We set to you those payments in fiat currencies.</p>
+<h4 class="txt-white"><strong>Receba seus pagamentos locais em criptomoedas</strong></h4>
+<p class="txt-white">Nós definimos para você esses pagamentos em moedas fiduciárias.</p>
 </div>
 </div>
 </div>
@@ -9866,8 +9020,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-7.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Store</strong></h4>
-<p class="txt-white">Control your funds through our multicurrency solution, managing all the custody in our dashboard.</p>
+<h4 class="txt-white"><strong>Armazenamento</strong></h4>
+<p class="txt-white">Controle seus fundos por meio de nossa solução multimoeda, gerenciando toda a custódia em nosso painel.</p>
 </div>
 </div>
 
@@ -9876,8 +9030,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-8.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Fraud prevention</strong></h4>
-<p class="txt-white">Proprietary technology helping to prevent fraud locally in LatAm.</p>
+<h4 class="txt-white"><strong>Prevenção de fraudes</strong></h4>
+<p class="txt-white">Tecnologia proprietária que ajuda a evitar fraudes localmente na América Latina.</p>
 </div>
 </div>
 
@@ -9886,8 +9040,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-9.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Highly Configurable</strong></h4>
-<p class="txt-white">Adaptable to any business model, our clients can build their business on top of our technology.</p>
+<h4 class="txt-white"><strong>Altamente configurável</strong></h4>
+<p class="txt-white">Adaptável a qualquer modelo de negócios, nossos clientes podem desenvolver seus negócios com base em nossa tecnologia.</p>
 </div>
 </div>
 
@@ -9896,8 +9050,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-10.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Audit transactions</strong></h4>
-<p class="txt-white">Compliant with global auditors and regulators, customers can access data worldwide.</p>
+<h4 class="txt-white"><strong>Transações de auditoria</strong></h4>
+<p class="txt-white">Em conformidade com auditores e reguladores globais, os clientes podem acessar dados em todo o mundo.</p>
 </div>
 </div>
 
@@ -9906,8 +9060,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-11.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Developer Friendly</strong></h4>
-<p class="txt-white">Built to be part of our client\'s technology, we have all the features to be embedded in other platforms.</p>
+<h4 class="txt-white"><strong>Amigável ao desenvolvedor</strong></h4>
+<p class="txt-white">Criado para fazer parte da tecnologia de nossos clientes, temos todos os recursos que podem ser incorporados em outras plataformas.</p>
 </div>
 </div>
 
@@ -9916,8 +9070,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <img src="/static/img/icos/ico-12.svg" class="w-2">
 </div>
 <div class="d-flex flex-column flex-grow-1 gap-1">
-<h4 class="txt-white"><strong>Local KYC Features</strong></h4>
-<p class="txt-white">Helping our clients to onboard their local users through our own platform and integrated in the customer experience.</p>
+<h4 class="txt-white"><strong>Recursos locais de KYC</strong></h4>
+<p class="txt-white">Ajudamos nossos clientes a integrar seus usuários locais por meio de nossa própria plataforma e integrados à experiência do cliente.</p>
 </div>
 </div>
 
@@ -9933,8 +9087,8 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="container pt-5">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-10 d-flex flex-column gap-2 text-center">
-<h2 class="txt-white"><strong>Start using cryptocurrency payments now</strong></h2>
-<a href="optin.php" class="btn m-auto"><strong>Get in touch</strong></a>
+<h2 class="txt-white"><strong>Comece a usar pagamentos em criptomoedas agora</strong></h2>
+<a href="optin.php" class="btn m-auto"><strong>Entre em contato</strong></a>
 </div>
 </div>
 </div>
@@ -9950,7 +9104,7 @@ Apoyo gubernamentalEl gobierno mexicano apoya el comercio electrónico y ha impl
 <div class="container d-flex flex-column gap-2 pt-4">
 <div class="row">
 <div class="col-12 d-flex flex-column align-items-center">
-<h6 class="txt-white">Trusted by crypto giants:</h6>
+<h6 class="txt-white">Confiado por gigantes da tecnologia:</h6>
 </div>
 </div>
 <div class="row text-center slider">
@@ -10281,17 +9435,17 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
                 'pages_id' => 21,
                 'locale' => 'pt',
                 'title' => 'About Us',
-                'html' => ' <section class="hero-4 bg-blue">
+                'html' => '        <section class="hero-4 bg-blue">
 <div class="container d-flex flex-column gap-3 pb-4 pt-4">
 <div class="row justify-content-center text-center">
 <div class="col-12 col-lg-9 d-flex flex-column gap-2">
 <div class="d-flex flex-column gap-1">
-<h6 class="txt-light-green">ABOUT US</h6>
-<h3 class="txt-white"><strong>We are a different kind of payments company because winning in emerging markets requires a different approach</strong></h3>
+<h6 class="txt-light-green">SOBRE NÓS</h6>
+<h3 class="txt-white"><strong>Somos um tipo diferente de empresa de pagamentos porque vencer nos mercados emergentes exige uma abordagem ainda mais eficiente</strong></h3>
 </div>
 <div class="d-flex justify-content-center gap-1">
-<a href="optin.php" target="_blank" class="btn d-inline-flex"><strong>Let\'s talk</strong></a>
-<a href="careers.php" target="_blank" class="btn btn-4 d-inline-flex"><strong>Careers</strong></a>
+<a href="optin.php" target="_blank" class="btn d-inline-flex"><strong>Vamos conversar</strong></a>
+<a href="careers.php" target="_blank" class="btn btn-4 d-inline-flex"><strong>Carreiras</strong></a>
 </div>
 </div>
 </div>
@@ -10306,8 +9460,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <img src="/static/img/icos/ico-7.svg" class="h-2">
 </div>
 <div class="d-flex flex-column justify-content-center">
-<h5 class="txt-light-green">Over +1000</h5>
-<p class="txt-white">Payment methods available.</p>
+<h5 class="txt-light-green">Mais de +1000</h5>
+<p class="txt-white">Métodos de pagamento disponíveis.</p>
 </div>
 </div>
 <div class="col-6 col-lg-3 d-flex gap-1">
@@ -10315,8 +9469,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <img src="/static/img/icos/ico-8.svg" class="h-2">
 </div>
 <div class="d-flex flex-column justify-content-center">
-<h5 class="txt-light-green">290+ Companies</h5>
-<p class="txt-white">Operating with us.</p>
+<h5 class="txt-light-green">Mais de 290 empresas</h5>
+<p class="txt-white">Operando conosco.</p>
 </div>
 </div>
 <div class="col-6 col-lg-3 d-flex gap-1">
@@ -10325,7 +9479,7 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 </div>
 <div class="d-flex flex-column justify-content-center">
 <h5 class="txt-light-green">TPV</h5>
-<p class="txt-white">Over 6 billions USD.</p>
+<p class="txt-white">Mais de 6 bilhões de dólares.</p>
 </div>
 </div>
 <div class="col-6 col-lg-3 d-flex gap-1">
@@ -10333,8 +9487,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <img src="/static/img/icos/ico-10.svg" class="h-2">
 </div>
 <div class="d-flex flex-column justify-content-center">
-<h5 class="txt-light-green">4 Countries</h5>
-<p class="txt-white">With operations</p>
+<h5 class="txt-light-green">4 Países</h5>
+<p class="txt-white">Com operações da FacilitaPay</p>
 </div>
 </div>
 </div>
@@ -10348,9 +9502,9 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <div class="row justify-content-center row-gap-3">
 <div class="col-12 col-md-7 col-lg-5">
 <div class="d-flex flex-column gap-2 pe-5">
-<h2><strong>Our Story</strong></h2>
-<p>FacilitaPay was started with one goal in mind - to close the payments innovation gap that exists between developed countries and emerging economies. We are integrating local payments in emerging economies to global countries with companies operating world-wide. That means we are fully dedicated to delivering a flexible, all-encompassing payments solution that unlocks new revenues and maximizes reach in growth markets. We are incredibly honored to power growth for some of the most visionary companies in the world who inspire us to reach for the impossible every day.</p>
-<p>While FacilitaPay was born in Brazil, we knew that local payment challenges extended well beyond the neighboring countries. Today. our payment coverage includes high-growth, emerging economies in LATAM helping companies based in North America, LatAm, Europe, Africa, and Asia. Our multicultural team is spread between offices in United States, Brazil, Mexico, Colombia and Chile, and we have boots on the ground in every country where we process payments. We are growing rapidly and excited about the future ahead.</p>
+<h2><strong>Nossa história</strong></h2>
+<p>A FacilitaPay foi criada com um objetivo em mente: fechar a lacuna de inovação em pagamentos que existe entre os países desenvolvidos e as economias emergentes. Estamos integrando pagamentos locais em economias emergentes a países globais com empresas que operam em todo o mundo. Isso significa que estamos totalmente dedicados a fornecer uma solução de pagamentos flexível e abrangente, que desbloqueia novas receitas e maximiza o alcance em mercados em crescimento. Estamos incrivelmente honrados em impulsionar o crescimento de algumas das empresas mais visionárias do mundo, que nos inspiram a alcançar o impossível todos os dias.</p>
+<p>Embora a FacilitaPay tenha nascido no Brasil, sabíamos que os desafios locais de pagamento iam muito além dos países vizinhos. Hoje, nossa cobertura de pagamentos inclui economias emergentes e de alto crescimento na América Latina, ajudando empresas sediadas na América do Norte, América Latina, Europa, África e Ásia. Nossa equipe multicultural está distribuída entre escritórios nos Estados Unidos, Brasil, México, Colômbia e Chile, e estamos presentes em todos os países onde processamos pagamentos. Estamos crescendo rapidamente e animados com o futuro que temos pela frente.</p>
 </div>
 </div>
 <div class="col-12 col-md-5 col-lg-4" style="background-image: url(\'/static/img/business-glass-building.jpg\');">
@@ -10375,8 +9529,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <div class="container d-flex flex-column gap-3 pb-4 pt-4">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-6 d-flex flex-column gap-1">
-<h2 class="text-center txt-white"><strong>Our History Started in 2017</strong></h2>
-<p class="text-center txt-white">With a huge goal from start, we built from scratch a payment institution that is leading the technology revolution in crossborder market in LatAm.</p>
+<h2 class="text-center txt-white"><strong>Nossa história começou em 2017</strong></h2>
+<p class="text-center txt-white">Com um grande objetivo desde o início, construímos do zero uma instituição de pagamento que está liderando a revolução tecnológica no mercado transfronteiriço na América Latina.</p>
 </div>
 </div>
 <div class="row row-gap-2">
@@ -10386,36 +9540,36 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2017</strong></h4>
 <div class="d-flex align-items-center gap-1">
 <img src="/static/img/ico-en.svg" class="w-1">
-<h4><strong>Starting the business</strong></h4>
+<h4><strong>O ínicio</strong></h4>
 </div>
-<p>3 partners decided to build a company to disrupt the payment industry in Brazil. Using a small office and with only four colleagues in the team, FacilitaPay goes live.</p>
+<p>3 sócios decidiram criar uma empresa para revolucionar o setor de pagamentos no Brasil. Usando um pequeno escritório com apenas quatro colegas na equipe, a FacilitaPay entra em operação.</p>
 </div>
 </div>
 <div class="item">
 <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2018</strong></h4>
 <div class="d-flex align-items-center gap-1">
-<h4><strong>Developing Integration</strong></h4>
+<h4><strong>Desenvolvimento da integração</strong></h4>
 </div>
-<p>FacilitaPay launch it\'s fully integrated payment stack, available for international companies to access Brazilian market, collecting and sending payments. Reaching more than $1 billion in TPV.</p>
+<p>O FacilitaPay lança sua pilha de pagamentos totalmente integrada, disponível para empresas internacionais acessarem o mercado brasileiro, coletando e enviando pagamentos. Atingindo mais de US$ 1 bilhão em TPV.</p>
 </div>
 </div>
 <div class="item">
 <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2019</strong></h4>
 <div class="d-flex align-items-center gap-1">
-<h4><strong>Scaling the operation</strong></h4>
+<h4><strong>Dimensionamento da operação</strong></h4>
 </div>
-<p>Reaching clients in more than 10 countries and more than $2 billion TPV. FacilitaPay invests in more technology and offers more than 50 payment methods for all the clients.</p>
+<p>Alcançando clientes em mais de 10 países e mais de US$ 2 bilhões de TPV. O FacilitaPay investe em mais tecnologia e oferece mais de 50 métodos de pagamento para todos os clientes.</p>
 </div>
 </div>
 <div class="item">
 <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2020</strong></h4>
 <div class="d-flex align-items-center gap-1">
-<h4><strong>Increasing Features</strong></h4>
+<h4><strong>Aumento dos recursos</strong></h4>
 </div>
-<p>2020 was the year that we started to become a beyond payment platform, integrating more features related with fraud prevention and more payment possibilities, transforming FacilitaPay\'s platform in a open source and payment as a service platform.</p>
+<p>2020 foi o ano em que começamos a ir além de uma plataforma de pagamento, integrando mais recursos relacionados à prevenção de fraudes e mais possibilidades de pagamento, transformando a plataforma FacilitaPay em uma plataforma de código aberto e de pagamento como serviço.</p>
 </div>
 </div>
 
@@ -10424,9 +9578,9 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2021</strong></h4>
 <div class="d-flex align-items-center gap-1">
 <img src="/static/img/ico-mexico.svg" class="w-1">
-<h4><strong>Mexican Operation</strong></h4>
+<h4><strong>Operação no México</strong></h4>
 </div>
-<p>After 8 months developing our expansion model and our Mexican operation, we wen\'t live locally with 10 enterprise clients, using the same APIs to expand to another country. This is just the beginning of our expansion plan.</p>
+<p>Após 8 meses desenvolvendo nosso modelo de exposição e nossa operação no México, começamos a operar localmente com 10 clientes corporativos, usando as mesmas APIs para expandir para outro país. Esse é apenas o início de nosso plano de expansão.</p>
 </div>
 </div>
 
@@ -10434,9 +9588,9 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2022</strong></h4>
 <div class="d-flex align-items-center gap-1">
-<h4><strong>More Footprint Expansion</strong></h4>
+<h4><strong>Mais expansão da pegada</strong></h4>
 </div>
-<p>Expanding to Colombia and building our crypto as a service network helped FacilitaPay to achieve 350% growth during 2022, helping more clients to expand globally.</p>
+<p>A expansão para a Colômbia e a criação de nossa rede de criptografia como serviço ajudaram a FacilitaPay a atingir um crescimento de 350% em 2022, ajudando mais clientes a se expandirem globalmente.</p>
 </div>
 </div>
 
@@ -10444,9 +9598,9 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <div class="item bg-white border-radius d-flex flex-column gap-1 p-2">
 <h4 class="txt-flag border-radius-100 me-auto"><strong>2023</strong></h4>
 <div class="d-flex align-items-center gap-1">
-<h4><strong>More growth to come</strong></h4>
+<h4><strong>Mais crescimento por vir</strong></h4>
 </div>
-<p>Executing more steps in our roadmap, we\'re adding more payment corridors to our payment network and more banking features to our platform, helping our clients to keep their global expansion through our banking platform. We\'re excited to deliver more and more to the market.</p>
+<p>Executando mais etapas em nosso roteiro, estamos adicionando mais corredores de pagamento à nossa rede de pagamentos e mais recursos bancários à nossa plataforma, ajudando nossos clientes a manter sua expansão global por meio de nossa plataforma bancária. Estamos animados para oferecer mais e mais ao mercado.</p>
 </div>
 </div>
 </div>
@@ -10462,8 +9616,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 <div class="container text-center pt-4">
 <div class="row justify-content-center">
 <div class="col-12 d-flex flex-column gap-1" id="welcome">
-<h6>welcome to latam</h6>
-<h2><strong>Accept all payment methods available in each country</strong></h2>
+<h6>Bem-vindo à América Latina</h6>
+<h2><strong>Aceite todos os métodos de pagamento disponíveis em cada país</strong></h2>
 </div>
 </div>
 <div class="row">
@@ -10531,7 +9685,8 @@ RECURSOSEn FacilitaPay ofrecemos soluciones prácticas e innovadoras para tu emp
 </div>
 
 
-<div class="h-2 bg-white"></div>',
+<div class="h-2 bg-white"></div>
+',
                 'css' => '* { box-sizing: border-box; } body {margin: 0;}',
                 'metatitle' => 'About Us',
                 'slug' => NULL,
@@ -10896,115 +10051,13 @@ Nuestra historia comenzó en 2017Con un gran objetivo desde el principio, constr
                 'pages_id' => 22,
                 'locale' => 'pt',
                 'title' => 'Contact Us',
-                'html' => '<section class="contact" style="">
-<div class="container pt-4">
-<div class="row d-flex row-gap-4 justify-content-between">
-<div class="col-1 d-none d-lg-flex align-items-end justify-content-end">
-<img src="/static/img/squares-2.svg">
-</div>
-<div class="col-12 col-lg-5 d-flex flex-column gap-3">
-<div class="d-flex flex-column gap-1">
-<h2><strong>Contact us</strong></h2>
-<p>Feel free to contact us any time, <br>we will get back to you as soon we can!</p>
-</div>
-<form action="send-contact-email.php" method="POST" class="d-flex flex-column gap-2">
-<fieldset class="d-flex flex-wrap gap-2">
-<div class="form-group d-flex flex-column w-100">
-<input name="firstName" type="text" class="form-control" id="firstName" placeholder=" " required>
-<label for="firstName">Name</label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<input name="email" type="text" class="form-control" id="email" placeholder=" " required>
-<label for="email">Email</label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<textarea id="message" rows="4" cols="50" placeholder=" " required></textarea>
-<label name="message" for="message">Message</label>
-</div>
-<div class="form-group d-flex flex-column w-100">
-<button type="submit" class="btn"><strong>Send now</strong></button>
-</div>
-</fieldset>
-</form>
-</div>
-<div class="col-12 col-lg-5 bg-white align-items-center">
-<div class="d-flex flex-column gap-3 ps-5 pb-5 pt-5">
-<h4><strong>Info</strong></h4>
-<div class="d-flex flex-column row-gap-3 gap-2">
-<div class="d-flex flex-column flex-lg-row align-items-center gap-2">
-<div class="d-flex justify-content-center w-5">
-<img src="/static/img/ico-mail.svg">
-</div>
-<div class="d-flex txt-blue justify-content-center flex-column">
-<p>hello@facilitapay.com</p>
-</div>
-</div>
-<div class="d-flex flex-column flex-lg-row align-items-center gap-2">
-<div class="d-flex justify-content-center w-5">
-<img src="/static/img/ico-phone.svg">
-</div>
-<div class="d-flex txt-blue justify-content-center flex-column">
-<p>+1 855 343 5227</p>
-<p>+55 31 3195.6300</p>
-</div>
-</div>
-<div class="d-flex flex-column flex-lg-row align-items-center gap-2">
-<div class="d-flex justify-content-center w-5">
-<img src="/static/img/ico-pin-2.svg">
-</div>
-<div class="d-flex txt-blue justify-content-center flex-column">
-<p>201 S Biscayne Blvd, 12th Floor <br>Miami, Fl 33131</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-2"></div>
-
-
-
-<section class="slider">
-<div class="container d-flex flex-column gap-2 pb-4 pt-4">
-<div class="row">
-<div class="col-12 d-flex flex-column align-items-center">
-<h6>Trusted by tech giants:</h6>
-</div>
-</div>
-<div class="row">
-<div class="col-12">
-<div class="owl-carousel owl-partners owl-theme">
-<div class="item"><img src="/static/img/logos/kraken.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/stake.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/bybit-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/sproutfi.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/bitso-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/tickmill.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/okx-blue.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/wyre.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/okcoin.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/angloamerican.png"  style="fill: blue; height: 35px; width: auto;"></div>
-<div class="item"><img src="/static/img/logos/bit2me.png" class="img-fluid" style="fill: blue; height: 35px; width: auto;"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4"></div>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+                'html' => '<section class="contact"><div class="container pt-4"><div class="row d-flex row-gap-4 justify-content-between"><div class="col-1 d-none d-lg-flex align-items-end justify-content-end"><img src="/static/img/squares-2.svg"/></div><div class="col-12 col-lg-5 d-flex flex-column gap-3"><div class="d-flex flex-column gap-1"><h2><strong>Contact us</strong></h2><p id="ipdl3">Sinta-se à vontade para entrar em contato conosco, nosso time irá retornar o mais breve possível!</p></div><form action="send-contact-email.php" method="POST" class="d-flex flex-column gap-2"><fieldset class="d-flex flex-wrap gap-2"><div class="form-group d-flex flex-column w-100"><input name="firstName" type="text" id="firstName" placeholder=" " required class="form-control"/><label for="firstName" id="irya9">Nome</label></div><div class="form-group d-flex flex-column w-100"><input name="email" type="text" id="email" placeholder=" " required class="form-control"/><label for="email">Email</label></div><div class="form-group d-flex flex-column w-100"><textarea id="message" rows="4" cols="50" placeholder=" " required></textarea><label name="message" for="message" id="ipys2">Mensagem</label></div><div class="form-group d-flex flex-column w-100"><button type="submit" class="btn"><strong id="i38px">Enviar</strong></button></div></fieldset></form></div><div class="col-12 col-lg-5 bg-white align-items-center"><div class="d-flex flex-column gap-3 ps-5 pb-5 pt-5"><h4><strong>Info</strong></h4><div class="d-flex flex-column row-gap-3 gap-2"><div class="d-flex flex-column flex-lg-row align-items-center gap-2"><div class="d-flex justify-content-center w-5"><img src="/static/img/ico-mail.svg"/></div><div class="d-flex txt-blue justify-content-center flex-column"><p>hello@facilitapay.com</p></div></div><div class="d-flex flex-column flex-lg-row align-items-center gap-2"><div class="d-flex justify-content-center w-5"><img src="/static/img/ico-phone.svg"/></div><div class="d-flex txt-blue justify-content-center flex-column"><p>+1 855 343 5227</p><p>+55 31 3195.6300</p></div></div><div class="d-flex flex-column flex-lg-row align-items-center gap-2"><div class="d-flex justify-content-center w-5"><img src="/static/img/ico-pin-2.svg"/></div><div class="d-flex txt-blue justify-content-center flex-column"><p>201 S Biscayne Blvd, 12th Floor <br/>Miami, Fl 33131</p></div></div></div></div></div></div></div></section><div class="h-2"></div><section class="slider"><div class="container d-flex flex-column gap-2 pb-4 pt-4"><div class="row"><div class="col-12 d-flex flex-column align-items-center"><h6>Trusted by tech giants:</h6></div></div><div class="row"><div class="col-12"><div class="owl-carousel owl-partners owl-theme"><div class="item"><img src="/static/img/logos/kraken.png" id="ia7xd" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/stake.png" id="i7tuj" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bybit-blue.png" id="ihbje" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/sproutfi.png" id="i4jwd" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/bitso-blue.png" id="iseyh" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/tickmill.png" id="icwip" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okx-blue.png" id="indgi" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/wyre.png" id="ijeew" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/okcoin.png" id="il1dd" class="img-fluid"/></div><div class="item"><img src="/static/img/logos/angloamerican.png" id="ikga6"/></div><div class="item"><img src="/static/img/logos/bit2me.png" id="ioldq" class="img-fluid"/></div></div></div></div></div></section><div class="h-4"></div>',
+                'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#ia7xd{fill:blue;height:35px;width:auto;}#i7tuj{fill:blue;height:35px;width:auto;}#ihbje{fill:blue;height:35px;width:auto;}#i4jwd{fill:blue;height:35px;width:auto;}#iseyh{fill:blue;height:35px;width:auto;}#icwip{fill:blue;height:35px;width:auto;}#indgi{fill:blue;height:35px;width:auto;}#ijeew{fill:blue;height:35px;width:auto;}#il1dd{fill:blue;height:35px;width:auto;}#ikga6{fill:blue;height:35px;width:auto;}#ioldq{fill:blue;height:35px;width:auto;}',
                 'metatitle' => 'Contact Us',
                 'slug' => NULL,
-                'metadescription' => NULL,
+                'metadescription' => 'Contact usSinta-se à vontade para entrar em contato conosco, nosso time irá retornar o mais breve possível!NomeEmailMensagemEnviarInfohello@facilitapay.com+1 855 343 5227+55 31 3195.6300201 S Biscayne Blvd, 12th Floor Miami, Fl 33131Trusted by tech giants:',
                 'created_at' => '2023-05-30 18:00:22',
-                'updated_at' => '2023-05-30 18:00:22',
+                'updated_at' => '2023-06-02 18:39:25',
             ),
             35 => 
             array (
@@ -11122,95 +10175,15 @@ Nuestra historia comenzó en 2017Con un gran objetivo desde el principio, constr
                 'pages_id' => 23,
                 'locale' => 'pt',
                 'title' => 'Careers',
-                'html' => '<section class="hero-5">
-<div class="container d-flex flex-column gap-3 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-9 d-flex flex-column gap-2">
-<div class="d-flex flex-column gap-1 text-center">
-<h6 class="txt-light-green">CAREERS</h6>
-<h3 class="txt-white"><strong>Write the next chapter of your story with FacilitaPay</strong></h3>
-<p class="txt-white">Since the beginning of our history, we have been bringing together people who are committed, dedicated and who dream big of revolutionizing the payments market. People who agree make the history of your best professional years together with Facilitapay.</p>
-</div>
-</div>
-</div>
-<div class="row justify-content-center">
-<div class="col-6 col-lg-3">
-<img src="/static/img/colaborator.png" class="img-fluid">
-</div>
-<div class="col-6 col-lg-5 d-flex flex-column justify-content-center">
-<div class="d-flex flex-column gap-1">
-<h4 class="txt-light-green">“It is possible to work in the same place where every day I develop myself, know myself and express myself authentically.”</h4>
-<div>
-<p class="txt-white"><strong>Julia Bianchetti</strong></p>
-<h6 class="txt-white">BACKOFFICE LEAD</h6>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="content-1 bg-white">
-<div class="container d-flex flex-column gap-2 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-12 d-flex flex-column gap-2">
-<h2><strong>Open Positions</strong></h2>
-<p>FacilitaPay is a global fintech that was founded in 2017 with the mission of providing a payment platform that connects international companies from different industries to LatAm countries, facilitating their local payments and helping them with the global expansion. <br><br>We\'re growing our team and seeking for more people in our team, helping to create more opportunities and developing new projects with our potential clients.</p>
-</div>
-<div class="col-12 col-lg-2">
-</div>
-</div>
-</div>
-</section>
-
-
-
-<section class="table-2 bg-white">
-<div class="container d-flex flex-column gap-4 pt-4">
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8">
-<table cellpadding="0" cellspacing="0" class="w-100">
-<tr>
-<th>JOB POSITION</th>
-<th>LOCATION</th>
-<th>DEPARTMENT</th>
-<th>DATE</th>
-</tr>
-<tr>
-<td class="txt-blue">Corporate Development</td>
-<td>Remote</td>
-<td>Sales</td>
-<td>January 1, 2023</td>
-</tr>
-<tr>
-<td class="txt-blue">Compliance Officer</td>
-<td>Argentina (Hybrid)</td>
-<td>Development</td>
-<td>January 1, 2023</td>
-</tr>
-</table>
-</div>
-</div>
-<div class="row justify-content-center">
-<div class="col-12 col-lg-8 flex-column align-items-center d-flex gap-2">
-<a href="submit-cv.php" class="btn"><strong>Submit your CV</strong></a>
-<!--                <a href="#!" class="d-flex txt-blue"><img src="/static/img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>-->
-</div>
-</div>
-</div>
-</section>
-
-
-
-<div class="h-4 bg-white"></div>',
-                'css' => '* { box-sizing: border-box; } body {margin: 0;}',
+                'html' => '<section class="hero-5"><div class="container d-flex flex-column gap-3 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-9 d-flex flex-column gap-2"><div class="d-flex flex-column gap-1 text-center"><h6 class="txt-light-green">Carreiras</h6><h3 class="txt-white"><strong id="i1ub">Escreva o próximo capítulo de sua história com a FacilitaPay</strong></h3><p class="txt-white">Desde o início de nossa história, reunimos pessoas comprometidas, dedicadas e que sonham alto em revolucionar o mercado de pagamentos. Pessoas que concordam em fazer a história de seus melhores anos profissionais junto com a Facilitapay.</p></div></div></div><div class="row justify-content-center"><div class="col-6 col-lg-3"><img src="/static/img/colaborator.png" class="img-fluid"/></div><div class="col-6 col-lg-5 d-flex flex-column justify-content-center"><div class="d-flex flex-column gap-1"><h4 class="txt-light-green">“É possível trabalhar em um mesmo lugar onde todos os dias eu me desenvolvo, me conheço e me expresso com autenticidade.”</h4><div><p class="txt-white"><strong>Julia Bianchetti</strong></p><h6 class="txt-white">LÍDER DE BACKOFFICE</h6></div></div></div></div></div></section><section class="content-1 bg-white"><div class="container d-flex flex-column gap-2 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-12 d-flex flex-column gap-2"><h2><strong id="iz949">Vagas disponíveis</strong></h2><p id="iv5cb">A FacilitaPay é uma fintech global que foi fundada em 2017 com a missão de fornecer uma plataforma de pagamento que conecta empresas internacionais de diferentes setores aos países da América Latina, facilitando seus pagamentos locais e ajudando-as na expansão global.<br/><br/>Estamos aumentando nossa equipe e buscando mais pessoas em nosso time, ajudando a criar mais oportunidades e desenvolvendo novos projetos com nossos clientes em potencial.<br/></p></div><div class="col-12 col-lg-2">
+</div></div></div></section><section class="table-2 bg-white"><div class="container d-flex flex-column gap-4 pt-4"><div class="row justify-content-center"><div class="col-12 col-lg-8"><table cellpadding="0" cellspacing="0" class="w-100"><tbody><tr><th>JOB POSITION</th><th>LOCATION</th><th>DEPARTMENT</th><th>DATE</th></tr><tr><td class="txt-blue">Corporate Development</td><td>Remote</td><td>Sales</td><td>January 1, 2023</td></tr><tr><td class="txt-blue">Compliance Officer</td><td>Argentina (Hybrid)</td><td>Development</td><td>January 1, 2023</td></tr></tbody></table></div></div><div class="row justify-content-center"><div class="col-12 col-lg-8 flex-column align-items-center d-flex gap-2"><a href="submit-cv.php" class="btn"><strong id="ify9p">Envie seu Currículo</strong></a><!--                <a href="#!" class="d-flex txt-blue"><img src="/static/img/ico-linkedin-2.svg" class="h-1"> <strong>Connect with Linkedin</strong></a>--></div></div></div></section><div class="h-4 bg-white"></div>',
+                'css' => '* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}',
                 'metatitle' => 'Careers',
                 'slug' => NULL,
-                'metadescription' => NULL,
+                'metadescription' => 'CarreirasEscreva o próximo capítulo de sua história com a FacilitaPayDesde o início de nossa história, reunimos pessoas comprometidas, dedicadas e que sonham alto em revolucionar o mercado de pagamentos. Pessoas que concordam em fazer a história de seus melhores anos profissionais junto com a Facilitapay.“É possível trabalhar em um mesmo lugar onde todos os dias eu me desenvolvo, me conheço e me expresso com autenticidade.”Julia BianchettiLÍDER DE BACKOFFICEVagas disponíveisA FacilitaPay é uma fintech global que foi fundada em 2017 com a missão de fornecer uma plataforma de pagamento que conecta empresas internacionais de diferentes setores aos países da América Latina, facilitando seus pagamentos locais e ajudando-as na expansão global.Estamos aumentando nossa equipe e buscando mais pessoas em nosso time, ajudando a criar mais oportunidades e desenvolvendo novos projetos com nossos clientes em potencial.
+JOB POSITIONLOCATIONDEPARTMENTDATECorporate DevelopmentRemoteSalesJanuary 1, 2023Compliance OfficerArgentina (Hybrid)DevelopmentJanuary 1, 2023Envie seu Currículo Connect with Linkedin-->',
                 'created_at' => '2023-05-30 18:02:41',
-                'updated_at' => '2023-05-30 18:02:41',
+                'updated_at' => '2023-06-02 18:41:05',
             ),
             38 => 
             array (

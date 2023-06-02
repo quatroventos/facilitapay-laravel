@@ -8,7 +8,7 @@ return [
     'payins' => 'Payins',
     'payouts' => 'Payouts',
     'pix_global' => 'PIX Global',
-    'payment_methods' => 'Modalidades de Pagamento',
+    'payment_methods' => 'Métodos de Pagamento',
     'industries' => 'Industrias',
     'brazil' => 'Brasil',
     'new' => 'Novo',
