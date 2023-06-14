@@ -19,3 +19,12 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 </IfModule>
+
+#Wordpress
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Redirecionar todas as solicitações para o diretório "blog"
+    RewriteCond %{REQUEST_URI} !^/blog/
+    RewriteRule ^(.*)$ /blog/$1 [L]
+</IfModule>

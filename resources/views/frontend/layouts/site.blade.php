@@ -160,9 +160,9 @@
                                     <li>
                                         <a href="contact">{{trans('navigation.contact_us')}}</a>
                                     </li>
-                                    <!--                                    <li>-->
-                                    <!--                                        <a href="blog.php">Blog</a>-->
-                                    <!--                                    </li>-->
+                                    <li>
+                                        <a href="blog">Blog</a>
+                                    </li>
                                     <li>
                                         <a href="careers">{{trans('navigation.careers')}}</a>
                                     </li>

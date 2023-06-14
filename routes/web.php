@@ -186,4 +186,8 @@ Route::group(['prefix' => LaravelLocalization::setLocale()], function () {
 });
 
 
+Route::get('/blog/{any}', function ($any) {
+    return require public_path('blog/index.php');
+})->where('any', '.*');
+
 
