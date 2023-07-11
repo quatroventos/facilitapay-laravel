@@ -63,6 +63,26 @@
             })(window,document,'script','dataLayer','GTM-KRRQPD5');</script>
         <!-- End Google Tag Manager -->
 
+        <script>
+            window.addEventListener("message", function(event){
+                if (!event.data.event_id) {
+                    return;
+                }
+
+                switch (event.data.event_id) {
+                    case "chatting":
+                        // evento do GTM
+                        gtag("event", "Contact", event.data.params);
+                        break;
+
+                    case "lead":
+                        // evento do GTM
+                        gtag("event", "Lead", event.data.params);
+                        break;
+                }
+            }, false);
+        </script>
+
     </head>
 
 

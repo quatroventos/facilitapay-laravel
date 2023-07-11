@@ -171,13 +171,24 @@
                                 <div class="input-group">
                                     <span class="input-group-text" style="padding-right: 0;">{{ env('APP_URL') }}/</span>
                                     <input type="text" id="meta-url" name="slug" class="form-control" aria-label="" value="{{ old('slug', $page->slug) }}">
+                                    <button class="btn btn-primary" type="button" data-toggle="tooltip" data-placement="top" title="Atualizar Slug" id="seo-update-slug" style="margin:0;">
+                                        <i class="fa-solid fa-arrows-rotate"></i>
+                                    </button>
                                 </div>
 
                                 <label class="mt-4 form-label" for="installments">Título</label>
-                                <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle', $translation->metatitle) }}"/>
+                                <div class="input-group">
+                                    <input type="text" name="metatitle" id="meta-title" class="form-control" maxlength="60" value="{{ old('metatitle', $translation->metatitle) }}"/>
+                                    <button class="btn btn-primary" type="button" data-toggle="tooltip" data-placement="top" title="Atualizar Slug" id="seo-update-title" style="margin:0;">
+                                        <i class="fa-solid fa-arrows-rotate"></i>
+                                    </button>
+                                </div>
 
                                 <label class="mt-4 form-label" for="metadescription">Descrição</label>
-                                <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription', $translation->metadescription) }}</textarea>
+                                <div class="input-group">
+                                    <textarea id="meta-desc" class="form-control" name="metadescription" maxlength="155">{{ old('metadescription', $translation->metadescription) }}</textarea>
+                                    <button class="btn btn-primary" type="button" data-toggle="tooltip" data-placement="top" title="Atualizar Slug" id="seo-update-meta" style="margin:0;"><i class="fa-solid fa-arrows-rotate"></i></button>
+                                </div>
                             </div>
                             <div class="col-md-5">
                                 <div class="card card-frame" style="margin-bottom: 10px; background: url('{{asset('/assets/img/seo-preview.webp')}}') no-repeat center center; background-size:cover; height: 300px; padding:70px 10px; margin-top:50px; border:1px solid #CCCCCC; ">
@@ -285,10 +296,6 @@
             // store contents on temporary inputs
             $('#html').val(editor.getHtml());
             $('#css').val(editor.getCss());
-
-            //update SEO metadesc
-            var cleanHTML = editor.getHtml().replace(/<\/?[^>]+(>|$)/g, "")
-            $('#meta-desc').val(cleanHTML);
         }
 
 
@@ -359,9 +366,13 @@
     </script>
 
     <script>
-        $("#title").on("keyup", function(e) {
+        $("#seo-update-title").on("click", function(e) {
+            var title = $('#title').val();
+            $('#meta-title').val(title.slice(0, 60));
+        });
 
-            var title = $(this).val();
+        $("#seo-update-slug").on("click", function(e) {
+            var title = $('#title').val();
             var url = title.toString().toLowerCase()
                 .replace(/[àÀáÁâÂãäÄÅåª]+/g, 'a')       // Special Characters #1
                 .replace(/[èÈéÉêÊëË]+/g, 'e')       	// Special Characters #2
@@ -381,9 +392,13 @@
                 .replace(/^-+/, '')             		// Trim - from start of text
                 .replace(/-+$/, '');            		// Trim - from end of text
 
-            $('#meta-title').val(title.slice(0, 60));
             $('#meta-url').val(url);
-
+        });
+        $("#seo-update-meta").on("click", function(e) {
+            //update SEO metadesc
+            // var cleanHTML = editor.getHtml().replace(/<\/?[^>]+(>|$)/g, "")
+            var cleanHTML = editor.getHtml().replace(/<[^>]*>/g, '');
+            $('#meta-desc').val(cleanHTML.substring(0, 155));
         });
 
         $.seoPreview({

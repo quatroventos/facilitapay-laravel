@@ -15,6 +15,7 @@ use App\Http\Controllers\BlocksController;
 use App\Http\Controllers\NewsletterController;
 use App\Http\Controllers\PartnersController;
 use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
+use Spatie\Sitemap\SitemapGenerator;
 
 
 
@@ -34,6 +35,12 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 Route::get('/admin', function () {
 	return redirect('admin/default');
 })->middleware('auth');
+
+// Sitemap
+Route::get('/sitemap.xml', function () {
+    SitemapGenerator::create(config('app.url'))->writeToFile(public_path('sitemap.xml'));
+    return 'Sitemap gerado com sucesso!';
+});
 
 Route::group(['prefix' => '/admin'], function () {
 
@@ -118,6 +125,8 @@ Route::group(['prefix' => '/admin', 'middleware' => 'auth'], function () {
         Route::post('/newsletter-delete/{id}', 'destroy')->name('newsletter-destroy');
         Route::get('/newsletter-export', 'export')->name('newsletter-export');
     });
+
+
 
     Route::get('/authentication/sign-in/{page}', [PageController::class, 'signins'])->name('signins');
 
