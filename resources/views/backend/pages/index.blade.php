@@ -59,9 +59,9 @@
                                     <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
                                         Título
                                     </th>
-                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
-                                        Resumo
-                                    </th>
+{{--                                    <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">--}}
+{{--                                        Resumo--}}
+{{--                                    </th>--}}
                                     <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7" width="100">
                                         Data de criação
                                     </th>
@@ -77,7 +77,7 @@
                                 @foreach ($pages as $page)
                                     <tr>
                                         <td class="text-sm font-weight-normal">{{ $page->title }}</td>
-                                        <td class="text-sm font-weight-normal">{{ Str::limit($page->metadescription, 70) }}</td>
+{{--                                        <td class="text-sm font-weight-normal">{{ Str::limit($page->metadescription, 70) }}</td>--}}
                                         <td class="text-sm font-weight-normal">{{ $page->createdAt() }}</td>
                                         <td class="text-sm font-weight-normal">{{ $page->modifiedAt() }}</td>
                                         <td class="text-sm">
